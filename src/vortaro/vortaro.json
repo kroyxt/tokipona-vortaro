@@ -1,0 +1,6479 @@
+[
+  {
+    "vorto": "a",
+    "traduko": {
+      "angla": [
+        "ah",
+        "oh",
+        "ha",
+        "ooh",
+        "uh",
+        "gosh",
+        "whoa",
+        "wow",
+        "um",
+        "huh"
+      ],
+      "esperanto": [
+        "ha",
+        "hej"
+      ],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "akesi",
+    "traduko": {
+      "angla": [
+        "reptile",
+        "frog"
+      ],
+      "esperanto": [],
+      "hispana": [
+        "reptil",
+        "sapo"
+      ]
+    }
+  },
+  {
+    "vorto": "akesi kiwen",
+    "traduko": {
+      "angla": [
+        "turtle"
+      ],
+      "esperanto": [],
+      "hispana": [
+        "tortuga"
+      ]
+    }
+  },
+  {
+    "vorto": "akesi linja",
+    "traduko": {
+      "angla": [
+        "snake"
+      ],
+      "esperanto": [],
+      "hispana": [
+        "serpiente"
+      ]
+    }
+  },
+  {
+    "vorto": "akesi seli",
+    "traduko": {
+      "angla": [
+        "dragon"
+      ],
+      "esperanto": [],
+      "hispana": [
+        "dragon"
+      ]
+    }
+  },
+  {
+    "vorto": "ala",
+    "traduko": {
+      "angla": [
+        "none",
+        "not",
+        "zero",
+        "no",
+        "nothing",
+        "neither"
+      ],
+      "esperanto": [
+        "ne",
+        "nulo",
+        "nenio",
+        "neniu"
+      ],
+      "hispana": [
+        "no",
+        "cero",
+        "nada",
+        "nadie"
+      ]
+    }
+  },
+  {
+    "vorto": "alasa",
+    "traduko": {
+      "angla": [
+        "hunt",
+        "hunting",
+        "search",
+        "pursuit",
+        "pursue",
+        "gather",
+        "finding",
+        "seek",
+        "explore"
+      ],
+      "esperanto": [],
+      "hispana": [
+        "cazar",
+        "buscar",
+        "explorar",
+        "perseguir",
+        "cosechar",
+        "encontrar"
+      ]
+    }
+  },
+  {
+    "vorto": "alasa kala",
+    "traduko": {
+      "angla": [
+        "fishing"
+      ],
+      "esperanto": [
+        "fiŝkapti"
+      ],
+      "hispana": [
+        "pescar"
+      ]
+    }
+  },
+  {
+    "vorto": "ale",
+    "traduko": {
+      "angla": [
+        "every",
+        "everything",
+        "all",
+        "entire",
+        "universal",
+        "completely",
+        "total",
+        "entirely",
+        "universe",
+        "altogether",
+        "comprehensive"
+      ],
+      "esperanto": [],
+      "hispana": [
+        "todo",
+        "entero",
+        "universal",
+        "completo",
+        "total",
+        "todo junto"
+      ]
+    }
+  },
+  {
+    "vorto": "ale la",
+    "traduko": {
+      "angla": [
+        "overall"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "anpa",
+    "traduko": {
+      "angla": [
+        "down",
+        "bottom",
+        "lower",
+        "defeat",
+        "below",
+        "beneath"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ante",
+    "traduko": {
+      "angla": [
+        "changing",
+        "other",
+        "different",
+        "alter",
+        "modify",
+        "alternative",
+        "change",
+        "convert",
+        "edit",
+        "difference",
+        "transformation",
+        "distinct",
+        "differently",
+        "vary",
+        "transform",
+        "variation",
+        "contrast",
+        "distinction",
+        "replace",
+        "switch",
+        "another",
+        "else",
+        "conversion",
+        "adjustment"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ante la",
+    "traduko": {
+      "angla": [
+        "otherwise"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "anu",
+    "traduko": {
+      "angla": [
+        "or",
+        "whether",
+        "choice"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "awen",
+    "traduko": {
+      "angla": [
+        "wait",
+        "await",
+        "stay",
+        "preserve",
+        "remain",
+        "sustain",
+        "retain",
+        "defend",
+        "endure",
+        "continued",
+        "continue",
+        "secure",
+        "continuing",
+        "save",
+        "protect",
+        "keep",
+        "still",
+        "reserve",
+        "protection",
+        "remaining",
+        "continuous",
+        "stability",
+        "maintain",
+        "safe",
+        "security",
+        "stable",
+        "protective",
+        "constant",
+        "defence",
+        "left (remaining)"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "awen sona",
+    "traduko": {
+      "angla": [
+        "remember"
+      ],
+      "esperanto": [
+        "memori"
+      ],
+      "hispana": [
+        "recordar"
+      ]
+    }
+  },
+  {
+    "vorto": "en",
+    "traduko": {
+      "angla": [
+        "and",
+        "plus"
+      ],
+      "esperanto": [
+        "kaj"
+      ],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "epiku",
+    "traduko": {
+      "angla": [
+        "epic"
+      ],
+      "esperanto": [],
+      "hispana": [
+        "epico"
+      ]
+    }
+  },
+  {
+    "vorto": "esun",
+    "traduko": {
+      "angla": [
+        "trading",
+        "trade",
+        "shopping",
+        "deal",
+        "commerce",
+        "sales",
+        "purchase",
+        "buy",
+        "transaction",
+        "market",
+        "sale",
+        "exchange",
+        "sell",
+        "retail",
+        "business",
+        "shop"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ijo",
+    "traduko": {
+      "angla": [
+        "item",
+        "something",
+        "object",
+        "stuff",
+        "thing",
+        "entity",
+        "phenomenon",
+        "material",
+        "matter (n)",
+        "substance",
+        "anything"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ijo esun",
+    "traduko": {
+      "angla": [
+        "commodity"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ijo pana",
+    "traduko": {
+      "angla": [
+        "gift"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ike",
+    "traduko": {
+      "angla": [
+        "bad",
+        "harsh",
+        "badly",
+        "mean (adj)",
+        "evil",
+        "negative",
+        "problem",
+        "horrible",
+        "terrible",
+        "unfortunate",
+        "poorly",
+        "offensive",
+        "awful",
+        "trouble",
+        "tragic",
+        "cruel",
+        "wrong",
+        "complexity",
+        "issue",
+        "inappropriate"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ike la",
+    "traduko": {
+      "angla": [
+        "unfortunately",
+        "sadly"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ike lukin",
+    "traduko": {
+      "angla": [
+        "ugly"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo",
+    "traduko": {
+      "angla": [
+        "tool",
+        "device",
+        "equipment",
+        "machine",
+        "app",
+        "hardware",
+        "robot",
+        "technological",
+        "mechanical",
+        "gear",
+        "tech",
+        "mechanism",
+        "technical",
+        "software"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo kalama",
+    "traduko": {
+      "angla": [
+        "radio",
+        "bell"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo kipisi",
+    "traduko": {
+      "angla": [
+        "knife"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo moku",
+    "traduko": {
+      "angla": [
+        "fork"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo musi",
+    "traduko": {
+      "angla": [
+        "toy"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo open",
+    "traduko": {
+      "angla": [
+        "key"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo pi sitelen tawa",
+    "traduko": {
+      "angla": [
+        "television"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo sitelen",
+    "traduko": {
+      "angla": [
+        "pen",
+        "camera"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo sona",
+    "traduko": {
+      "angla": [
+        "computer"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo suno",
+    "traduko": {
+      "angla": [
+        "lamp"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo tawa",
+    "traduko": {
+      "angla": [
+        "motor"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo tenpo",
+    "traduko": {
+      "angla": [
+        "clock"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo tenpo suno",
+    "traduko": {
+      "angla": [
+        "sundial"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo toki",
+    "traduko": {
+      "angla": [
+        "telephone",
+        "phone"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ilo utala",
+    "traduko": {
+      "angla": [
+        "weapon"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "insa",
+    "traduko": {
+      "angla": [
+        "internal",
+        "inner",
+        "interior",
+        "centre",
+        "guts",
+        "core",
+        "central",
+        "inside",
+        "middle",
+        "belly",
+        "stomach"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "insa pi ma tomo",
+    "traduko": {
+      "angla": [
+        "downtown"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jaki",
+    "traduko": {
+      "angla": [
+        "dirty",
+        "trash",
+        "gross",
+        "garbage",
+        "mess",
+        "disgusting",
+        "junk",
+        "bacteria",
+        "nasty",
+        "crap",
+        "waste",
+        "toxic",
+        "infection"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jaki ala",
+    "traduko": {
+      "angla": [
+        "clean"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan",
+    "traduko": {
+      "angla": [
+        "person",
+        "human",
+        "people",
+        "anybody",
+        "dude",
+        "anyone",
+        "somebody",
+        "character",
+        "guy",
+        "being"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan ala",
+    "traduko": {
+      "angla": [
+        "nobody"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan alasa",
+    "traduko": {
+      "angla": [
+        "hunter"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan ale",
+    "traduko": {
+      "angla": [
+        "everybody",
+        "everyone",
+        "humanity"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan awen",
+    "traduko": {
+      "angla": [
+        "defender",
+        "guard",
+        "defendant"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan esun",
+    "traduko": {
+      "angla": [
+        "vendor",
+        "businessperson",
+        "retailer",
+        "customer",
+        "consumer"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan ike",
+    "traduko": {
+      "angla": [
+        "offender",
+        "asshole",
+        "enemy"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan jo",
+    "traduko": {
+      "angla": [
+        "owner"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan kama",
+    "traduko": {
+      "angla": [
+        "visitor"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan kepeken",
+    "traduko": {
+      "angla": [
+        "user"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan kulupu",
+    "traduko": {
+      "angla": [
+        "member"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan kute",
+    "traduko": {
+      "angla": [
+        "listener",
+        "audience"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan lawa",
+    "traduko": {
+      "angla": [
+        "boss",
+        "administrator",
+        "leader",
+        "supervisor",
+        "chief",
+        "commander",
+        "manager",
+        "captain",
+        "master",
+        "chairman",
+        "director",
+        "president",
+        "governor",
+        "minister",
+        "officer",
+        "emperor",
+        "congressman",
+        "senator",
+        "king",
+        "employer",
+        "sheriff",
+        "coordinator",
+        "mayor",
+        "lawmaker",
+        "politician"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan lili",
+    "traduko": {
+      "angla": [
+        "child",
+        "baby"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan lukin",
+    "traduko": {
+      "angla": [
+        "viewer",
+        "observer",
+        "witness",
+        "inspector",
+        "reader"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan ma",
+    "traduko": {
+      "angla": [
+        "citizen"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan mani",
+    "traduko": {
+      "angla": [
+        "banker"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan moku",
+    "traduko": {
+      "angla": [
+        "eater",
+        "chef"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan moli",
+    "traduko": {
+      "angla": [
+        "dead person",
+        "killer"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan musi",
+    "traduko": {
+      "angla": [
+        "player",
+        "performer",
+        "actor"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan olin",
+    "traduko": {
+      "angla": [
+        "lover",
+        "spouse",
+        "sweetheart",
+        "beloved",
+        "wife"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pali",
+    "traduko": {
+      "angla": [
+        "worker",
+        "maker",
+        "employee",
+        "producer",
+        "developer",
+        "participant",
+        "practitioner",
+        "manufacturer",
+        "personnel",
+        "creator",
+        "contractor"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pana",
+    "traduko": {
+      "angla": [
+        "provider",
+        "donor",
+        "dealer"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pi alasa sona",
+    "traduko": {
+      "angla": [
+        "researcher",
+        "detective"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pi kalama musi",
+    "traduko": {
+      "angla": [
+        "musician"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pi kama jo",
+    "traduko": {
+      "angla": [
+        "receiver",
+        "recipient"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pi kama sona",
+    "traduko": {
+      "angla": [
+        "learner",
+        "student"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pi kama suli",
+    "traduko": {
+      "angla": [
+        "teenager"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pi mute lili",
+    "traduko": {
+      "angla": [
+        "few (a few people)"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pi pana sona",
+    "traduko": {
+      "angla": [
+        "educator",
+        "instructor",
+        "teacher",
+        "mentor"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pi sona esun",
+    "traduko": {
+      "angla": [
+        "economist"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pi tawa musi",
+    "traduko": {
+      "angla": [
+        "dancer"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pi toki pona",
+    "traduko": {
+      "angla": [
+        "Toki Pona speaker"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan poka",
+    "traduko": {
+      "angla": [
+        "companion",
+        "neighbour",
+        "partner"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan pona",
+    "traduko": {
+      "angla": [
+        "pal",
+        "friend",
+        "buddy",
+        "ally",
+        "mate"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan sama",
+    "traduko": {
+      "angla": [
+        "peer",
+        "sibling",
+        "brother",
+        "twin"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan seme",
+    "traduko": {
+      "angla": [
+        "who",
+        "whom"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan sewi",
+    "traduko": {
+      "angla": [
+        "saint"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan sin",
+    "traduko": {
+      "angla": [
+        "newcomer",
+        "freshman",
+        "rookie"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan sitelen",
+    "traduko": {
+      "angla": [
+        "painter",
+        "author",
+        "writer"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan sona",
+    "traduko": {
+      "angla": [
+        "scholar",
+        "scientist",
+        "expert",
+        "specialist",
+        "intellectual"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan sona pi tenpo pini",
+    "traduko": {
+      "angla": [
+        "historian"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan suli",
+    "traduko": {
+      "angla": [
+        "adult"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan tawa",
+    "traduko": {
+      "angla": [
+        "traveller"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan toki",
+    "traduko": {
+      "angla": [
+        "spokesperson",
+        "speaker",
+        "narrator",
+        "caller",
+        "correspondent",
+        "reporter"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jan utala",
+    "traduko": {
+      "angla": [
+        "warrior",
+        "fighter",
+        "soldier",
+        "competitor",
+        "opponent",
+        "rival"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jasima",
+    "traduko": {
+      "angla": [
+        "reflect"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jelo",
+    "traduko": {
+      "angla": [
+        "yellow"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jo",
+    "traduko": {
+      "angla": [
+        "have",
+        "possess",
+        "carry",
+        "contain",
+        "own",
+        "hold",
+        "possession",
+        "ownership",
+        "consist",
+        "include",
+        "comprise"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jo ala",
+    "traduko": {
+      "angla": [
+        "lack"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "jo e ilo utala",
+    "traduko": {
+      "angla": [
+        "armed"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kala",
+    "traduko": {
+      "angla": [
+        "fish",
+        "sea creature",
+        "salmon"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kala suli",
+    "traduko": {
+      "angla": [
+        "whale"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kalama",
+    "traduko": {
+      "angla": [
+        "sound",
+        "noise",
+        "tone"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kalama ala",
+    "traduko": {
+      "angla": [
+        "silence",
+        "silent",
+        "quiet"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kalama musi",
+    "traduko": {
+      "angla": [
+        "music",
+        "song"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kama",
+    "traduko": {
+      "angla": [
+        "coming",
+        "come",
+        "arrival",
+        "arrive",
+        "become",
+        "upcoming",
+        "emerging",
+        "emerge",
+        "happen",
+        "occur"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kama ante",
+    "traduko": {
+      "angla": [
+        "evolve"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kama jo",
+    "traduko": {
+      "angla": [
+        "receive",
+        "acquire",
+        "obtain",
+        "acquisition",
+        "get",
+        "take",
+        "gain",
+        "download",
+        "pickup",
+        "collect"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kama lili",
+    "traduko": {
+      "angla": [
+        "decrease"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kama lon",
+    "traduko": {
+      "angla": [
+        "enroll"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kama pona",
+    "traduko": {
+      "angla": [
+        "recovery",
+        "welcome (interj)",
+        "recover"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kama sona",
+    "traduko": {
+      "angla": [
+        "learning",
+        "realize",
+        "learn",
+        "study (v)",
+        "discover"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kama suli",
+    "traduko": {
+      "angla": [
+        "increasing",
+        "growing",
+        "grow",
+        "growth",
+        "expansion",
+        "increased",
+        "increase",
+        "inflation"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kama telo",
+    "traduko": {
+      "angla": [
+        "melt"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kasi",
+    "traduko": {
+      "angla": [
+        "plant",
+        "bush"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kasi kule",
+    "traduko": {
+      "angla": [
+        "flower"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kasi nasa",
+    "traduko": {
+      "angla": [
+        "marijuana"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kasi suli",
+    "traduko": {
+      "angla": [
+        "tree"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kasi telo",
+    "traduko": {
+      "angla": [
+        "seaweed"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ken",
+    "traduko": {
+      "angla": [
+        "able",
+        "potential",
+        "ability",
+        "capability",
+        "capable",
+        "may",
+        "possible",
+        "could",
+        "eligible",
+        "can",
+        "possibility",
+        "permission",
+        "likelihood",
+        "chance",
+        "probability",
+        "maybe",
+        "opportunity",
+        "available",
+        "possibly",
+        "odds"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ken ala",
+    "traduko": {
+      "angla": [
+        "unable",
+        "impossible",
+        "disabled"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ken ike",
+    "traduko": {
+      "angla": [
+        "risk"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ken la",
+    "traduko": {
+      "angla": [
+        "patentially",
+        "perhaps",
+        "maybe",
+        "possibly"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ken lukin",
+    "traduko": {
+      "angla": [
+        "visible"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ken moli",
+    "traduko": {
+      "angla": [
+        "mortality"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ken tawa",
+    "traduko": {
+      "angla": [
+        "mobile"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kepeken",
+    "traduko": {
+      "angla": [
+        "use",
+        "utilize",
+        "via",
+        "employ"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kepeken tenpo lili",
+    "traduko": {
+      "angla": [
+        "quick"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kijetesantakalu",
+    "traduko": {
+      "angla": [
+        "procyonid"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kili",
+    "traduko": {
+      "angla": [
+        "fruit",
+        "vegetable",
+        "apple",
+        "kumquat"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kin",
+    "traduko": {
+      "angla": [
+        "also",
+        "too"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kin la",
+    "traduko": {
+      "angla": [
+        "moreover"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kipisi",
+    "traduko": {
+      "angla": [
+        "split",
+        "division",
+        "slice",
+        "cut",
+        "divide",
+        "chop",
+        "segment",
+        "section"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kiwen",
+    "traduko": {
+      "angla": [
+        "solid",
+        "rock",
+        "stone",
+        "hard object",
+        "concrete",
+        "metal",
+        "steel",
+        "iron",
+        "stiff",
+        "firm"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kiwen kasi",
+    "traduko": {
+      "angla": [
+        "wood",
+        "wooden"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kiwen uta",
+    "traduko": {
+      "angla": [
+        "tooth"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ko",
+    "traduko": {
+      "angla": [
+        "goo",
+        "semisolid",
+        "powder",
+        "paste",
+        "clay"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ko pan",
+    "traduko": {
+      "angla": [
+        "flour"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kokosila",
+    "traduko": {
+      "angla": [
+        "speak another language in a Toki Pona only environment"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kon",
+    "traduko": {
+      "angla": [
+        "air",
+        "soul",
+        "spirit",
+        "gas",
+        "essence",
+        "atmosphere",
+        "oxygen",
+        "breathe",
+        "breath",
+        "meaning",
+        "intangible",
+        "invisible entity",
+        "breathing"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kon tawa",
+    "traduko": {
+      "angla": [
+        "wind"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kule",
+    "traduko": {
+      "angla": [
+        "colour"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kulupu",
+    "traduko": {
+      "angla": [
+        "organization",
+        "group",
+        "community",
+        "collective",
+        "tribe",
+        "squad",
+        "bunch",
+        "tribal",
+        "cluster",
+        "league",
+        "society",
+        "collection",
+        "association",
+        "crew",
+        "team",
+        "club",
+        "coalition",
+        "set",
+        "socially",
+        "gathering",
+        "institution",
+        "category",
+        "gang",
+        "meeting",
+        "assembly",
+        "network",
+        "pile",
+        "crowd"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kulupu ilo",
+    "traduko": {
+      "angla": [
+        "kit"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kulupu lawa",
+    "traduko": {
+      "angla": [
+        "council",
+        "senate",
+        "congress",
+        "administration"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kulupu mama",
+    "traduko": {
+      "angla": [
+        "family"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kulupu pi kalama musi",
+    "traduko": {
+      "angla": [
+        "band"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kulupu utala",
+    "traduko": {
+      "angla": [
+        "army",
+        "military"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kulupu utala telo",
+    "traduko": {
+      "angla": [
+        "navy"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "kute",
+    "traduko": {
+      "angla": [
+        "hear",
+        "listen",
+        "ear",
+        "hearing"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "la",
+    "traduko": {
+      "angla": [
+        "if",
+        "while",
+        "depending"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lanpan",
+    "traduko": {
+      "angla": [
+        "steal",
+        "seize"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lape",
+    "traduko": {
+      "angla": [
+        "sleep",
+        "asleep",
+        "rest"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lape ala",
+    "traduko": {
+      "angla": [
+        "awake"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "laso",
+    "traduko": {
+      "angla": [
+        "blue",
+        "teal",
+        "green"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "laso kasi",
+    "traduko": {
+      "angla": [
+        "green"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "laso loje",
+    "traduko": {
+      "angla": [
+        "purple ()"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lawa",
+    "traduko": {
+      "angla": [
+        "govern",
+        "head",
+        "authority",
+        "control",
+        "ruling",
+        "regulatory",
+        "leading",
+        "manage",
+        "administrative",
+        "leadership",
+        "rule",
+        "law",
+        "lead",
+        "management",
+        "legal",
+        "mind",
+        "enforce",
+        "judicial",
+        "oversee",
+        "conduct",
+        "official",
+        "regulate",
+        "brain",
+        "policy",
+        "administer"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "leko",
+    "traduko": {
+      "angla": [
+        "square",
+        "cube",
+        "block"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "len",
+    "traduko": {
+      "angla": [
+        "clothing",
+        "cloth",
+        "clothes",
+        "fabric",
+        "outfit",
+        "privacy",
+        "cover",
+        "dress",
+        "jacket",
+        "wear",
+        "shirt"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "len ala",
+    "traduko": {
+      "angla": [
+        "naked"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "len jaki",
+    "traduko": {
+      "angla": [
+        "laundry"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "len lawa",
+    "traduko": {
+      "angla": [
+        "hat",
+        "headscarf",
+        "cap"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "len luka",
+    "traduko": {
+      "angla": [
+        "glove"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "len noka",
+    "traduko": {
+      "angla": [
+        "boot",
+        "shoe",
+        "sock",
+        "pants"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "len pi weka telo",
+    "traduko": {
+      "angla": [
+        "towel"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "len sinpin",
+    "traduko": {
+      "angla": [
+        "mask"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lete",
+    "traduko": {
+      "angla": [
+        "cold",
+        "raw",
+        "frozen"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lili",
+    "traduko": {
+      "angla": [
+        "small",
+        "little",
+        "short",
+        "slight",
+        "reduce",
+        "junior",
+        "slightly",
+        "minimize",
+        "narrow",
+        "bit",
+        "minor",
+        "partly",
+        "reduction",
+        "brief",
+        "young",
+        "fewer",
+        "less",
+        "diminish",
+        "tiny",
+        "barely",
+        "decrease",
+        "minimal",
+        "somewhat",
+        "partially",
+        "thin",
+        "inch",
+        "shallow",
+        "subtle",
+        "lightly",
+        "kinda"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "linja",
+    "traduko": {
+      "angla": [
+        "line",
+        "cord",
+        "string",
+        "rope",
+        "thread",
+        "fibre",
+        "cable",
+        "link"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "linja kiwen",
+    "traduko": {
+      "angla": [
+        "chain"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "linja lawa",
+    "traduko": {
+      "angla": [
+        "hair"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "linja monsi",
+    "traduko": {
+      "angla": [
+        "tail"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "linja uta",
+    "traduko": {
+      "angla": [
+        "moustache"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lipu",
+    "traduko": {
+      "angla": [
+        "paper",
+        "book",
+        "ticket",
+        "document",
+        "article",
+        "card",
+        "page",
+        "magazine",
+        "sheet",
+        "file",
+        "website",
+        "essay",
+        "novel",
+        "letter (in mail)",
+        "sign",
+        "publication"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lipu kasi",
+    "traduko": {
+      "angla": [
+        "leaf"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lipu lawa",
+    "traduko": {
+      "angla": [
+        "constitution"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lipu moku",
+    "traduko": {
+      "angla": [
+        "menu"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lipu nimi",
+    "traduko": {
+      "angla": [
+        "dictionary"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lipu tenpo",
+    "traduko": {
+      "angla": [
+        "calendar"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "loje",
+    "traduko": {
+      "angla": [
+        "red"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "loje laso",
+    "traduko": {
+      "angla": [
+        "purple ()"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "loje walo",
+    "traduko": {
+      "angla": [
+        "pink"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon",
+    "traduko": {
+      "angla": [
+        "at",
+        "existing",
+        "real",
+        "exist",
+        "located",
+        "presence",
+        "yep",
+        "existence",
+        "actual",
+        "on",
+        "true",
+        "living",
+        "yes",
+        "truth",
+        "reality",
+        "physical",
+        "yeah",
+        "upon",
+        "genuine",
+        "truly",
+        "in",
+        "alive",
+        "position",
+        "accurate",
+        "exactly",
+        "occupy",
+        "live",
+        "attendance",
+        "certainly",
+        "indeed",
+        "attend",
+        "right (not wrong)"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon ala",
+    "traduko": {
+      "angla": [
+        "fake",
+        "false"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon ale",
+    "traduko": {
+      "angla": [
+        "everywhere"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon anpa",
+    "traduko": {
+      "angla": [
+        "under"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon insa",
+    "traduko": {
+      "angla": [
+        "within"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon la",
+    "traduko": {
+      "angla": [
+        "actually"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon ma ante",
+    "traduko": {
+      "angla": [
+        "elsewhere",
+        "abroad"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon monsi",
+    "traduko": {
+      "angla": [
+        "behind"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon ni",
+    "traduko": {
+      "angla": [
+        "there",
+        "here"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon poka",
+    "traduko": {
+      "angla": [
+        "around",
+        "near",
+        "alongside",
+        "nearby",
+        "close (adj)",
+        "accompany",
+        "beside"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon seme",
+    "traduko": {
+      "angla": [
+        "where"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon sewi",
+    "traduko": {
+      "angla": [
+        "above",
+        "over"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lon sinpin",
+    "traduko": {
+      "angla": [
+        "ahead"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "luka",
+    "traduko": {
+      "angla": [
+        "hand",
+        "arm",
+        "five",
+        "wrist"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "luka luka tu",
+    "traduko": {
+      "angla": [
+        "dozen",
+        "twelve"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "luka tu",
+    "traduko": {
+      "angla": [
+        "seven"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "luka waso",
+    "traduko": {
+      "angla": [
+        "wing"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lukin",
+    "traduko": {
+      "angla": [
+        "see",
+        "observe",
+        "look at",
+        "sight",
+        "gaze",
+        "observation",
+        "check",
+        "view",
+        "scan",
+        "watch",
+        "visual",
+        "inspection",
+        "examine",
+        "vision",
+        "notice",
+        "surveillance",
+        "attention",
+        "appearance",
+        "examination",
+        "detect"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lukin ala",
+    "traduko": {
+      "angla": [
+        "overlook",
+        "blind"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lukin lili",
+    "traduko": {
+      "angla": [
+        "glance"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lupa",
+    "traduko": {
+      "angla": [
+        "hole",
+        "door",
+        "orifice",
+        "pit",
+        "window",
+        "gate"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "lupa ma",
+    "traduko": {
+      "angla": [
+        "cave"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma",
+    "traduko": {
+      "angla": [
+        "territory",
+        "country",
+        "land",
+        "realm",
+        "area",
+        "region",
+        "field",
+        "soil",
+        "place",
+        "earth",
+        "province",
+        "zone",
+        "ground",
+        "nation",
+        "environmental",
+        "environment",
+        "location",
+        "site",
+        "world",
+        "domain",
+        "national",
+        "nature"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma Elena",
+    "traduko": {
+      "angla": [
+        "Greece"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma Mewika",
+    "traduko": {
+      "angla": [
+        "United States"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma Nijon",
+    "traduko": {
+      "angla": [
+        "Japan"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma ala",
+    "traduko": {
+      "angla": [
+        "nowhere"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma ale",
+    "traduko": {
+      "angla": [
+        "worldwide"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma kasi",
+    "traduko": {
+      "angla": [
+        "garden"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma mama",
+    "traduko": {
+      "angla": [
+        "homeland"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma sewi",
+    "traduko": {
+      "angla": [
+        "heaven"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma suli",
+    "traduko": {
+      "angla": [
+        "continent"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma tomo",
+    "traduko": {
+      "angla": [
+        "city",
+        "town"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ma utala",
+    "traduko": {
+      "angla": [
+        "arena"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mama",
+    "traduko": {
+      "angla": [
+        "parent",
+        "parental",
+        "mama",
+        "mommy",
+        "mom",
+        "creator",
+        "mother",
+        "foster",
+        "originator"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mama mama",
+    "traduko": {
+      "angla": [
+        "grandma",
+        "grandmother"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mama meli",
+    "traduko": {
+      "angla": [
+        "mother"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mama mije",
+    "traduko": {
+      "angla": [
+        "dad",
+        "father",
+        "daddy"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mani",
+    "traduko": {
+      "angla": [
+        "money",
+        "cash",
+        "monetary",
+        "currency",
+        "treasure",
+        "wealth",
+        "worth",
+        "cattle",
+        "dollar",
+        "financial",
+        "funding",
+        "fiscal",
+        "wage",
+        "fee",
+        "cost",
+        "valuable"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mani kama",
+    "traduko": {
+      "angla": [
+        "income"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mani lili",
+    "traduko": {
+      "angla": [
+        "cent"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mani mute",
+    "traduko": {
+      "angla": [
+        "expensive"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mani tomo",
+    "traduko": {
+      "angla": [
+        "rent"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "meli",
+    "traduko": {
+      "angla": [
+        "female",
+        "lady",
+        "woman",
+        "girl"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "meli olin",
+    "traduko": {
+      "angla": [
+        "girlfriend"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "meso",
+    "traduko": {
+      "angla": [
+        "average",
+        "moderate",
+        "medium"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mi",
+    "traduko": {
+      "angla": [
+        "me",
+        "I",
+        "my",
+        "mine",
+        "our",
+        "myself",
+        "us"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mi la",
+    "traduko": {
+      "angla": [
+        "personally"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mi mute",
+    "traduko": {
+      "angla": [
+        "we",
+        "us",
+        "ourselves"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mi pakala",
+    "traduko": {
+      "angla": [
+        "Iâ€™m sorry"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mi tawa",
+    "traduko": {
+      "angla": [
+        "bye (said by person leaving)"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mije",
+    "traduko": {
+      "angla": [
+        "male",
+        "man",
+        "husband",
+        "cisgender man"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "misikeke",
+    "traduko": {
+      "angla": [
+        "medication",
+        "medicine"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "moku",
+    "traduko": {
+      "angla": [
+        "eating",
+        "eat",
+        "food",
+        "consume",
+        "dining",
+        "consumption",
+        "meal",
+        "swallow",
+        "nutrition",
+        "dinner",
+        "drinking",
+        "chew",
+        "groceries"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "moku lili",
+    "traduko": {
+      "angla": [
+        "snack"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "moku suwi",
+    "traduko": {
+      "angla": [
+        "dessert"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "moku telo",
+    "traduko": {
+      "angla": [
+        "soup"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "moli",
+    "traduko": {
+      "angla": [
+        "death",
+        "killing",
+        "dead",
+        "die",
+        "dying",
+        "kill"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "moli telo",
+    "traduko": {
+      "angla": [
+        "drown"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "monsi",
+    "traduko": {
+      "angla": [
+        "butt",
+        "back (anatomy)",
+        "ass"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "monsuta",
+    "traduko": {
+      "angla": [
+        "scary",
+        "fear",
+        "monster",
+        "horror"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mu",
+    "traduko": {
+      "angla": [
+        "woof",
+        "meow",
+        "animal vocalization",
+        "ribbit",
+        "purr",
+        "neigh",
+        "cock-a-doodle-doo"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mun",
+    "traduko": {
+      "angla": [
+        "moon",
+        "celestial body"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "musi",
+    "traduko": {
+      "angla": [
+        "entertainment",
+        "fun",
+        "funny",
+        "play",
+        "game",
+        "comedy",
+        "art",
+        "artistic"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "musi ala",
+    "traduko": {
+      "angla": [
+        "boring",
+        "seriously"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "musi supa",
+    "traduko": {
+      "angla": [
+        "board game"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mute",
+    "traduko": {
+      "angla": [
+        "plenty",
+        "many",
+        "much",
+        "multiple",
+        "very",
+        "lots",
+        "several",
+        "numerous",
+        "various",
+        "most",
+        "quantity",
+        "twenty",
+        "fifty",
+        "thousand",
+        "nine",
+        "majority",
+        "incredibly",
+        "million"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mute ike",
+    "traduko": {
+      "angla": [
+        "too much"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "mute pona",
+    "traduko": {
+      "angla": [
+        "sufficient"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "n",
+    "traduko": {
+      "angla": [
+        "um"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "namako",
+    "traduko": {
+      "angla": [
+        "spice",
+        "extra",
+        "additional",
+        "adornment"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nanpa",
+    "traduko": {
+      "angla": [
+        "number",
+        "count",
+        "score",
+        "rating",
+        "rank",
+        "measurement",
+        "ranking",
+        "statistical"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nanpa luka",
+    "traduko": {
+      "angla": [
+        "fifth"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nanpa luka tu",
+    "traduko": {
+      "angla": [
+        "seventh"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nanpa luka wan",
+    "traduko": {
+      "angla": [
+        "sixth"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nanpa pini",
+    "traduko": {
+      "angla": [
+        "last",
+        "final"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nanpa tu",
+    "traduko": {
+      "angla": [
+        "second (nd)",
+        "secondary"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nanpa tu tu",
+    "traduko": {
+      "angla": [
+        "fourth"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nanpa tu wan",
+    "traduko": {
+      "angla": [
+        "third"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nanpa wan",
+    "traduko": {
+      "angla": [
+        "first",
+        "original",
+        "primary"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nasa",
+    "traduko": {
+      "angla": [
+        "weird",
+        "strange",
+        "unusual",
+        "odd",
+        "drunk",
+        "silly",
+        "wild"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nasin",
+    "traduko": {
+      "angla": [
+        "road",
+        "way",
+        "doctrine",
+        "method",
+        "path",
+        "manner",
+        "avenue",
+        "route",
+        "direction",
+        "street",
+        "orientation",
+        "trail",
+        "mode",
+        "technique",
+        "layout",
+        "system",
+        "course",
+        "passage",
+        "process",
+        "track",
+        "format",
+        "ideology",
+        "tactic",
+        "custom",
+        "aisle",
+        "journey",
+        "lane"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nasin len",
+    "traduko": {
+      "angla": [
+        "fashion"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nasin mani",
+    "traduko": {
+      "angla": [
+        "capitalism"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nasin moku",
+    "traduko": {
+      "angla": [
+        "diet"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nasin pona",
+    "traduko": {
+      "angla": [
+        "solution"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nasin sewi",
+    "traduko": {
+      "angla": [
+        "religion"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nasin toki",
+    "traduko": {
+      "angla": [
+        "accent"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nena",
+    "traduko": {
+      "angla": [
+        "hill",
+        "nose"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nena suli",
+    "traduko": {
+      "angla": [
+        "mountain"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ni",
+    "traduko": {
+      "angla": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ni la",
+    "traduko": {
+      "angla": [
+        "thus"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nimi",
+    "traduko": {
+      "angla": [
+        "word",
+        "name",
+        "term",
+        "title"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nimi ijo",
+    "traduko": {
+      "angla": [
+        "noun"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nimi kon",
+    "traduko": {
+      "angla": [
+        "content word"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "nimi pali",
+    "traduko": {
+      "angla": [
+        "verb"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "noka",
+    "traduko": {
+      "angla": [
+        "leg",
+        "foot",
+        "lap",
+        "ankle",
+        "kick"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "o",
+    "traduko": {
+      "angla": [
+        "hey",
+        "shall"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "o kama pona",
+    "traduko": {
+      "angla": [
+        "welcome (interj)"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "oko",
+    "traduko": {
+      "angla": [
+        "eye"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "olin",
+    "traduko": {
+      "angla": [
+        "loving",
+        "love",
+        "romance",
+        "romantic",
+        "compassion"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ona",
+    "traduko": {
+      "angla": [
+        "its",
+        "her",
+        "them",
+        "their",
+        "he",
+        "she",
+        "him",
+        "they",
+        "it",
+        "his",
+        "themselves",
+        "itself"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "ona sama",
+    "traduko": {
+      "angla": [
+        "herself",
+        "himself",
+        "itself"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "open",
+    "traduko": {
+      "angla": [
+        "open",
+        "begin",
+        "start",
+        "beginning",
+        "initiate",
+        "starting",
+        "opening"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pakala",
+    "traduko": {
+      "angla": [
+        "destruction",
+        "broken",
+        "mistake",
+        "damage",
+        "damn",
+        "goddamn",
+        "ruin",
+        "burst",
+        "accident",
+        "destroy",
+        "heck",
+        "error",
+        "hurt",
+        "crash",
+        "injure",
+        "harm",
+        "fail",
+        "break",
+        "failure",
+        "fault",
+        "injury",
+        "flaw",
+        "crack",
+        "collapse",
+        "snap",
+        "fuck",
+        "fucking"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pali",
+    "traduko": {
+      "angla": [
+        "do",
+        "work",
+        "construct",
+        "produce",
+        "make",
+        "activity",
+        "job",
+        "build",
+        "production",
+        "working",
+        "labour",
+        "action",
+        "task",
+        "create",
+        "function",
+        "occupation",
+        "operating",
+        "project",
+        "execute",
+        "manufacturing",
+        "craft",
+        "develop",
+        "generate",
+        "compose",
+        "assemble",
+        "act",
+        "profession",
+        "assignment",
+        "creation",
+        "enact",
+        "commit",
+        "perform",
+        "operation",
+        "service",
+        "effort",
+        "implement",
+        "operate",
+        "accomplish",
+        "implementation",
+        "processing",
+        "behaviour",
+        "behave",
+        "career"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pali ala",
+    "traduko": {
+      "angla": [
+        "unemployment"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pali ike",
+    "traduko": {
+      "angla": [
+        "sin",
+        "crime"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pali kulupu",
+    "traduko": {
+      "angla": [
+        "collaboration",
+        "cooperate"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pali musi",
+    "traduko": {
+      "angla": [
+        "performance"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pali nanpa",
+    "traduko": {
+      "angla": [
+        "calculation"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pali pi kama sona",
+    "traduko": {
+      "angla": [
+        "experiment"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pali sijelo",
+    "traduko": {
+      "angla": [
+        "workout",
+        "exercise"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pali sin",
+    "traduko": {
+      "angla": [
+        "rebuild"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "palisa",
+    "traduko": {
+      "angla": [
+        "stick",
+        "rod",
+        "stake",
+        "pole",
+        "branch",
+        "staff"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "palisa luka",
+    "traduko": {
+      "angla": [
+        "finger"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pan",
+    "traduko": {
+      "angla": [
+        "bread",
+        "grain",
+        "wheat",
+        "rice"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pan linja",
+    "traduko": {
+      "angla": [
+        "noodles"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pan suwi",
+    "traduko": {
+      "angla": [
+        "cake"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pana",
+    "traduko": {
+      "angla": [
+        "give",
+        "put",
+        "deliver",
+        "grant",
+        "delivery",
+        "send",
+        "submit",
+        "provide",
+        "transfer",
+        "distribute",
+        "distribution",
+        "donate",
+        "appoint",
+        "contribute",
+        "output",
+        "yield",
+        "publishing",
+        "given",
+        "share",
+        "deploy",
+        "offering",
+        "assign",
+        "deposit",
+        "convey"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pana e sona",
+    "traduko": {
+      "angla": [
+        "educate"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pana e telo loje",
+    "traduko": {
+      "angla": [
+        "bleed"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pana mani",
+    "traduko": {
+      "angla": [
+        "payment",
+        "donation"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pana pona",
+    "traduko": {
+      "angla": [
+        "assistance"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pana sona",
+    "traduko": {
+      "angla": [
+        "teach",
+        "teaching",
+        "educate",
+        "instruct"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pi ma ante",
+    "traduko": {
+      "angla": [
+        "foreign"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pi ma mute",
+    "traduko": {
+      "angla": [
+        "international"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pi tenpo pini",
+    "traduko": {
+      "angla": [
+        "historical"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pilin",
+    "traduko": {
+      "angla": [
+        "emotion",
+        "feeling",
+        "feel",
+        "sentiment",
+        "mood",
+        "emotionally",
+        "heart",
+        "sense",
+        "attitude",
+        "emotional",
+        "opinion",
+        "notion",
+        "impression",
+        "perceive",
+        "assume",
+        "hypothesis",
+        "deem"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pilin ante",
+    "traduko": {
+      "angla": [
+        "disagree"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pilin ike",
+    "traduko": {
+      "angla": [
+        "upset",
+        "sad",
+        "guilt",
+        "uncomfortable",
+        "suffer",
+        "stress",
+        "frustration",
+        "disappointed",
+        "disappointment",
+        "grief"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pilin nasa",
+    "traduko": {
+      "angla": [
+        "confusion"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pilin pona",
+    "traduko": {
+      "angla": [
+        "glad",
+        "happy",
+        "pleased",
+        "joy",
+        "satisfaction",
+        "happiness",
+        "comfortable",
+        "pleasure",
+        "grateful",
+        "happily",
+        "well-being"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pilin sama",
+    "traduko": {
+      "angla": [
+        "sympathy"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pilin uta",
+    "traduko": {
+      "angla": [
+        "flavour",
+        "taste"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pilin utala",
+    "traduko": {
+      "angla": [
+        "angry",
+        "rage",
+        "anger",
+        "mad"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pilin wawa",
+    "traduko": {
+      "angla": [
+        "confident",
+        "excitement"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pimeja",
+    "traduko": {
+      "angla": [
+        "black",
+        "dark",
+        "darkness",
+        "shadow",
+        "shade"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pini",
+    "traduko": {
+      "angla": [
+        "end",
+        "finish",
+        "shut",
+        "ending",
+        "conclude",
+        "outcome",
+        "cease",
+        "close (v)",
+        "closed",
+        "latter",
+        "quit",
+        "final",
+        "stop",
+        "complete",
+        "off",
+        "cancel"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pini ala",
+    "traduko": {
+      "angla": [
+        "endless"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pini la",
+    "traduko": {
+      "angla": [
+        "finally",
+        "ultimately"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pini pali",
+    "traduko": {
+      "angla": [
+        "retire"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pipi",
+    "traduko": {
+      "angla": [
+        "bug",
+        "insect",
+        "spider"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "poka",
+    "traduko": {
+      "angla": [
+        "side",
+        "hip",
+        "beside",
+        "aside"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "poki",
+    "traduko": {
+      "angla": [
+        "container",
+        "jar",
+        "box",
+        "package",
+        "bag",
+        "basket",
+        "bucket",
+        "bottle",
+        "pot",
+        "cabinet",
+        "classify",
+        "drawer",
+        "storage",
+        "locker",
+        "case",
+        "bowl"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "poki len",
+    "traduko": {
+      "angla": [
+        "sack"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "poki lipu",
+    "traduko": {
+      "angla": [
+        "envelope"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "poki seli",
+    "traduko": {
+      "angla": [
+        "oven"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "poki sike",
+    "traduko": {
+      "angla": [
+        "barrel"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "poki tawa",
+    "traduko": {
+      "angla": [
+        "cart"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "poki telo",
+    "traduko": {
+      "angla": [
+        "cup"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "poki wawa",
+    "traduko": {
+      "angla": [
+        "battery"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pona",
+    "traduko": {
+      "angla": [
+        "good",
+        "appropriate",
+        "nice",
+        "acceptable",
+        "proper",
+        "simply",
+        "OK",
+        "fine",
+        "quality",
+        "valid",
+        "pleasant",
+        "friendly",
+        "positive",
+        "well",
+        "benefit",
+        "simple",
+        "virtue",
+        "alright",
+        "correct",
+        "repair",
+        "fix",
+        "right (not wrong)",
+        "advantage",
+        "cool",
+        "okay",
+        "fixed",
+        "helpful",
+        "validity",
+        "kind",
+        "ethical",
+        "merit",
+        "peaceful",
+        "ideal",
+        "improve",
+        "successfully",
+        "improvement",
+        "correction",
+        "grace",
+        "fair",
+        "successful",
+        "ease",
+        "heal",
+        "supportive",
+        "approval"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pona a",
+    "traduko": {
+      "angla": [
+        "fantastic"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pona la",
+    "traduko": {
+      "angla": [
+        "fortunately"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pona lukin",
+    "traduko": {
+      "angla": [
+        "pretty",
+        "attractive",
+        "beauty"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pona mute",
+    "traduko": {
+      "angla": [
+        "excellent"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pona sijelo",
+    "traduko": {
+      "angla": [
+        "health"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pona tawa",
+    "traduko": {
+      "angla": [
+        "suit (v)"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "pu",
+    "traduko": {
+      "angla": [
+        "interact with Toki Pona: The Language of Good"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sama",
+    "traduko": {
+      "angla": [
+        "equal",
+        "alike",
+        "similar",
+        "equivalent",
+        "as",
+        "similarly",
+        "equality",
+        "equally",
+        "like",
+        "identical"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sama ala",
+    "traduko": {
+      "angla": [
+        "unlike"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sama lukin",
+    "traduko": {
+      "angla": [
+        "look like"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "seli",
+    "traduko": {
+      "angla": [
+        "heat",
+        "fire",
+        "hot",
+        "burning",
+        "flame",
+        "burn",
+        "warm",
+        "warming"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "selo",
+    "traduko": {
+      "angla": [
+        "skin",
+        "boundary",
+        "surface",
+        "peel",
+        "outer",
+        "shape",
+        "layer"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "selo kiwen",
+    "traduko": {
+      "angla": [
+        "shell"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "selo soweli",
+    "traduko": {
+      "angla": [
+        "leather"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "seme",
+    "traduko": {
+      "angla": [
+        "what",
+        "which",
+        "huh"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sewi",
+    "traduko": {
+      "angla": [
+        "upper",
+        "divine",
+        "sacred",
+        "top",
+        "holy",
+        "sky",
+        "elevated",
+        "high",
+        "spiritual",
+        "raise",
+        "supreme",
+        "highly",
+        "peak"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sijelo",
+    "traduko": {
+      "angla": [
+        "body",
+        "torso",
+        "flesh"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sijelo pona",
+    "traduko": {
+      "angla": [
+        "healthy"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sike",
+    "traduko": {
+      "angla": [
+        "circle",
+        "round",
+        "sphere",
+        "ball",
+        "loop",
+        "cycle",
+        "wheel",
+        "disc",
+        "globe",
+        "circuit"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sike kon",
+    "traduko": {
+      "angla": [
+        "balloon"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sike lili",
+    "traduko": {
+      "angla": [
+        "dot"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sike mama",
+    "traduko": {
+      "angla": [
+        "egg"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sin",
+    "traduko": {
+      "angla": [
+        "new",
+        "newly",
+        "fresh"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sina",
+    "traduko": {
+      "angla": [
+        "you",
+        "your",
+        "yours",
+        "yourself"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sinpin",
+    "traduko": {
+      "angla": [
+        "front",
+        "face (n)",
+        "wall"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sitelen",
+    "traduko": {
+      "angla": [
+        "picture",
+        "image",
+        "graphic",
+        "symbol",
+        "drawing",
+        "illustration",
+        "photo",
+        "illustrate",
+        "writing",
+        "painting",
+        "write",
+        "written",
+        "depict",
+        "draw",
+        "photograph",
+        "portrait",
+        "icon",
+        "representation",
+        "mark",
+        "portray"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sitelen esun",
+    "traduko": {
+      "angla": [
+        "advertisement",
+        "ad"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sitelen lape",
+    "traduko": {
+      "angla": [
+        "dream"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sitelen musi",
+    "traduko": {
+      "angla": [
+        "comics",
+        "meme"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sitelen selo",
+    "traduko": {
+      "angla": [
+        "tattoo"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sitelen sona",
+    "traduko": {
+      "angla": [
+        "chart"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sitelen tawa",
+    "traduko": {
+      "angla": [
+        "video",
+        "film",
+        "footage",
+        "movie"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sitelen tawa sona",
+    "traduko": {
+      "angla": [
+        "documentary"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "soko",
+    "traduko": {
+      "angla": [
+        "mushroom",
+        "fungus"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sona",
+    "traduko": {
+      "angla": [
+        "know",
+        "knowledge",
+        "information",
+        "understand",
+        "understanding",
+        "aware",
+        "info",
+        "wisdom",
+        "awareness",
+        "known",
+        "data",
+        "wise",
+        "recognition",
+        "recognize",
+        "expertise"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sona ala",
+    "traduko": {
+      "angla": [
+        "ignorance",
+        "ignorant",
+        "unknown",
+        "uncertainty"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sona nanpa",
+    "traduko": {
+      "angla": [
+        "mathematics"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "sona toki",
+    "traduko": {
+      "angla": [
+        "linguistics"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "soweli",
+    "traduko": {
+      "angla": [
+        "animal",
+        "deer",
+        "creature",
+        "dog",
+        "cat",
+        "llama",
+        "goat",
+        "Musteloidea",
+        "beast",
+        "lion"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "soweli len",
+    "traduko": {
+      "angla": [
+        "sheep"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "soweli lili",
+    "traduko": {
+      "angla": [
+        "Glires or Eulipotyphla ()",
+        "mouse ()"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "soweli suli",
+    "traduko": {
+      "angla": [
+        "elephant"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "soweli tawa",
+    "traduko": {
+      "angla": [
+        "horse"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "suli",
+    "traduko": {
+      "angla": [
+        "importance",
+        "big",
+        "large",
+        "important",
+        "significant",
+        "matter (v)",
+        "significantly",
+        "grand",
+        "huge",
+        "vast",
+        "weight",
+        "tall",
+        "crucial",
+        "prominent",
+        "extensive",
+        "fat",
+        "broad",
+        "long",
+        "substantial",
+        "significance",
+        "size",
+        "giant",
+        "heavy",
+        "wide",
+        "extended",
+        "considerable",
+        "thick",
+        "major",
+        "tremendous",
+        "extent",
+        "magnitude",
+        "great",
+        "length",
+        "vital",
+        "height",
+        "importantly",
+        "greatly",
+        "severe",
+        "dramatically",
+        "mass"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "suli la",
+    "traduko": {
+      "angla": [
+        "especially"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "suno",
+    "traduko": {
+      "angla": [
+        "sun",
+        "solar",
+        "light",
+        "sunlight",
+        "bright",
+        "shine"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "supa",
+    "traduko": {
+      "angla": [
+        "platform",
+        "table",
+        "shelf",
+        "board",
+        "furniture",
+        "flat",
+        "lie (be in flat position)",
+        "level",
+        "desk"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "supa lape",
+    "traduko": {
+      "angla": [
+        "bed"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "supa moku",
+    "traduko": {
+      "angla": [
+        "plate"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "supa monsi",
+    "traduko": {
+      "angla": [
+        "seat"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "suwi",
+    "traduko": {
+      "angla": [
+        "sweet",
+        "cute",
+        "candy",
+        "sugar"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tan",
+    "traduko": {
+      "angla": [
+        "from",
+        "reason",
+        "because of",
+        "by",
+        "source"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tan seme",
+    "traduko": {
+      "angla": [
+        "why"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "taso",
+    "traduko": {
+      "angla": [
+        "but",
+        "only",
+        "solely",
+        "however",
+        "exclusively",
+        "although",
+        "though",
+        "just",
+        "exclusive",
+        "despite",
+        "nonetheless",
+        "mere",
+        "merely",
+        "except",
+        "nevertheless",
+        "yet",
+        "sole",
+        "whereas"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa",
+    "traduko": {
+      "angla": [
+        "motion",
+        "go",
+        "toward",
+        "move",
+        "movement",
+        "towards",
+        "to",
+        "for",
+        "transit",
+        "travel",
+        "trip",
+        "transportation",
+        "walk",
+        "advance",
+        "onto",
+        "transport",
+        "pass",
+        "walking",
+        "migration",
+        "departure",
+        "from the perspective of",
+        "push"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa anpa",
+    "traduko": {
+      "angla": [
+        "descend"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa insa",
+    "traduko": {
+      "angla": [
+        "into"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa musi",
+    "traduko": {
+      "angla": [
+        "dance",
+        "dancing"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa pona",
+    "traduko": {
+      "angla": [
+        "bye (said by person staying)",
+        "goodbye"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa sewi",
+    "traduko": {
+      "angla": [
+        "jump",
+        "leap"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa sike",
+    "traduko": {
+      "angla": [
+        "roll",
+        "spin"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa sinpin",
+    "traduko": {
+      "angla": [
+        "forward"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa telo",
+    "traduko": {
+      "angla": [
+        "swim"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa waso",
+    "traduko": {
+      "angla": [
+        "flight"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tawa wawa",
+    "traduko": {
+      "angla": [
+        "run",
+        "running"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo",
+    "traduko": {
+      "angla": [
+        "fluid",
+        "water",
+        "wet",
+        "wash",
+        "pond",
+        "pool"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo ala",
+    "traduko": {
+      "angla": [
+        "dry"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo jelo",
+    "traduko": {
+      "angla": [
+        "piss"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo kasi",
+    "traduko": {
+      "angla": [
+        "tea"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo kili",
+    "traduko": {
+      "angla": [
+        "juice"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo loje",
+    "traduko": {
+      "angla": [
+        "blood"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo nasa",
+    "traduko": {
+      "angla": [
+        "alcohol",
+        "beer"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo selo",
+    "traduko": {
+      "angla": [
+        "sweat"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo sewi",
+    "traduko": {
+      "angla": [
+        "rain"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo suli",
+    "traduko": {
+      "angla": [
+        "ocean",
+        "sea"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo uta",
+    "traduko": {
+      "angla": [
+        "spit"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "telo wawa",
+    "traduko": {
+      "angla": [
+        "gasoline"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo",
+    "traduko": {
+      "angla": [
+        "time",
+        "timing",
+        "session",
+        "occasion",
+        "phase",
+        "moment",
+        "date",
+        "circumstance",
+        "hour",
+        "appointment",
+        "scenario"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo ala",
+    "traduko": {
+      "angla": [
+        "never"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo ale",
+    "traduko": {
+      "angla": [
+        "forever",
+        "constantly"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo esun",
+    "traduko": {
+      "angla": [
+        "week"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo kama",
+    "traduko": {
+      "angla": [
+        "future",
+        "later"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo lete",
+    "traduko": {
+      "angla": [
+        "winter"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo lili",
+    "traduko": {
+      "angla": [
+        "minute",
+        "second (unit of time)"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo mun",
+    "traduko": {
+      "angla": [
+        "month"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo musi",
+    "traduko": {
+      "angla": [
+        "festival"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo mute la",
+    "traduko": {
+      "angla": [
+        "typically",
+        "usually",
+        "tend",
+        "commonly"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo ni",
+    "traduko": {
+      "angla": [
+        "now",
+        "current"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo ni la",
+    "traduko": {
+      "angla": [
+        "currently"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo pi jan lili",
+    "traduko": {
+      "angla": [
+        "childhood"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo pi pali ala",
+    "traduko": {
+      "angla": [
+        "vacation"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo pimeja",
+    "traduko": {
+      "angla": [
+        "night"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo pimeja ni",
+    "traduko": {
+      "angla": [
+        "tonight"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo pini",
+    "traduko": {
+      "angla": [
+        "past",
+        "deadline",
+        "history"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo pini la",
+    "traduko": {
+      "angla": [
+        "previously"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo sama",
+    "traduko": {
+      "angla": [
+        "meantime"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo sama la",
+    "traduko": {
+      "angla": [
+        "meanwhile"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo seli",
+    "traduko": {
+      "angla": [
+        "summer"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo seme",
+    "traduko": {
+      "angla": [
+        "when"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo sike",
+    "traduko": {
+      "angla": [
+        "year"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo suli",
+    "traduko": {
+      "angla": [
+        "era",
+        "longtime",
+        "century"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo suno",
+    "traduko": {
+      "angla": [
+        "day"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo suno kama",
+    "traduko": {
+      "angla": [
+        "tomorrow"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo suno ni",
+    "traduko": {
+      "angla": [
+        "today"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo suno olin",
+    "traduko": {
+      "angla": [
+        "Valentineâ€™s Day"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tenpo suno pini",
+    "traduko": {
+      "angla": [
+        "yesterday"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki",
+    "traduko": {
+      "angla": [
+        "speech",
+        "talk",
+        "conversation",
+        "say",
+        "communicate",
+        "speak",
+        "communication",
+        "hello",
+        "language",
+        "tell",
+        "statement",
+        "hi",
+        "discuss",
+        "discussion",
+        "discourse",
+        "mention",
+        "comment",
+        "refer",
+        "message",
+        "express",
+        "remark",
+        "dialogue",
+        "reporting",
+        "call",
+        "narrative",
+        "commentary",
+        "disclose",
+        "respond",
+        "contact",
+        "verbal",
+        "admit",
+        "proposal",
+        "tale",
+        "story",
+        "declare",
+        "interview",
+        "answer",
+        "testify",
+        "report",
+        "expression",
+        "phrase"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki Inli",
+    "traduko": {
+      "angla": [
+        "English"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki Lasina",
+    "traduko": {
+      "angla": [
+        "Latin"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki ike",
+    "traduko": {
+      "angla": [
+        "complain",
+        "criticize"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki insa",
+    "traduko": {
+      "angla": [
+        "thinking"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki lawa",
+    "traduko": {
+      "angla": [
+        "command"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki musi",
+    "traduko": {
+      "angla": [
+        "poetry",
+        "joke"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki open",
+    "traduko": {
+      "angla": [
+        "introduction"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki sona",
+    "traduko": {
+      "angla": [
+        "lecture"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki suli",
+    "traduko": {
+      "angla": [
+        "announcement"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki tawa sewi",
+    "traduko": {
+      "angla": [
+        "pray"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki utala",
+    "traduko": {
+      "angla": [
+        "argument"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "toki wile",
+    "traduko": {
+      "angla": [
+        "plea"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo",
+    "traduko": {
+      "angla": [
+        "building",
+        "house",
+        "housing",
+        "chamber",
+        "home",
+        "room",
+        "shelter",
+        "residence",
+        "suite",
+        "domestic",
+        "structural",
+        "structure",
+        "residential",
+        "facility",
+        "establishment",
+        "household",
+        "cabin",
+        "apartment"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo anpa",
+    "traduko": {
+      "angla": [
+        "basement"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo esun",
+    "traduko": {
+      "angla": [
+        "shop",
+        "store"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo lape",
+    "traduko": {
+      "angla": [
+        "bedroom"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo lawa",
+    "traduko": {
+      "angla": [
+        "headquarters",
+        "courtroom"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo len",
+    "traduko": {
+      "angla": [
+        "tent"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo lipu",
+    "traduko": {
+      "angla": [
+        "library"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo mani",
+    "traduko": {
+      "angla": [
+        "bank"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo moku",
+    "traduko": {
+      "angla": [
+        "restaurant",
+        "kitchen"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo musi",
+    "traduko": {
+      "angla": [
+        "theatre"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo pali",
+    "traduko": {
+      "angla": [
+        "studio",
+        "factory",
+        "workshop",
+        "office"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo pi pali sona",
+    "traduko": {
+      "angla": [
+        "lab"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo pi pona sijelo",
+    "traduko": {
+      "angla": [
+        "clinic",
+        "hospital"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo pi sitelen tawa",
+    "traduko": {
+      "angla": [
+        "cinema"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo pi tomo tawa",
+    "traduko": {
+      "angla": [
+        "garage"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo sewi",
+    "traduko": {
+      "angla": [
+        "temple",
+        "church"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo sona",
+    "traduko": {
+      "angla": [
+        "academy",
+        "classroom",
+        "school"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo suli",
+    "traduko": {
+      "angla": [
+        "tower"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo tawa",
+    "traduko": {
+      "angla": [
+        "car",
+        "vehicle",
+        "wagon",
+        "van",
+        "shuttle"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo tawa kon",
+    "traduko": {
+      "angla": [
+        "plane",
+        "aircraft"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo tawa telo",
+    "traduko": {
+      "angla": [
+        "boat",
+        "ship"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo telo",
+    "traduko": {
+      "angla": [
+        "bathroom"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tomo waso",
+    "traduko": {
+      "angla": [
+        "nest"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tonsi",
+    "traduko": {
+      "angla": [
+        "non-binary person",
+        "transgender person",
+        "gender non-conforming person"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tu",
+    "traduko": {
+      "angla": [
+        "two",
+        "pair",
+        "double",
+        "both",
+        "twice",
+        "couple"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tu tu",
+    "traduko": {
+      "angla": [
+        "four"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "tu wan",
+    "traduko": {
+      "angla": [
+        "three"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "unpa",
+    "traduko": {
+      "angla": [
+        "sex",
+        "sexual",
+        "sexually",
+        "fucking"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "uta",
+    "traduko": {
+      "angla": [
+        "mouth",
+        "lip",
+        "kiss",
+        "jaw"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "utala",
+    "traduko": {
+      "angla": [
+        "fight",
+        "fighting",
+        "battle",
+        "combat",
+        "conflict",
+        "contend",
+        "assault",
+        "attack",
+        "versus",
+        "violent",
+        "compete",
+        "challenge",
+        "violence",
+        "hit",
+        "struggle",
+        "war",
+        "contest",
+        "oppose",
+        "dispute"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "utala ala",
+    "traduko": {
+      "angla": [
+        "peace"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "walo",
+    "traduko": {
+      "angla": [
+        "white",
+        "pale"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "wan",
+    "traduko": {
+      "angla": [
+        "one",
+        "united",
+        "unity",
+        "combined",
+        "unite",
+        "single",
+        "unit",
+        "blend",
+        "combine",
+        "union"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "waso",
+    "traduko": {
+      "angla": [
+        "bird",
+        "chicken"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "waso telo",
+    "traduko": {
+      "angla": [
+        "duck"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "wawa",
+    "traduko": {
+      "angla": [
+        "strength",
+        "power",
+        "powerful",
+        "strong",
+        "energy",
+        "strongly",
+        "force",
+        "intense",
+        "bold",
+        "intensity",
+        "reinforce",
+        "strengthen",
+        "firmly",
+        "charge",
+        "brave",
+        "rapid",
+        "electrical"
+      ],
+      "esperanto": [
+        "fort-",
+        "pov-",
+        "energi-"
+      ],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "wawa ala",
+    "traduko": {
+      "angla": [
+        "weak",
+        "weakness"
+      ],
+      "esperanto": [
+        "malfort-"
+      ],
+      "hispana": [
+        "debil",
+        "debilidad"
+      ]
+    }
+  },
+  {
+    "vorto": "weka",
+    "traduko": {
+      "angla": [
+        "rid",
+        "removal",
+        "remove",
+        "eliminate",
+        "apart",
+        "omit",
+        "missing",
+        "away",
+        "absence",
+        "loss",
+        "delete",
+        "dismiss",
+        "distant",
+        "leave",
+        "abandon",
+        "far",
+        "vanish",
+        "disappear",
+        "avoid",
+        "out",
+        "exclude",
+        "escape",
+        "distance"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "weka sona",
+    "traduko": {
+      "angla": [
+        "forget"
+      ],
+      "esperanto": [
+        "forges-"
+      ],
+      "hispana": [
+        "olvidar"
+      ]
+    }
+  },
+  {
+    "vorto": "wile",
+    "traduko": {
+      "angla": [
+        "want",
+        "wish",
+        "intend",
+        "require",
+        "need",
+        "desire",
+        "intention",
+        "willing",
+        "will",
+        "intent",
+        "preference",
+        "motivation",
+        "necessity",
+        "yearn",
+        "ought",
+        "necessary",
+        "hope",
+        "willingness",
+        "ambition",
+        "prefer",
+        "requirement",
+        "required",
+        "must",
+        "obligation",
+        "decision",
+        "should",
+        "demand",
+        "eager",
+        "request",
+        "agenda"
+      ],
+      "esperanto": [
+        "vol-",
+        "dezir-",
+        "bezon-",
+        "cel-",
+        "prefer-"
+      ],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "wile ala",
+    "traduko": {
+      "angla": [
+        "reluctant"
+      ],
+      "esperanto": [],
+      "hispana": []
+    }
+  },
+  {
+    "vorto": "wile moku",
+    "traduko": {
+      "angla": [
+        "hunger",
+        "hungry"
+      ],
+      "esperanto": [
+        "malsato"
+      ],
+      "hispana": [
+        "hambre"
+      ]
+    }
+  },
+  {
+    "vorto": "wile sona",
+    "traduko": {
+      "angla": [
+        "curiosity",
+        "inquiry",
+        "question",
+        "curious"
+      ],
+      "esperanto": [
+        "scivolemo",
+        "demando",
+        "demandi"
+      ],
+      "hispana": [
+        "curiosidad",
+        "perguntar",
+        "curioso",
+        "pregunta"
+      ]
+    }
+  },
+  {
+    "vorto": "yupekosi",
+    "traduko": {
+      "angla": [
+        "change a creative work and unintentionally make it worse"
+      ],
+      "esperanto": [
+        "Fari kreema laboro kaj senvole malbonigi ĝin"
+      ],
+      "hispana": [
+        "cambiar un trabajo creativo e involuntariamente hacerlo peor"
+      ]
+    }
+  }
+]
