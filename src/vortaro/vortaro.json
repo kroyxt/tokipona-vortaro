@@ -1,6478 +1,7158 @@
 [
   {
     "vorto": "a",
+    "sitelenpona": "a",
     "traduko": {
-      "angla": [
-        "ah",
-        "oh",
+      "interjekcio": [
+        "aŭ (emocivorto)",
         "ha",
-        "ooh",
-        "uh",
-        "gosh",
-        "whoa",
-        "wow",
-        "um",
-        "huh"
-      ],
-      "esperanto": [
-        "ha",
-        "hej"
-      ],
-      "hispana": []
+        "kri ho",
+        "nu",
+        "oj",
+        "uf"
+      ]
     }
   },
   {
     "vorto": "akesi",
+    "sitelenpona": "akesi",
     "traduko": {
-      "angla": [
-        "reptile",
-        "frog"
-      ],
-      "esperanto": [],
-      "hispana": [
-        "reptil",
-        "sapo"
+      "substantivo": [
+        "Amfibio",
+        "Malkaresa Besto",
+        "Malĉarma Besto",
+        "Rampulo"
       ]
     }
   },
   {
     "vorto": "akesi kiwen",
+    "sitelenpona": "akesi kiwen",
     "traduko": {
-      "angla": [
-        "turtle"
-      ],
-      "esperanto": [],
-      "hispana": [
-        "tortuga"
+      "substantivo": [
+        "Testudo"
       ]
     }
   },
   {
     "vorto": "akesi linja",
+    "sitelenpona": "akesi linja",
     "traduko": {
-      "angla": [
-        "snake"
-      ],
-      "esperanto": [],
-      "hispana": [
-        "serpiente"
+      "substantivo": [
+        "Boao",
+        "Kolubro",
+        "Serpento",
+        "Vipuro"
       ]
     }
   },
   {
     "vorto": "akesi seli",
+    "sitelenpona": "akesi seli",
     "traduko": {
-      "angla": [
-        "dragon"
-      ],
-      "esperanto": [],
-      "hispana": [
-        "dragon"
+      "substantivo": [
+        "Drako"
       ]
     }
   },
   {
     "vorto": "ala",
+    "sitelenpona": "ala",
     "traduko": {
-      "angla": [
-        "none",
-        "not",
-        "zero",
-        "no",
-        "nothing",
-        "neither"
-      ],
-      "esperanto": [
-        "ne",
-        "nulo",
+      "substantivo": [
+        "neado",
         "nenio",
+        "nulo"
+      ],
+      "adjektivo": [
+        "ne",
         "neniu"
       ],
-      "hispana": [
-        "no",
-        "cero",
-        "nada",
-        "nadie"
+      "interjekcio": [
+        "ne!"
       ]
     }
   },
   {
     "vorto": "alasa",
+    "sitelenpona": "alasa",
     "traduko": {
-      "angla": [
-        "hunt",
-        "hunting",
-        "search",
-        "pursuit",
-        "pursue",
-        "gather",
-        "finding",
-        "seek",
-        "explore"
-      ],
-      "esperanto": [],
-      "hispana": [
-        "cazar",
-        "buscar",
-        "explorar",
-        "perseguir",
-        "cosechar",
-        "encontrar"
+      "verbo": [
+        "Furaĝi",
+        "Kolekti",
+        "Serĉi Manĝaĵon",
+        "Ĉasi"
       ]
     }
   },
   {
     "vorto": "alasa kala",
+    "sitelenpona": "alasa kala",
     "traduko": {
-      "angla": [
-        "fishing"
-      ],
-      "esperanto": [
-        "fiŝkapti"
-      ],
-      "hispana": [
-        "pescar"
+      "verbo": [
+        "Fiŝkapti"
       ]
     }
   },
   {
     "vorto": "ale",
+    "sitelenpona": "ale",
     "traduko": {
-      "angla": [
-        "every",
-        "everything",
-        "all",
-        "entire",
-        "universal",
-        "completely",
-        "total",
-        "entirely",
-        "universe",
-        "altogether",
-        "comprehensive"
+      "substantivo": [
+        "Tuto",
+        "Universo"
       ],
-      "esperanto": [],
-      "hispana": [
-        "todo",
-        "entero",
-        "universal",
-        "completo",
-        "total",
-        "todo junto"
+      "adjektivo": [
+        "Ampleksa",
+        "Kompleta",
+        "Tuta",
+        "Ĉiuj"
+      ],
+      "korelativo": [
+        "Ĉio ajn",
+        "Ĉio"
       ]
     }
   },
   {
     "vorto": "ale la",
+    "sitelenpona": "ale la",
     "traduko": {
-      "angla": [
-        "overall"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Entute",
+        "Tute"
+      ]
     }
   },
   {
     "vorto": "anpa",
+    "sitelenpona": "anpa",
     "traduko": {
-      "angla": [
-        "down",
-        "bottom",
-        "lower",
-        "defeat",
-        "below",
-        "beneath"
+      "substantivo": [
+        "Fundo",
+        "Malsupro",
+        "Malvenko",
+        "Planko",
+        "Suba Parto",
+        "Subo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Dependa",
+        "Humila",
+        "Malsupra",
+        "Modesta",
+        "Suba"
+      ],
+      "adverbo": [
+        "Malsupren",
+        "Suben"
+      ]
+    }
+  },
+  {
+    "vorto": "anpa lawa",
+    "sitelenpona": "anpa lawa",
+    "traduko": {
+      "substantivo": [
+        "Gorĝo",
+        "Kolo"
+      ]
+    }
+  },
+  {
+    "vorto": "anpa pi sinpin lawa",
+    "sitelenpona": "anpa pi++sinpin lawa",
+    "traduko": {
+      "substantivo": [
+        "Mentono"
+      ]
     }
   },
   {
     "vorto": "ante",
+    "sitelenpona": "ante",
     "traduko": {
-      "angla": [
-        "changing",
-        "other",
-        "different",
-        "alter",
-        "modify",
-        "alternative",
-        "change",
-        "convert",
-        "edit",
-        "difference",
-        "transformation",
-        "distinct",
-        "differently",
-        "vary",
-        "transform",
-        "variation",
-        "contrast",
-        "distinction",
-        "replace",
-        "switch",
-        "another",
-        "else",
-        "conversion",
-        "adjustment"
+      "substantivo": [
+        "Alternativo",
+        "Diferenco",
+        "Konvertiĝo",
+        "Malsamenco",
+        "Transformo",
+        "Variaĵo",
+        "Ĝustigo",
+        "Ŝaltilo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Alia",
+        "Malsama",
+        "Ŝanĝita"
+      ],
+      "verbo": [
+        "Alligi",
+        "Anstataŭgi",
+        "Konverti",
+        "Modifi",
+        "Redakti",
+        "Transformi",
+        "Ŝanĝi"
+      ]
     }
   },
   {
     "vorto": "ante la",
+    "sitelenpona": "ante la",
     "traduko": {
-      "angla": [
-        "otherwise"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Alie",
+        "Alimaniere"
+      ]
     }
   },
   {
     "vorto": "anu",
+    "sitelenpona": "anu",
     "traduko": {
-      "angla": [
-        "or",
-        "whether",
-        "choice"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "konjunkcio": [
+        "Aŭ"
+      ]
     }
   },
   {
     "vorto": "awen",
+    "sitelenpona": "awen",
     "traduko": {
-      "angla": [
-        "wait",
-        "await",
-        "stay",
-        "preserve",
-        "remain",
-        "sustain",
-        "retain",
-        "defend",
-        "endure",
-        "continued",
-        "continue",
-        "secure",
-        "continuing",
-        "save",
-        "protect",
-        "keep",
-        "still",
-        "reserve",
-        "protection",
-        "remaining",
-        "continuous",
-        "stability",
-        "maintain",
-        "safe",
-        "security",
-        "stable",
-        "protective",
-        "constant",
-        "defence",
-        "left (remaining)"
+      "adjektivo": [
+        "Konstanta",
+        "Protekta",
+        "Restanta",
+        "Sekura",
+        "Stabila"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Atendi",
+        "Daŭri",
+        "Daŭrigi",
+        "Defendi",
+        "Elteni",
+        "Gardi",
+        "Konservi",
+        "Protekti",
+        "Resti",
+        "Reteni",
+        "Sekurigi",
+        "Subteni"
+      ]
+    }
+  },
+  {
+    "vorto": "awen pona",
+    "sitelenpona": "awen pona",
+    "traduko": {
+      "adjektivo": [
+        "Pacienca"
+      ]
     }
   },
   {
     "vorto": "awen sona",
+    "sitelenpona": "awen sona",
     "traduko": {
-      "angla": [
-        "remember"
-      ],
-      "esperanto": [
-        "memori"
-      ],
-      "hispana": [
-        "recordar"
+      "adjektivo": [
+        "Memoro"
+      ]
+    }
+  },
+  {
+    "vorto": "e",
+    "sitelenpona": "e",
+    "traduko": {
+      "gramatikajxo": [
+        "akuzativa markilo antaŭ la rekta objekto"
       ]
     }
   },
   {
     "vorto": "en",
+    "sitelenpona": "en",
     "traduko": {
-      "angla": [
-        "and",
-        "plus"
-      ],
-      "esperanto": [
-        "kaj"
-      ],
-      "hispana": []
+      "konjunkcio": [
+        "Kaj (uzata por kunordigi substantivojn)"
+      ]
     }
   },
   {
     "vorto": "epiku",
+    "sitelenpona": "epiku",
     "traduko": {
-      "angla": [
-        "epic"
+      "substantivo": [
+        "epopeo"
       ],
-      "esperanto": [],
-      "hispana": [
-        "epico"
+      "adjektivo": [
+        "epopea"
       ]
     }
   },
   {
     "vorto": "esun",
+    "sitelenpona": "esun",
     "traduko": {
-      "angla": [
-        "trading",
-        "trade",
-        "shopping",
-        "deal",
-        "commerce",
-        "sales",
-        "purchase",
-        "buy",
-        "transaction",
-        "market",
-        "sale",
-        "exchange",
-        "sell",
-        "retail",
-        "business",
-        "shop"
+      "substantivo": [
+        "Bazaro",
+        "Butiko",
+        "Butikumado",
+        "Interŝanĝo",
+        "Komercado",
+        "Komerco",
+        "Merkato",
+        "Vendo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Interŝanĝi",
+        "Komerci",
+        "Vendi"
+      ]
     }
   },
   {
     "vorto": "ijo",
+    "sitelenpona": "ijo",
     "traduko": {
-      "angla": [
-        "item",
-        "something",
-        "object",
-        "stuff",
-        "thing",
-        "entity",
-        "phenomenon",
-        "material",
-        "matter (n)",
-        "substance",
-        "anything"
+      "substantivo": [
+        "Afero",
+        "Iĵo",
+        "Materio",
+        "Objekto"
       ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Io ajn",
+        "Io"
+      ]
     }
   },
   {
     "vorto": "ijo esun",
+    "sitelenpona": "ijo+esun",
     "traduko": {
-      "angla": [
-        "commodity"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Varo"
+      ]
     }
   },
   {
     "vorto": "ijo pana",
+    "sitelenpona": "ijo pana",
     "traduko": {
-      "angla": [
-        "gift"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Donaco"
+      ]
     }
   },
   {
     "vorto": "ike",
+    "sitelenpona": "ike",
     "traduko": {
-      "angla": [
-        "bad",
-        "harsh",
-        "badly",
-        "mean (adj)",
-        "evil",
-        "negative",
-        "problem",
-        "horrible",
-        "terrible",
-        "unfortunate",
-        "poorly",
-        "offensive",
-        "awful",
-        "trouble",
-        "tragic",
-        "cruel",
-        "wrong",
-        "complexity",
-        "issue",
-        "inappropriate"
+      "substantivo": [
+        "Malboneco",
+        "Malsimpleco",
+        "Problemo",
+        "krueleco"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Kruela",
+        "Malbona",
+        "Malica",
+        "Malsimpla",
+        "Malĝusta",
+        "Negativa",
+        "Netaŭga",
+        "Ofenda",
+        "Severa",
+        "Terura",
+        "Tragika"
+      ]
+    }
+  },
+  {
+    "vorto": "ike a",
+    "sitelenpona": "ike a",
+    "traduko": {
+      "interjekcio": [
+        "ho aĉe",
+        "ho ve"
+      ]
     }
   },
   {
     "vorto": "ike la",
+    "sitelenpona": "ike la",
     "traduko": {
-      "angla": [
-        "unfortunately",
-        "sadly"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Bedaŭrinde",
+        "Malbonŝance",
+        "Malgaje"
+      ]
     }
   },
   {
     "vorto": "ike lukin",
+    "sitelenpona": "ike lukin",
     "traduko": {
-      "angla": [
-        "ugly"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Malbela"
+      ]
     }
   },
   {
     "vorto": "ilo",
+    "sitelenpona": "ilo",
     "traduko": {
-      "angla": [
-        "tool",
-        "device",
-        "equipment",
-        "machine",
-        "app",
-        "hardware",
-        "robot",
-        "technological",
-        "mechanical",
-        "gear",
-        "tech",
-        "mechanism",
-        "technical",
-        "software"
+      "substantivo": [
+        "Aparato",
+        "Ekipaĵo",
+        "Ilo",
+        "Maŝino",
+        "Programaro",
+        "Programo",
+        "Roboto"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Mekanika",
+        "Teknika",
+        "Teknologia"
+      ]
     }
   },
   {
     "vorto": "ilo kalama",
+    "sitelenpona": "ilo kalama",
     "traduko": {
-      "angla": [
-        "radio",
-        "bell"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Radio",
+        "Sonilo",
+        "Sonorilo"
+      ]
     }
   },
   {
     "vorto": "ilo kipisi",
+    "sitelenpona": "ilo kipisi",
     "traduko": {
-      "angla": [
-        "knife"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Tranĉilo"
+      ]
+    }
+  },
+  {
+    "vorto": "ilo lape",
+    "sitelenpona": "ilo lape",
+    "traduko": {
+      "substantivo": [
+        "Dormilo",
+        "Endormiga Pilolo"
+      ]
+    }
+  },
+  {
+    "vorto": "ilo lape soweli",
+    "sitelenpona": "ilo lape soweli",
+    "traduko": {
+      "substantivo": [
+        "anestezilo",
+        "besta trankviligilo"
+      ]
+    }
+  },
+  {
+    "vorto": "ilo lukin",
+    "sitelenpona": "ilo lukin",
+    "traduko": {
+      "substantivo": [
+        "",
+        "Mikroskopo",
+        "Okulvitroj"
+      ]
     }
   },
   {
     "vorto": "ilo moku",
+    "sitelenpona": "ilo moku",
     "traduko": {
-      "angla": [
-        "fork"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Forko",
+        "Kulero",
+        "Manĝilo",
+        "Telero",
+        "Tranĉilo"
+      ]
     }
   },
   {
     "vorto": "ilo musi",
+    "sitelenpona": "ilo musi",
     "traduko": {
-      "angla": [
-        "toy"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Distrilo",
+        "Ludilo"
+      ]
+    }
+  },
+  {
+    "vorto": "ilo nasa wawa",
+    "sitelenpona": "ilo nasa wawa",
+    "traduko": {
+      "substantivo": [
+        "Energia Drogo",
+        "Halucinogena Drogo",
+        "drogo"
+      ]
+    }
+  },
+  {
+    "vorto": "ilo pi pana e lipu sona",
+    "sitelenpona": "ilo pi+++pana e lipu+sona",
+    "traduko": {
+      "substantivo": [
+        "Reta Servilo",
+        "Retpaĝa Servilo (Komputilo/Aparato, kie funkcias la programo)"
+      ]
     }
   },
   {
     "vorto": "ilo open",
+    "sitelenpona": "ilo open",
     "traduko": {
-      "angla": [
-        "key"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Malfermilo",
+        "Ŝlosilo"
+      ]
     }
   },
   {
     "vorto": "ilo pi sitelen tawa",
+    "sitelenpona": "ilo pi++sitelen tawa",
     "traduko": {
-      "angla": [
-        "television"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ekrano",
+        "Televido"
+      ]
     }
   },
   {
     "vorto": "ilo sitelen",
+    "sitelenpona": "ilo sitelen",
     "traduko": {
-      "angla": [
-        "pen",
-        "camera"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Fotilo",
+        "Pentrilo",
+        "Skribilo"
+      ]
     }
   },
   {
     "vorto": "ilo sona",
+    "sitelenpona": "ilo sona",
     "traduko": {
-      "angla": [
-        "computer"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Komputilo"
+      ]
     }
   },
   {
     "vorto": "ilo suno",
+    "sitelenpona": "ilo suno",
     "traduko": {
-      "angla": [
-        "lamp"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Lampo",
+        "Lumigilo",
+        "Lumilo"
+      ]
     }
   },
   {
     "vorto": "ilo tawa",
+    "sitelenpona": "ilo tawa",
     "traduko": {
-      "angla": [
-        "motor"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Motoro"
+      ]
     }
   },
   {
     "vorto": "ilo tenpo",
+    "sitelenpona": "ilo tenpo",
     "traduko": {
-      "angla": [
-        "clock"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Horloĝo"
+      ]
     }
   },
   {
     "vorto": "ilo tenpo suno",
+    "sitelenpona": "ilo tenpo suno",
     "traduko": {
-      "angla": [
-        "sundial"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Sunhorloĝo"
+      ]
     }
   },
   {
     "vorto": "ilo toki",
+    "sitelenpona": "ilo toki",
     "traduko": {
-      "angla": [
-        "telephone",
-        "phone"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Enreta Babilejo",
+        "Komunikilo",
+        "Telefono"
+      ]
+    }
+  },
+  {
+    "vorto": "ilo unpa",
+    "sitelenpona": "ilo unpa",
+    "traduko": {
+      "substantivo": [
+        "seksludilo"
+      ]
     }
   },
   {
     "vorto": "ilo utala",
+    "sitelenpona": "ilo utala",
     "traduko": {
-      "angla": [
-        "weapon"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Armilo"
+      ]
     }
   },
   {
     "vorto": "insa",
+    "sitelenpona": "insa",
     "traduko": {
-      "angla": [
-        "internal",
-        "inner",
-        "interior",
-        "centre",
-        "guts",
-        "core",
-        "central",
-        "inside",
-        "middle",
-        "belly",
-        "stomach"
+      "substantivo": [
+        "Centro",
+        "Eno",
+        "Interna Mondo",
+        "Interno",
+        "Kerno",
+        "Stomako",
+        "Ventro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Centra",
+        "Ena",
+        "Interna",
+        "Meza"
+      ],
+      "prepozicio": [
+        "En",
+        "Interne"
+      ]
     }
   },
   {
     "vorto": "insa pi ma tomo",
+    "sitelenpona": "insa pi++ma tomo",
     "traduko": {
-      "angla": [
-        "downtown"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Urbocentro"
+      ]
     }
   },
   {
     "vorto": "jaki",
+    "sitelenpona": "jaki",
     "traduko": {
-      "angla": [
-        "dirty",
-        "trash",
-        "gross",
-        "garbage",
-        "mess",
-        "disgusting",
-        "junk",
-        "bacteria",
-        "nasty",
-        "crap",
-        "waste",
-        "toxic",
-        "infection"
+      "substantivo": [
+        "Bakterio(j)",
+        "Infekto",
+        "Kripo",
+        "Rubo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Malagrabla",
+        "Malhigiena",
+        "Malpura",
+        "Naŭza",
+        "Obscena",
+        "Toksa"
+      ]
     }
   },
   {
     "vorto": "jaki ala",
+    "sitelenpona": "jaki ala",
     "traduko": {
-      "angla": [
-        "clean"
+      "adjektivo": [
+        "Higiena",
+        "Malpura"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Malpurigi"
+      ]
     }
   },
   {
     "vorto": "jan",
+    "sitelenpona": "jan",
     "traduko": {
-      "angla": [
-        "person",
-        "human",
-        "people",
-        "anybody",
-        "dude",
-        "anyone",
-        "somebody",
-        "character",
-        "guy",
-        "being"
+      "substantivo": [
+        "Enloĝanto",
+        "Estaĵo",
+        "Homo",
+        "Persono",
+        "Ulo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Homa",
+        "Persona",
+        "ies"
+      ],
+      "korelativo": [
+        "Iu ajn",
+        "Iu"
+      ]
     }
   },
   {
     "vorto": "jan ala",
+    "sitelenpona": "jan+ala",
     "traduko": {
-      "angla": [
-        "nobody"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Neniu"
+      ]
     }
   },
   {
     "vorto": "jan alasa",
+    "sitelenpona": "jan alasa",
     "traduko": {
-      "angla": [
-        "hunter"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Furaĝisto",
+        "Kaptisto",
+        "Kolektanto",
+        "Kolektisto",
+        "Ĉasisto"
+      ]
     }
   },
   {
     "vorto": "jan ale",
+    "sitelenpona": "jan+ale",
     "traduko": {
-      "angla": [
-        "everybody",
-        "everyone",
-        "humanity"
+      "substantivo": [
+        "Homaro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Ĉiuj"
+      ]
     }
   },
   {
     "vorto": "jan awen",
+    "sitelenpona": "jan+awen",
     "traduko": {
-      "angla": [
-        "defender",
-        "guard",
-        "defendant"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Defendanto",
+        "Gardisto"
+      ]
     }
   },
   {
     "vorto": "jan esun",
+    "sitelenpona": "jan+esun",
     "traduko": {
-      "angla": [
-        "vendor",
-        "businessperson",
-        "retailer",
-        "customer",
-        "consumer"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kliento",
+        "Komercisto",
+        "Konsumanto",
+        "Vendisto"
+      ]
     }
   },
   {
     "vorto": "jan ike",
+    "sitelenpona": "jan+ike",
     "traduko": {
-      "angla": [
-        "offender",
-        "asshole",
-        "enemy"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Idioto",
+        "Malamiko",
+        "Malbona persono",
+        "Malbonulo",
+        "Ofendanto",
+        "Stultulo"
+      ]
     }
   },
   {
     "vorto": "jan jo",
+    "sitelenpona": "jan jo",
     "traduko": {
-      "angla": [
-        "owner"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Posedanto"
+      ]
     }
   },
   {
     "vorto": "jan kama",
+    "sitelenpona": "jan+kama",
     "traduko": {
-      "angla": [
-        "visitor"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Vizitanto"
+      ]
     }
   },
   {
     "vorto": "jan kepeken",
+    "sitelenpona": "jan kepeken",
     "traduko": {
-      "angla": [
-        "user"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Uzanto"
+      ]
     }
   },
   {
     "vorto": "jan kulupu",
+    "sitelenpona": "jan+kulupu",
     "traduko": {
-      "angla": [
-        "member"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ano",
+        "Grupano",
+        "Membro"
+      ]
     }
   },
   {
     "vorto": "jan kute",
+    "sitelenpona": "jan kute",
     "traduko": {
-      "angla": [
-        "listener",
-        "audience"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Auskultanto",
+        "Aŭdanto"
+      ]
     }
   },
   {
     "vorto": "jan lawa",
+    "sitelenpona": "jan lawa",
     "traduko": {
-      "angla": [
-        "boss",
-        "administrator",
-        "leader",
-        "supervisor",
-        "chief",
-        "commander",
-        "manager",
-        "captain",
-        "master",
-        "chairman",
-        "director",
-        "president",
-        "governor",
-        "minister",
-        "officer",
-        "emperor",
-        "congressman",
-        "senator",
-        "king",
-        "employer",
-        "sheriff",
-        "coordinator",
-        "mayor",
-        "lawmaker",
-        "politician"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Administranto",
+        "Direktoro",
+        "Estro",
+        "Kapitano",
+        "Komandanto",
+        "Kontrolisto",
+        "Majstro",
+        "Ministro",
+        "Oficiro",
+        "Politikisto",
+        "Prezidanto",
+        "Reĝo",
+        "Urbestro",
+        "Ĉefo"
+      ]
+    }
+  },
+  {
+    "vorto": "jan lawa ma",
+    "sitelenpona": "jan lawa ma",
+    "traduko": {
+      "substantivo": [
+        "Prezidanto",
+        "Provincestro",
+        "Ŝtatestro"
+      ]
+    }
+  },
+  {
+    "vorto": "jan lawa pi ma tomo",
+    "sitelenpona": "jan lawa pi++ma tomo",
+    "traduko": {
+      "substantivo": [
+        "Urbestro"
+      ]
     }
   },
   {
     "vorto": "jan lili",
+    "sitelenpona": "jan+lili",
     "traduko": {
-      "angla": [
-        "child",
-        "baby"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Bebo",
+        "Etulo",
+        "Filo",
+        "Ido",
+        "Infanto"
+      ]
     }
   },
   {
     "vorto": "jan lukin",
+    "sitelenpona": "jan+lukin",
     "traduko": {
-      "angla": [
-        "viewer",
-        "observer",
-        "witness",
-        "inspector",
-        "reader"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Atestanto",
+        "Inspektisto",
+        "Leganto",
+        "Observanto",
+        "Spektanto"
+      ]
     }
   },
   {
     "vorto": "jan ma",
+    "sitelenpona": "jan+ma",
     "traduko": {
-      "angla": [
-        "citizen"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Civitano",
+        "Urbano"
+      ]
     }
   },
   {
     "vorto": "jan mani",
+    "sitelenpona": "jan+mani",
     "traduko": {
-      "angla": [
-        "banker"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Bankisto"
+      ]
     }
   },
   {
     "vorto": "jan moku",
+    "sitelenpona": "jan moku",
     "traduko": {
-      "angla": [
-        "eater",
-        "chef"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kuiristo",
+        "Manĝanto"
+      ]
     }
   },
   {
     "vorto": "jan moli",
+    "sitelenpona": "jan moli",
     "traduko": {
-      "angla": [
-        "dead person",
-        "killer"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Mortiganto",
+        "Mortinto",
+        "Mortito"
+      ]
     }
   },
   {
     "vorto": "jan musi",
+    "sitelenpona": "jan musi",
     "traduko": {
-      "angla": [
-        "player",
-        "performer",
-        "actor"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Aktoro",
+        "Ludanto",
+        "Prezentisto",
+        "Rolulo"
+      ]
     }
   },
   {
     "vorto": "jan olin",
+    "sitelenpona": "jan olin",
     "traduko": {
-      "angla": [
-        "lover",
-        "spouse",
-        "sweetheart",
-        "beloved",
-        "wife"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Amanto",
+        "Amato",
+        "Amkunulo",
+        "Edzo",
+        "Karulo",
+        "Koramiko"
+      ]
     }
   },
   {
     "vorto": "jan pali",
+    "sitelenpona": "jan pali",
     "traduko": {
-      "angla": [
-        "worker",
-        "maker",
-        "employee",
-        "producer",
-        "developer",
-        "participant",
-        "practitioner",
-        "manufacturer",
-        "personnel",
-        "creator",
-        "contractor"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Dungito",
+        "Ellaboranto",
+        "Fabrikisto",
+        "Faranto",
+        "Kreinto",
+        "Laboristo",
+        "Partoprenanto",
+        "Praktikisto",
+        "Produktanto"
+      ]
     }
   },
   {
     "vorto": "jan pana",
+    "sitelenpona": "jan pana",
     "traduko": {
-      "angla": [
-        "provider",
-        "donor",
-        "dealer"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Donacanto",
+        "Komercisto",
+        "Provizanto"
+      ]
     }
   },
   {
     "vorto": "jan pi alasa sona",
+    "sitelenpona": "jan pi++alasa sona",
     "traduko": {
-      "angla": [
-        "researcher",
-        "detective"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Detektivo",
+        "Esploristo"
+      ]
     }
   },
   {
     "vorto": "jan pi kalama musi",
+    "sitelenpona": "jan pi++kalama musi",
     "traduko": {
-      "angla": [
-        "musician"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Muzikisto"
+      ]
     }
   },
   {
     "vorto": "jan pi kama jo",
+    "sitelenpona": "jan pi++kama jo",
     "traduko": {
-      "angla": [
-        "receiver",
-        "recipient"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ricevanto"
+      ]
     }
   },
   {
     "vorto": "jan pi kama sona",
+    "sitelenpona": "jan pi++kama sona",
     "traduko": {
-      "angla": [
-        "learner",
-        "student"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Lernanto",
+        "Studanto"
+      ]
     }
   },
   {
     "vorto": "jan pi kama suli",
+    "sitelenpona": "jan pi++kama suli",
     "traduko": {
-      "angla": [
-        "teenager"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Adoleskanto",
+        "Dekkelkjarulo"
+      ]
+    }
+  },
+  {
+    "vorto": "jan pi ma ante",
+    "sitelenpona": "jan pi++ma ante",
+    "traduko": {
+      "substantivo": [
+        "Eksterlandano"
+      ]
+    }
+  },
+  {
+    "vorto": "jan pi ma sama",
+    "sitelenpona": "jan pi++ma sama",
+    "traduko": {
+      "substantivo": [
+        "Samlandano",
+        "Samurbano"
+      ]
+    }
+  },
+  {
+    "vorto": "jan pi musi sijelo",
+    "sitelenpona": "jan pi++musi sijelo",
+    "traduko": {
+      "substantivo": [
+        "Atleto"
+      ]
     }
   },
   {
     "vorto": "jan pi mute lili",
+    "sitelenpona": "jan pi++mute lili",
     "traduko": {
-      "angla": [
-        "few (a few people)"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kelkaj Homoj",
+        "Malmultaj homoj"
+      ]
     }
   },
   {
     "vorto": "jan pi pana sona",
+    "sitelenpona": "jan pi++pana sona",
     "traduko": {
-      "angla": [
-        "educator",
-        "instructor",
-        "teacher",
-        "mentor"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Edukisto",
+        "Instruisto",
+        "Mentoro"
+      ]
     }
   },
   {
     "vorto": "jan pi sona esun",
+    "sitelenpona": "jan pi+sona+esun",
     "traduko": {
-      "angla": [
-        "economist"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ekonomiisto"
+      ]
     }
   },
   {
     "vorto": "jan pi tawa musi",
+    "sitelenpona": "jan pi++tawa musi",
     "traduko": {
-      "angla": [
-        "dancer"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Dancanto",
+        "Dancisto"
+      ]
     }
   },
   {
     "vorto": "jan pi toki pona",
+    "sitelenpona": "jan pi+toki+pona",
     "traduko": {
-      "angla": [
-        "Toki Pona speaker"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Tokipona Parolanto"
+      ]
+    }
+  },
+  {
+    "vorto": "jan pi tomo pali",
+    "sitelenpona": "jan pi++tomo pali",
+    "traduko": {
+      "substantivo": [
+        "Oficisto"
+      ]
+    }
+  },
+  {
+    "vorto": "jan pi tomo sama",
+    "sitelenpona": "jan pi+tomo+sama",
+    "traduko": {
+      "substantivo": [
+        "Kunloĝanto",
+        "Samĉambrano"
+      ]
     }
   },
   {
     "vorto": "jan poka",
+    "sitelenpona": "jan poka",
     "traduko": {
-      "angla": [
-        "companion",
-        "neighbour",
-        "partner"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Apudulo",
+        "Kunulo",
+        "Najbaro",
+        "Partnero"
+      ]
     }
   },
   {
     "vorto": "jan pona",
+    "sitelenpona": "jan+pona",
     "traduko": {
-      "angla": [
-        "pal",
-        "friend",
-        "buddy",
-        "ally",
-        "mate"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Amiko",
+        "Bonulo"
+      ]
     }
   },
   {
     "vorto": "jan sama",
+    "sitelenpona": "jan+sama",
     "traduko": {
-      "angla": [
-        "peer",
-        "sibling",
-        "brother",
-        "twin"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Egalulo",
+        "Fratino",
+        "Frato",
+        "Paro",
+        "Samsituaciano",
+        "Virfrato",
+        "Ĝemelo"
+      ]
     }
   },
   {
     "vorto": "jan seme",
+    "sitelenpona": "jan+seme",
     "traduko": {
-      "angla": [
-        "who",
-        "whom"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Kiu"
+      ]
     }
   },
   {
     "vorto": "jan sewi",
+    "sitelenpona": "jan sewi",
     "traduko": {
-      "angla": [
-        "saint"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Sankto"
+      ]
     }
   },
   {
     "vorto": "jan sin",
+    "sitelenpona": "jan+sin",
     "traduko": {
-      "angla": [
-        "newcomer",
-        "freshman",
-        "rookie"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Komencanto",
+        "Novulo"
+      ]
     }
   },
   {
     "vorto": "jan sitelen",
+    "sitelenpona": "jan sitelen",
     "traduko": {
-      "angla": [
-        "painter",
-        "author",
-        "writer"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Aŭtoro",
+        "Pentristo",
+        "Verkisto"
+      ]
     }
   },
   {
     "vorto": "jan sona",
+    "sitelenpona": "jan sona",
     "traduko": {
-      "angla": [
-        "scholar",
-        "scientist",
-        "expert",
-        "specialist",
-        "intellectual"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Akademiulo",
+        "Fakulo",
+        "Intelektulo",
+        "Klerulo",
+        "Saĝulo",
+        "Sciencisto",
+        "Sciulo",
+        "Specialisto",
+        "Spertulo"
+      ]
+    }
+  },
+  {
+    "vorto": "jan sona nanpa",
+    "sitelenpona": "jan sona+nanpa",
+    "traduko": {
+      "substantivo": [
+        "Matematikisto"
+      ]
+    }
+  },
+  {
+    "vorto": "jan sona pilin",
+    "sitelenpona": "jan sona+pilin",
+    "traduko": {
+      "substantivo": [
+        "Psikologo"
+      ]
+    }
+  },
+  {
+    "vorto": "jan sona sijelo",
+    "sitelenpona": "jan sona+sijelo",
+    "traduko": {
+      "substantivo": [
+        "kuracisto"
+      ]
     }
   },
   {
     "vorto": "jan sona pi tenpo pini",
+    "sitelenpona": "jan sona pi++tenpo pini",
     "traduko": {
-      "angla": [
-        "historian"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Historiisto"
+      ]
     }
   },
   {
     "vorto": "jan suli",
+    "sitelenpona": "jan+suli",
     "traduko": {
-      "angla": [
-        "adult"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Grandulo",
+        "Plenaĝulo",
+        "Plenkreskulo"
+      ]
     }
   },
   {
     "vorto": "jan tawa",
+    "sitelenpona": "jan+tawa",
     "traduko": {
-      "angla": [
-        "traveller"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Vojaĝanto"
+      ]
     }
   },
   {
     "vorto": "jan toki",
+    "sitelenpona": "jan+toki",
     "traduko": {
-      "angla": [
-        "spokesperson",
-        "speaker",
-        "narrator",
-        "caller",
-        "correspondent",
-        "reporter"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Alvokanto",
+        "Korespondanto",
+        "Mesaĝisto",
+        "Parolanto",
+        "Preleganto",
+        "Rakontanto",
+        "Raportisto"
+      ]
+    }
+  },
+  {
+    "vorto": "jan unpa",
+    "sitelenpona": "jan+unpa",
+    "traduko": {
+      "substantivo": [
+        "Amoristo",
+        "Fikamiko",
+        "Prostituito",
+        "Seksumisto"
+      ]
     }
   },
   {
     "vorto": "jan utala",
+    "sitelenpona": "jan+utala",
     "traduko": {
-      "angla": [
-        "warrior",
-        "fighter",
-        "soldier",
-        "competitor",
-        "opponent",
-        "rival"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Batalanto",
+        "Kontraŭulo",
+        "Militisto",
+        "Rivalo",
+        "Soldato"
+      ]
     }
   },
   {
     "vorto": "jasima",
+    "sitelenpona": "jasima",
     "traduko": {
-      "angla": [
-        "reflect"
+      "substantivo": [
+        "Kontraŭan Finon",
+        "Spegulo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Kontraŭa",
+        "Spegula"
+      ],
+      "verbo": [
+        "Speguli"
+      ]
     }
   },
   {
     "vorto": "jelo",
+    "sitelenpona": "jelo",
     "traduko": {
-      "angla": [
-        "yellow"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "koloro": [
+        "Flava",
+        "Flaveca",
+        "Helverda"
+      ]
     }
   },
   {
     "vorto": "jo",
+    "sitelenpona": "jo",
     "traduko": {
-      "angla": [
-        "have",
-        "possess",
-        "carry",
-        "contain",
-        "own",
-        "hold",
-        "possession",
-        "ownership",
-        "consist",
-        "include",
-        "comprise"
+      "substantivo": [
+        "Enhavo",
+        "Havado",
+        "Havaĵo",
+        "Posedaĵo",
+        "Posedo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Enhavi",
+        "Enteni",
+        "Havi",
+        "Posedi",
+        "Teni"
+      ]
     }
   },
   {
     "vorto": "jo ala",
+    "sitelenpona": "jo ala",
     "traduko": {
-      "angla": [
-        "lack"
+      "substantivo": [
+        "Manko"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Manki"
+      ]
     }
   },
   {
     "vorto": "jo e ilo utala",
+    "sitelenpona": "jo e ilo utala",
     "traduko": {
-      "angla": [
-        "armed"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Armita"
+      ]
     }
   },
   {
     "vorto": "kala",
+    "sitelenpona": "kala",
     "traduko": {
-      "angla": [
-        "fish",
-        "sea creature",
-        "salmon"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Fiŝo",
+        "Mara Estaĵo",
+        "Mara Kreitaĵo",
+        "Marbesto",
+        "Marmanĝaĵo"
+      ]
+    }
+  },
+  {
+    "vorto": "kala lete",
+    "sitelenpona": "kala lete",
+    "traduko": {
+      "substantivo": [
+        "Kruda Fiŝaĵo",
+        "Suŝio"
+      ]
     }
   },
   {
     "vorto": "kala suli",
+    "sitelenpona": "kala suli",
     "traduko": {
-      "angla": [
-        "whale"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Baleno"
+      ]
     }
   },
   {
     "vorto": "kalama",
+    "sitelenpona": "kalama",
     "traduko": {
-      "angla": [
-        "sound",
-        "noise",
-        "tone"
+      "substantivo": [
+        "Bruo",
+        "Sono",
+        "Tono",
+        "Voĉo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Brui",
+        "Diri Laŭte",
+        "Ludi Instrumenton",
+        "Soni",
+        "Soni",
+        "Sonigi"
+      ]
     }
   },
   {
     "vorto": "kalama ala",
+    "sitelenpona": "kalama ala",
     "traduko": {
-      "angla": [
-        "silence",
-        "silent",
-        "quiet"
+      "substantivo": [
+        "Silento"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Silenta",
+        "Trankvila"
+      ]
     }
   },
   {
     "vorto": "kalama musi",
+    "sitelenpona": "kalama musi",
     "traduko": {
-      "angla": [
-        "music",
-        "song"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kanto",
+        "Muziko"
+      ]
     }
   },
   {
     "vorto": "kama",
+    "sitelenpona": "kama",
     "traduko": {
-      "angla": [
-        "coming",
-        "come",
-        "arrival",
-        "arrive",
-        "become",
-        "upcoming",
-        "emerging",
-        "emerge",
-        "happen",
-        "occur"
+      "substantivo": [
+        "Evento",
+        "Hazardo",
+        "Komenco",
+        "Okazo",
+        "Veno"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Alvenanta",
+        "Estonteca",
+        "Venanta",
+        "Venonta",
+        "Vokita"
+      ],
+      "verbo": [
+        "Agi por veni al iu stato",
+        "Alveni",
+        "Aperi",
+        "Iĝi",
+        "Okazi",
+        "Sukcesi",
+        "Veni",
+        "Venigi"
+      ],
+      "afikso": [
+        "-iĝ",
+        "Ek-"
+      ]
     }
   },
   {
     "vorto": "kama ante",
+    "sitelenpona": "kama ante",
     "traduko": {
-      "angla": [
-        "evolve"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Evolui"
+      ]
     }
   },
   {
     "vorto": "kama jo",
+    "sitelenpona": "kama jo",
     "traduko": {
-      "angla": [
-        "receive",
-        "acquire",
-        "obtain",
-        "acquisition",
-        "get",
-        "take",
-        "gain",
-        "download",
-        "pickup",
-        "collect"
+      "substantivo": [
+        "Akiro",
+        "repreno"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Akiri",
+        "Elŝuti",
+        "Gajni",
+        "Kolekti",
+        "Preni",
+        "Recevi"
+      ]
     }
   },
   {
     "vorto": "kama lili",
+    "sitelenpona": "kama lili",
     "traduko": {
-      "angla": [
-        "decrease"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Malkreski",
+        "Malkreskigi",
+        "Malkreskiĝi"
+      ]
     }
   },
   {
     "vorto": "kama lon",
+    "sitelenpona": "kama lon",
     "traduko": {
-      "angla": [
-        "enroll"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Alveni",
+        "Estiĝi",
+        "Naskiĝi"
+      ]
+    }
+  },
+  {
+    "vorto": "kama olin",
+    "sitelenpona": "kama olin",
+    "traduko": {
+      "verbo": [
+        "Enamiĝi"
+      ]
     }
   },
   {
     "vorto": "kama pona",
+    "sitelenpona": "kama pona",
     "traduko": {
-      "angla": [
-        "recovery",
-        "welcome (interj)",
-        "recover"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Bonvenon",
+        "Resaniĝi",
+        "Sanreakiri"
+      ]
     }
   },
   {
     "vorto": "kama sona",
+    "sitelenpona": "kama sona",
     "traduko": {
-      "angla": [
-        "learning",
-        "realize",
-        "learn",
-        "study (v)",
-        "discover"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Lerni",
+        "Malkovri",
+        "Studi"
+      ]
     }
   },
   {
     "vorto": "kama suli",
+    "sitelenpona": "kama suli",
     "traduko": {
-      "angla": [
-        "increasing",
-        "growing",
-        "grow",
-        "growth",
-        "expansion",
-        "increased",
-        "increase",
-        "inflation"
+      "substantivo": [
+        "Ekspansio",
+        "Inflacio",
+        "Kresko"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Grandigi",
+        "Pliigi",
+        "kreski"
+      ]
     }
   },
   {
     "vorto": "kama telo",
+    "sitelenpona": "kama telo",
     "traduko": {
-      "angla": [
-        "melt"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Fandi",
+        "Fandiĝi",
+        "Likvigi"
+      ]
     }
   },
   {
     "vorto": "kasi",
+    "sitelenpona": "kasi",
     "traduko": {
-      "angla": [
-        "plant",
-        "bush"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Folio",
+        "Herbo",
+        "Planto",
+        "Vegetaĵo"
+      ]
     }
   },
   {
     "vorto": "kasi kule",
+    "sitelenpona": "kasi kule",
     "traduko": {
-      "angla": [
-        "flower"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Floro"
+      ]
     }
   },
   {
     "vorto": "kasi nasa",
+    "sitelenpona": "kasi nasa",
     "traduko": {
-      "angla": [
-        "marijuana"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kanabo"
+      ]
     }
   },
   {
     "vorto": "kasi suli",
+    "sitelenpona": "kasi suli",
     "traduko": {
-      "angla": [
-        "tree"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Arbo"
+      ]
     }
   },
   {
     "vorto": "kasi telo",
+    "sitelenpona": "kasi telo",
     "traduko": {
-      "angla": [
-        "seaweed"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Algo"
+      ]
     }
   },
   {
     "vorto": "ken",
+    "sitelenpona": "ken",
     "traduko": {
-      "angla": [
-        "able",
-        "potential",
-        "ability",
-        "capability",
-        "capable",
-        "may",
-        "possible",
-        "could",
-        "eligible",
-        "can",
-        "possibility",
-        "permission",
-        "likelihood",
-        "chance",
-        "probability",
-        "maybe",
-        "opportunity",
-        "available",
-        "possibly",
-        "odds"
+      "substantivo": [
+        "Eblo",
+        "Kapablo",
+        "Permeso",
+        "Potencialo",
+        "Povo",
+        "Probablo",
+        "Rajto",
+        "Verŝajneco",
+        "Ŝanco"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Ebla",
+        "Kapabla",
+        "Libera",
+        "Pova",
+        "Rajta"
+      ],
+      "verbo": [
+        "Ebligi",
+        "Kapabli",
+        "Permesi",
+        "Povi",
+        "Rajtigi"
+      ]
     }
   },
   {
     "vorto": "ken ala",
+    "sitelenpona": "ken ala",
     "traduko": {
-      "angla": [
-        "unable",
-        "impossible",
-        "disabled"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Malebligita",
+        "Neebla"
+      ]
     }
   },
   {
     "vorto": "ken ike",
+    "sitelenpona": "ken ike",
     "traduko": {
-      "angla": [
-        "risk"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Risko"
+      ]
     }
   },
   {
     "vorto": "ken la",
+    "sitelenpona": "ken la",
     "traduko": {
-      "angla": [
-        "patentially",
-        "perhaps",
-        "maybe",
-        "possibly"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Eble"
+      ]
     }
   },
   {
     "vorto": "ken lukin",
+    "sitelenpona": "ken lukin",
     "traduko": {
-      "angla": [
-        "visible"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Videbla"
+      ]
     }
   },
   {
     "vorto": "ken moli",
+    "sitelenpona": "ken moli",
     "traduko": {
-      "angla": [
-        "mortality"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Mortebla"
+      ]
     }
   },
   {
     "vorto": "ken tawa",
+    "sitelenpona": "ken tawa",
     "traduko": {
-      "angla": [
-        "mobile"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Movebla"
+      ]
     }
   },
   {
     "vorto": "kepeken",
+    "sitelenpona": "kepeken",
     "traduko": {
-      "angla": [
-        "use",
-        "utilize",
-        "via",
-        "employ"
+      "verbo": [
+        "Utiligi",
+        "Uzi"
       ],
-      "esperanto": [],
-      "hispana": []
+      "prepozicio": [
+        "per"
+      ]
     }
   },
   {
     "vorto": "kepeken tenpo lili",
+    "sitelenpona": "kepeken tenpo lili",
     "traduko": {
-      "angla": [
-        "quick"
+      "adjektivo": [
+        "Rapida"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Rapide"
+      ]
     }
   },
   {
     "vorto": "kijetesantakalu",
+    "sitelenpona": "kijetesantakalu",
     "traduko": {
-      "angla": [
-        "procyonid"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kinkajuo",
+        "Lavurso",
+        "Procinedoj"
+      ]
     }
   },
   {
     "vorto": "kili",
+    "sitelenpona": "kili",
     "traduko": {
-      "angla": [
-        "fruit",
-        "vegetable",
-        "apple",
-        "kumquat"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Frukto",
+        "Legomo"
+      ]
+    }
+  },
+  {
+    "vorto": "kili kiwen",
+    "sitelenpona": "kili kiwen",
+    "traduko": {
+      "substantivo": [
+        "Kokoso"
+      ]
+    }
+  },
+  {
+    "vorto": "kili lili",
+    "sitelenpona": "kili+lili",
+    "traduko": {
+      "substantivo": [
+        "Bero",
+        "Frukteto",
+        "Legometo"
+      ]
+    }
+  },
+  {
+    "vorto": "kili lili kiwen",
+    "sitelenpona": "kili+lili kiwen",
+    "traduko": {
+      "substantivo": [
+        "Nukso"
+      ]
+    }
+  },
+  {
+    "vorto": "kili loje",
+    "sitelenpona": "kili loje",
+    "traduko": {
+      "substantivo": [
+        "Ruga pomo",
+        "Ruĝa Frukto",
+        "Ruĝa Legomo",
+        "Tomato"
+      ]
+    }
+  },
+  {
+    "vorto": "kili ma",
+    "sitelenpona": "kili ma",
+    "traduko": {
+      "substantivo": [
+        "Terlegomo",
+        "Terpomo"
+      ]
+    }
+  },
+  {
+    "vorto": "kili palisa",
+    "sitelenpona": "kili palisa",
+    "traduko": {
+      "substantivo": [
+        "Banano",
+        "Karoto",
+        "Kukumo",
+        "Longa Frukto",
+        "Longa Legomo"
+      ]
     }
   },
   {
     "vorto": "kin",
+    "sitelenpona": "kin",
     "traduko": {
-      "angla": [
-        "also",
-        "too"
+      "adverbo": [
+        "Ankaŭ",
+        "Certe",
+        "Eĉ"
       ],
-      "esperanto": [],
-      "hispana": []
+      "konjunkcio": [
+        "Ja"
+      ]
     }
   },
   {
     "vorto": "kin la",
+    "sitelenpona": "kin la",
     "traduko": {
-      "angla": [
-        "moreover"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Ankaŭ",
+        "Cetere"
+      ]
     }
   },
   {
     "vorto": "kipisi",
+    "sitelenpona": "kipisi",
     "traduko": {
-      "angla": [
-        "split",
-        "division",
-        "slice",
-        "cut",
-        "divide",
-        "chop",
-        "segment",
-        "section"
+      "substantivo": [
+        "Divido",
+        "Segmento",
+        "Sekcio"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Apartigi",
+        "Dividi",
+        "Fendi",
+        "Tranĉi"
+      ]
     }
   },
   {
     "vorto": "kiwen",
+    "sitelenpona": "kiwen",
     "traduko": {
-      "angla": [
-        "solid",
-        "rock",
-        "stone",
-        "hard object",
-        "concrete",
-        "metal",
-        "steel",
-        "iron",
-        "stiff",
-        "firm"
+      "substantivo": [
+        "Fero",
+        "Malmola Objekto",
+        "Metalo",
+        "Roko",
+        "Ŝtalo",
+        "Ŝtono"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Firma",
+        "Malmola",
+        "Metala",
+        "Rigida",
+        "Solida",
+        "Ŝtoneca"
+      ]
     }
   },
   {
     "vorto": "kiwen kasi",
+    "sitelenpona": "kiwen kasi",
     "traduko": {
-      "angla": [
-        "wood",
-        "wooden"
+      "substantivo": [
+        "Ligno"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Ligna"
+      ]
     }
   },
   {
     "vorto": "kiwen uta",
+    "sitelenpona": "kiwen uta",
     "traduko": {
-      "angla": [
-        "tooth"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Dento"
+      ]
     }
   },
   {
     "vorto": "ko",
+    "sitelenpona": "ko",
     "traduko": {
-      "angla": [
-        "goo",
-        "semisolid",
-        "powder",
-        "paste",
-        "clay"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Duonsolida substanco",
+        "Duonsolidaĵo",
+        "Gumo",
+        "Pasto",
+        "Pulvoro"
+      ]
     }
   },
   {
     "vorto": "ko pan",
+    "sitelenpona": "ko pan",
     "traduko": {
-      "angla": [
-        "flour"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Farino"
+      ]
     }
   },
   {
     "vorto": "kokosila",
+    "sitelenpona": "kokosila",
     "traduko": {
-      "angla": [
-        "speak another language in a Toki Pona only environment"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Paroli alian lingvon en tokipona nura medio"
+      ]
+    }
+  },
+  {
+    "vorto": "ko jaki",
+    "sitelenpona": "ko jaki",
+    "traduko": {
+      "substantivo": [
+        "Feko"
+      ]
     }
   },
   {
     "vorto": "kon",
+    "sitelenpona": "kon",
     "traduko": {
-      "angla": [
-        "air",
-        "soul",
-        "spirit",
-        "gas",
-        "essence",
-        "atmosphere",
-        "oxygen",
-        "breathe",
-        "breath",
-        "meaning",
-        "intangible",
-        "invisible entity",
-        "breathing"
+      "substantivo": [
+        "Aero",
+        "Animo",
+        "Atmosfero",
+        "Esenco",
+        "Gaso",
+        "Nevidebla Estaĵo",
+        "Odoro",
+        "Oksigeno",
+        "Spirado",
+        "Spirito",
+        "Spiro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Aera",
+        "Gasa"
+      ]
     }
   },
   {
     "vorto": "kon tawa",
+    "sitelenpona": "kon tawa",
     "traduko": {
-      "angla": [
-        "wind"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Vento"
+      ]
     }
   },
   {
     "vorto": "kule",
+    "sitelenpona": "kule",
     "traduko": {
-      "angla": [
-        "colour"
+      "substantivo": [
+        "koloro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Kolora",
+        "Pentrita",
+        "Pigmenta"
+      ],
+      "verbo": [
+        "Kolori",
+        "Pentri"
+      ]
     }
   },
   {
     "vorto": "kulupu",
+    "sitelenpona": "kulupu",
     "traduko": {
-      "angla": [
-        "organization",
-        "group",
-        "community",
-        "collective",
-        "tribe",
-        "squad",
-        "bunch",
-        "tribal",
-        "cluster",
-        "league",
-        "society",
-        "collection",
-        "association",
-        "crew",
-        "team",
-        "club",
-        "coalition",
-        "set",
-        "socially",
-        "gathering",
-        "institution",
-        "category",
-        "gang",
-        "meeting",
-        "assembly",
-        "network",
-        "pile",
-        "crowd"
+      "substantivo": [
+        "Amaso",
+        "Aro",
+        "Asocio",
+        "Grupo",
+        "Homamaso",
+        "Institucio",
+        "Kolektivo",
+        "Komunumo",
+        "Kunveno",
+        "Organizo",
+        "Tribo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Asocia",
+        "Kolektiva",
+        "Komuna",
+        "Publika",
+        "Socia"
+      ]
     }
   },
   {
     "vorto": "kulupu ilo",
+    "sitelenpona": "kulupu ilo",
     "traduko": {
-      "angla": [
-        "kit"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ilaro"
+      ]
     }
   },
   {
     "vorto": "kulupu lawa",
+    "sitelenpona": "kulupu lawa",
     "traduko": {
-      "angla": [
-        "council",
-        "senate",
-        "congress",
-        "administration"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Administrado",
+        "Kongreso",
+        "Konsilio",
+        "Senato"
+      ]
     }
   },
   {
     "vorto": "kulupu mama",
+    "sitelenpona": "kulupu mama",
     "traduko": {
-      "angla": [
-        "family"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Familio"
+      ]
     }
   },
   {
     "vorto": "kulupu pi kalama musi",
+    "sitelenpona": "kulupu pi++kalama musi",
     "traduko": {
-      "angla": [
-        "band"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Muzikgrupo"
+      ]
     }
   },
   {
     "vorto": "kulupu utala",
+    "sitelenpona": "kulupu utala",
     "traduko": {
-      "angla": [
-        "army",
-        "military"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Armeo",
+        "Militaro"
+      ]
     }
   },
   {
     "vorto": "kulupu utala telo",
+    "sitelenpona": "kulupu utala telo",
     "traduko": {
-      "angla": [
-        "navy"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Mararmeo"
+      ]
     }
   },
   {
     "vorto": "kute",
+    "sitelenpona": "kute",
     "traduko": {
-      "angla": [
-        "hear",
-        "listen",
-        "ear",
-        "hearing"
+      "substantivo": [
+        "Orelo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Atenti",
+        "Aŭdi",
+        "Aŭskulti",
+        "Obei"
+      ]
     }
   },
   {
     "vorto": "la",
+    "sitelenpona": "la",
     "traduko": {
-      "angla": [
-        "if",
-        "while",
-        "depending"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "gramatikajxo": [
+        "Inter la kuntaksta adverba frazparto aŭ esprimo kaj la ĉefa frazo"
+      ]
     }
   },
   {
     "vorto": "lanpan",
+    "sitelenpona": "lanpan",
     "traduko": {
-      "angla": [
-        "steal",
-        "seize"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Kapti",
+        "Preni",
+        "Ricevi",
+        "Ŝteli"
+      ]
     }
   },
   {
     "vorto": "lape",
+    "sitelenpona": "lape",
     "traduko": {
-      "angla": [
-        "sleep",
-        "asleep",
-        "rest"
+      "substantivo": [
+        "Dormo",
+        "Ripozo",
+        "Sonĝo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Dorma",
+        "Dormanta",
+        "Ripoza"
+      ],
+      "verbo": [
+        "Dormi",
+        "Ripozi"
+      ]
+    }
+  },
+  {
+    "vorto": "lape pona",
+    "sitelenpona": "lape+pona",
+    "traduko": {
+      "substantivo": [
+        "Bonan Nokton",
+        "Bonan Sonĝon"
+      ],
+      "verbo": [
+        "Dormu bele"
+      ]
     }
   },
   {
     "vorto": "lape ala",
+    "sitelenpona": "lape+ala",
     "traduko": {
-      "angla": [
-        "awake"
+      "adjektivo": [
+        "Veka"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Vekigi",
+        "Vekiĝi"
+      ]
     }
   },
   {
     "vorto": "laso",
+    "sitelenpona": "laso",
     "traduko": {
-      "angla": [
-        "blue",
-        "teal",
-        "green"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "koloro": [
+        "Blua",
+        "Verda",
+        "Verdeca"
+      ]
     }
   },
   {
     "vorto": "laso kasi",
+    "sitelenpona": "laso kasi",
     "traduko": {
-      "angla": [
-        "green"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "koloro": [
+        "Verda"
+      ]
     }
   },
   {
     "vorto": "laso loje",
+    "sitelenpona": "laso loje",
     "traduko": {
-      "angla": [
-        "purple ()"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "koloro": [
+        "Purpura",
+        "Ruĝece Blua"
+      ]
+    }
+  },
+  {
+    "vorto": "laso pimeja",
+    "sitelenpona": "laso pimeja",
+    "traduko": {
+      "koloro": [
+        "Malhelblua"
+      ]
     }
   },
   {
     "vorto": "lawa",
+    "sitelenpona": "lawa",
     "traduko": {
-      "angla": [
-        "govern",
-        "head",
-        "authority",
-        "control",
-        "ruling",
-        "regulatory",
-        "leading",
-        "manage",
-        "administrative",
-        "leadership",
-        "rule",
-        "law",
-        "lead",
-        "management",
-        "legal",
-        "mind",
-        "enforce",
-        "judicial",
-        "oversee",
-        "conduct",
-        "official",
-        "regulate",
-        "brain",
-        "policy",
-        "administer"
+      "substantivo": [
+        "Aŭtoritato",
+        "Cerbo",
+        "Estro",
+        "Juĝisto",
+        "Kapo",
+        "Kontrolo",
+        "Menso",
+        "Politiko",
+        "Regado"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Estra",
+        "Ĉefa"
+      ],
+      "verbo": [
+        "Direkti",
+        "Estri",
+        "Gvidi",
+        "Konduki",
+        "Plani",
+        "Regi",
+        "Reguligi"
+      ]
     }
   },
   {
     "vorto": "leko",
+    "sitelenpona": "leko",
     "traduko": {
-      "angla": [
-        "square",
-        "cube",
-        "block"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Bloko",
+        "Kubo",
+        "Kvadrato"
+      ]
     }
   },
   {
     "vorto": "len",
+    "sitelenpona": "len",
     "traduko": {
-      "angla": [
-        "clothing",
-        "cloth",
-        "clothes",
-        "fabric",
-        "outfit",
-        "privacy",
-        "cover",
-        "dress",
-        "jacket",
-        "wear",
-        "shirt"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Jako",
+        "Kostumo",
+        "Kovrilo",
+        "Privateco",
+        "Tuko",
+        "Vestaĵo",
+        "Vesto",
+        "Ĉemizon",
+        "Ŝtofo"
+      ]
     }
   },
   {
     "vorto": "len ala",
+    "sitelenpona": "len+ala",
     "traduko": {
-      "angla": [
-        "naked"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Nuda"
+      ]
     }
   },
   {
     "vorto": "len jaki",
+    "sitelenpona": "len+jaki",
     "traduko": {
-      "angla": [
-        "laundry"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Lavujo",
+        "Malpura vestoj"
+      ]
     }
   },
   {
     "vorto": "len lawa",
+    "sitelenpona": "len lawa",
     "traduko": {
-      "angla": [
-        "hat",
-        "headscarf",
-        "cap"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kapuĉo",
+        "Kapvestaĵo",
+        "Kufo",
+        "Ĉapelo",
+        "Ĉapo"
+      ]
     }
   },
   {
     "vorto": "len luka",
+    "sitelenpona": "len luka",
     "traduko": {
-      "angla": [
-        "glove"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ganto"
+      ]
     }
   },
   {
     "vorto": "len noka",
+    "sitelenpona": "len noka",
     "traduko": {
-      "angla": [
-        "boot",
-        "shoe",
-        "sock",
-        "pants"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Boto",
+        "Pantolono",
+        "Ŝtrumpeto",
+        "Ŝuo"
+      ]
     }
   },
   {
     "vorto": "len pi weka telo",
+    "sitelenpona": "len pi++weka telo",
     "traduko": {
-      "angla": [
-        "towel"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Banmantelo",
+        "Bantuko",
+        "Mantuko"
+      ]
     }
   },
   {
     "vorto": "len sinpin",
+    "sitelenpona": "len sinpin",
     "traduko": {
-      "angla": [
-        "mask"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "masko"
+      ]
     }
   },
   {
     "vorto": "lete",
+    "sitelenpona": "lete",
     "traduko": {
-      "angla": [
-        "cold",
-        "raw",
-        "frozen"
+      "substantivo": [
+        "Malvarmo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Frosta",
+        "Kruda",
+        "Malvarma",
+        "Nekuirita"
+      ]
+    }
+  },
+  {
+    "vorto": "li",
+    "sitelenpona": "li",
+    "traduko": {
+      "gramatikajxo": [
+        "uzata inter iu ajn subjekto, krom mi kaj sina, kaj ties verbo, kaj ankaŭ por enkonduki novan verbon por la sama subjekto"
+      ]
     }
   },
   {
     "vorto": "lili",
+    "sitelenpona": "lili",
     "traduko": {
-      "angla": [
-        "small",
-        "little",
-        "short",
-        "slight",
-        "reduce",
-        "junior",
-        "slightly",
-        "minimize",
-        "narrow",
-        "bit",
-        "minor",
-        "partly",
-        "reduction",
-        "brief",
-        "young",
-        "fewer",
-        "less",
-        "diminish",
-        "tiny",
-        "barely",
-        "decrease",
-        "minimal",
-        "somewhat",
-        "partially",
-        "thin",
-        "inch",
-        "shallow",
-        "subtle",
-        "lightly",
-        "kinda"
+      "adjektivo": [
+        "Eta",
+        "Juna",
+        "Malalta",
+        "Maldika",
+        "Malgranda",
+        "Malgrava",
+        "Mallonga",
+        "Malmulta",
+        "Malpeza",
+        "Malpleja",
+        "Malprofunda",
+        "Subtila"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Malgrandigi",
+        "Mallongigi",
+        "Malpliigi",
+        "Reduktas"
+      ],
+      "adverbo": [
+        "Iomete",
+        "Malmulte"
+      ]
     }
   },
   {
     "vorto": "linja",
+    "sitelenpona": "linja",
     "traduko": {
-      "angla": [
-        "line",
-        "cord",
-        "string",
-        "rope",
-        "thread",
-        "fibre",
-        "cable",
-        "link"
+      "substantivo": [
+        "Fadeno",
+        "Fibro",
+        "Haro",
+        "Kablo",
+        "Ligo",
+        "Linio",
+        "Ĉeno",
+        "Ŝnuro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Longa",
+        "Malfirma",
+        "Tre Maldika"
+      ]
     }
   },
   {
     "vorto": "linja kiwen",
+    "sitelenpona": "linja kiwen",
     "traduko": {
-      "angla": [
-        "chain"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ĉeno"
+      ]
     }
   },
   {
     "vorto": "linja lawa",
+    "sitelenpona": "linja lawa",
     "traduko": {
-      "angla": [
-        "hair"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Hararo",
+        "Haro"
+      ]
+    }
+  },
+  {
+    "vorto": "linja lili oko",
+    "sitelenpona": "linja lili oko",
+    "traduko": {
+      "substantivo": [
+        "Brovoj",
+        "Okulharoj"
+      ]
     }
   },
   {
     "vorto": "linja monsi",
+    "sitelenpona": "linja monsi",
     "traduko": {
-      "angla": [
-        "tail"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Vosto"
+      ]
+    }
+  },
+  {
+    "vorto": "linja sinpin",
+    "sitelenpona": "linja sinpin",
+    "traduko": {
+      "substantivo": [
+        "Barbo"
+      ]
     }
   },
   {
     "vorto": "linja uta",
+    "sitelenpona": "linja uta",
     "traduko": {
-      "angla": [
-        "moustache"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Lipharoj"
+      ]
     }
   },
   {
     "vorto": "lipu",
+    "sitelenpona": "lipu",
     "traduko": {
-      "angla": [
-        "paper",
-        "book",
-        "ticket",
-        "document",
-        "article",
-        "card",
-        "page",
-        "magazine",
-        "sheet",
-        "file",
-        "website",
-        "essay",
-        "novel",
-        "letter (in mail)",
-        "sign",
-        "publication"
+      "substantivo": [
+        "Artikolo",
+        "Bileto",
+        "Dokumento",
+        "Dosiero",
+        "Eldono",
+        "Eseo",
+        "Folio",
+        "Karto",
+        "Libreo",
+        "Litero",
+        "Papero",
+        "Paĝo",
+        "Retejo",
+        "Revuo",
+        "Romano"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Faldebla",
+        "Plata"
+      ]
     }
   },
   {
     "vorto": "lipu kasi",
+    "sitelenpona": "lipu+kasi",
     "traduko": {
-      "angla": [
-        "leaf"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Folio"
+      ]
     }
   },
   {
     "vorto": "lipu lawa",
+    "sitelenpona": "lipu lawa",
     "traduko": {
-      "angla": [
-        "constitution"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Konstitucio"
+      ]
     }
   },
   {
     "vorto": "lipu moku",
+    "sitelenpona": "lipu moku",
     "traduko": {
-      "angla": [
-        "menu"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Menuo"
+      ]
     }
   },
   {
     "vorto": "lipu nimi",
+    "sitelenpona": "lipu+nimi",
     "traduko": {
-      "angla": [
-        "dictionary"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Vortaro"
+      ]
     }
   },
   {
     "vorto": "lipu tenpo",
+    "sitelenpona": "lipu+tenpo",
     "traduko": {
-      "angla": [
-        "calendar"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kalendaro"
+      ]
+    }
+  },
+  {
+    "vorto": "lipu toki",
+    "sitelenpona": "lipu+toki",
+    "traduko": {
+      "substantivo": [
+        "Dokumento",
+        "Skribaĵo",
+        "Teksto",
+        "Verkaĵo"
+      ]
     }
   },
   {
     "vorto": "loje",
+    "sitelenpona": "loje",
     "traduko": {
-      "angla": [
-        "red"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "koloro": [
+        "Ruĝa"
+      ]
     }
   },
   {
     "vorto": "loje laso",
+    "sitelenpona": "loje laso",
     "traduko": {
-      "angla": [
-        "purple ()"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "koloro": [
+        "Bluece Ruĝa",
+        "Purpura"
+      ]
     }
   },
   {
     "vorto": "loje walo",
+    "sitelenpona": "loje walo",
     "traduko": {
-      "angla": [
-        "pink"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "koloro": [
+        "Malheleruĝa",
+        "Rozkolora"
+      ]
     }
   },
   {
     "vorto": "lon",
+    "sitelenpona": "lon",
     "traduko": {
-      "angla": [
-        "at",
-        "existing",
-        "real",
-        "exist",
-        "located",
-        "presence",
-        "yep",
-        "existence",
-        "actual",
-        "on",
-        "true",
-        "living",
-        "yes",
-        "truth",
-        "reality",
-        "physical",
-        "yeah",
-        "upon",
-        "genuine",
-        "truly",
-        "in",
-        "alive",
-        "position",
-        "accurate",
-        "exactly",
-        "occupy",
-        "live",
-        "attendance",
-        "certainly",
-        "indeed",
-        "attend",
-        "right (not wrong)"
+      "substantivo": [
+        "Ekzsito",
+        "Partopreno",
+        "Pozicio",
+        "Ĉeesto"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Aŭtenta",
+        "Ekzistanta",
+        "Fizika",
+        "Preciza",
+        "Reala",
+        "Vivanta",
+        "Ĝusta"
+      ],
+      "verbo": [
+        "Ekzisti",
+        "Vivi",
+        "Ĉeesti"
+      ]
     }
   },
   {
     "vorto": "lon ala",
+    "sitelenpona": "lon ala",
     "traduko": {
-      "angla": [
-        "fake",
-        "false"
+      "adjektivo": [
+        "Falsa",
+        "Malvera",
+        "Malĝusta"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Malĉeesti"
+      ],
+      "korelativo": [
+        "Nenie"
+      ]
     }
   },
   {
     "vorto": "lon ale",
+    "sitelenpona": "lon ale",
     "traduko": {
-      "angla": [
-        "everywhere"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Ĉie"
+      ]
     }
   },
   {
     "vorto": "lon anpa",
+    "sitelenpona": "lon anpa",
     "traduko": {
-      "angla": [
-        "under"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "prepozicio": [
+        "sub"
+      ]
     }
   },
   {
     "vorto": "lon insa",
+    "sitelenpona": "lon insa",
     "traduko": {
-      "angla": [
-        "within"
+      "adverbo": [
+        "Ene"
       ],
-      "esperanto": [],
-      "hispana": []
+      "prepozicio": [
+        "en"
+      ]
     }
   },
   {
     "vorto": "lon la",
+    "sitelenpona": "lon la",
     "traduko": {
-      "angla": [
-        "actually"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Fakte"
+      ]
     }
   },
   {
     "vorto": "lon ma ante",
+    "sitelenpona": "lon ma ante",
     "traduko": {
-      "angla": [
-        "elsewhere",
-        "abroad"
+      "adverbo": [
+        "Aliloke",
+        "Eksterlande"
       ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Ie ajn",
+        "Ie"
+      ]
     }
   },
   {
     "vorto": "lon monsi",
+    "sitelenpona": "lon monsi",
     "traduko": {
-      "angla": [
-        "behind"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Malantaŭe"
+      ]
     }
   },
   {
     "vorto": "lon ni",
+    "sitelenpona": "lon ni",
     "traduko": {
-      "angla": [
-        "there",
-        "here"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Tie Ĉi",
+        "Tie"
+      ]
     }
   },
   {
     "vorto": "lon poka",
+    "sitelenpona": "lon poka",
     "traduko": {
-      "angla": [
-        "around",
-        "near",
-        "alongside",
-        "nearby",
-        "close (adj)",
-        "accompany",
-        "beside"
+      "adverbo": [
+        "Kune kun",
+        "Proksime al",
+        "Proksime",
+        "Ĉirkaŭ"
       ],
-      "esperanto": [],
-      "hispana": []
+      "prepozicio": [
+        "Apud"
+      ]
     }
   },
   {
     "vorto": "lon seme",
+    "sitelenpona": "lon seme",
     "traduko": {
-      "angla": [
-        "where"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Kie"
+      ]
     }
   },
   {
     "vorto": "lon sewi",
+    "sitelenpona": "lon sewi",
     "traduko": {
-      "angla": [
-        "above",
-        "over"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "prepozicio": [
+        "Super",
+        "Supre"
+      ]
     }
   },
   {
     "vorto": "lon sinpin",
+    "sitelenpona": "lon sinpin",
     "traduko": {
-      "angla": [
-        "ahead"
+      "adverbo": [
+        "Antaŭe (Loko)",
+        "Antaŭen (Loko)"
       ],
-      "esperanto": [],
-      "hispana": []
+      "prepozicio": [
+        "Antaŭ (loko)"
+      ]
+    }
+  },
+  {
+    "vorto": "lon tenpo pi pali ala",
+    "sitelenpona": "lon tenpo pi++pali ala",
+    "traduko": {
+      "substantivo": [
+        "Feriado",
+        "Ferio"
+      ]
     }
   },
   {
     "vorto": "luka",
+    "sitelenpona": "luka",
     "traduko": {
-      "angla": [
-        "hand",
-        "arm",
-        "five",
-        "wrist"
+      "substantivo": [
+        "Brako",
+        "Mano"
       ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Kvin"
+      ]
     }
   },
   {
     "vorto": "luka luka tu",
+    "sitelenpona": "luka luka tu",
     "traduko": {
-      "angla": [
-        "dozen",
-        "twelve"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Dek dua"
+      ]
     }
   },
   {
     "vorto": "luka tu",
+    "sitelenpona": "luka tu",
     "traduko": {
-      "angla": [
-        "seven"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Sep"
+      ]
     }
   },
   {
     "vorto": "luka waso",
+    "sitelenpona": "luka waso",
     "traduko": {
-      "angla": [
-        "wing"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Flugilo"
+      ]
     }
   },
   {
     "vorto": "lukin",
+    "sitelenpona": "lukin",
     "traduko": {
-      "angla": [
-        "see",
-        "observe",
-        "look at",
-        "sight",
-        "gaze",
-        "observation",
-        "check",
-        "view",
-        "scan",
-        "watch",
-        "visual",
-        "inspection",
-        "examine",
-        "vision",
-        "notice",
-        "surveillance",
-        "attention",
-        "appearance",
-        "examination",
-        "detect"
+      "substantivo": [
+        "Apero",
+        "Atento",
+        "Avizo",
+        "Gvatado",
+        "Inspektado",
+        "Skanado",
+        "Spektado",
+        "Vidado"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Atentema",
+        "Konscia",
+        "Vida"
+      ],
+      "verbo": [
+        "Atenti",
+        "Kontroli",
+        "Legi",
+        "Observi",
+        "Rigardi",
+        "Vidi"
+      ]
     }
   },
   {
     "vorto": "lukin ala",
+    "sitelenpona": "lukin ala",
     "traduko": {
-      "angla": [
-        "overlook",
-        "blind"
+      "adjektivo": [
+        "Blinda"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Malvidi",
+        "Preteratenti"
+      ]
+    }
+  },
+  {
+    "vorto": "lukin e toki",
+    "sitelenpona": "lukin e toki",
+    "traduko": {
+      "verbo": [
+        "Legi"
+      ]
     }
   },
   {
     "vorto": "lukin lili",
+    "sitelenpona": "lukin lili",
     "traduko": {
-      "angla": [
-        "glance"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Rigardeti",
+        "Videti"
+      ]
     }
   },
   {
     "vorto": "lupa",
+    "sitelenpona": "lupa",
     "traduko": {
-      "angla": [
-        "hole",
-        "door",
-        "orifice",
-        "pit",
-        "window",
-        "gate"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Aperturo",
+        "Fenestro",
+        "Kopa Aperturo",
+        "Pordo",
+        "Truo"
+      ]
+    }
+  },
+  {
+    "vorto": "lupa jaki",
+    "sitelenpona": "lupa jaki",
+    "traduko": {
+      "substantivo": [
+        "Anuso",
+        "Pugtruo"
+      ]
+    }
+  },
+  {
+    "vorto": "lupa kute",
+    "sitelenpona": "lupa kute",
+    "traduko": {
+      "substantivo": [
+        "Orelo"
+      ]
     }
   },
   {
     "vorto": "lupa ma",
+    "sitelenpona": "lupa ma",
     "traduko": {
-      "angla": [
-        "cave"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kaverno"
+      ]
+    }
+  },
+  {
+    "vorto": "lupa meli",
+    "sitelenpona": "lupa meli",
+    "traduko": {
+      "substantivo": [
+        "Piĉo",
+        "Vagino"
+      ]
+    }
+  },
+  {
+    "vorto": "lupa monsi",
+    "sitelenpona": "lupa monsi",
+    "traduko": {
+      "substantivo": [
+        "Anuso",
+        "Pugtruo"
+      ]
+    }
+  },
+  {
+    "vorto": "lupa pi telo jelo",
+    "sitelenpona": "lupa pi++telo jelo",
+    "traduko": {
+      "substantivo": [
+        "Uretro"
+      ]
     }
   },
   {
     "vorto": "ma",
+    "sitelenpona": "ma",
     "traduko": {
-      "angla": [
-        "territory",
-        "country",
-        "land",
-        "realm",
-        "area",
-        "region",
-        "field",
-        "soil",
-        "place",
-        "earth",
-        "province",
-        "zone",
-        "ground",
-        "nation",
-        "environmental",
-        "environment",
-        "location",
-        "site",
-        "world",
-        "domain",
-        "national",
-        "nature"
-      ],
-      "esperanto": [],
-      "hispana": []
-    }
-  },
-  {
-    "vorto": "ma Elena",
-    "traduko": {
-      "angla": [
-        "Greece"
-      ],
-      "esperanto": [],
-      "hispana": []
-    }
-  },
-  {
-    "vorto": "ma Mewika",
-    "traduko": {
-      "angla": [
-        "United States"
-      ],
-      "esperanto": [],
-      "hispana": []
-    }
-  },
-  {
-    "vorto": "ma Nijon",
-    "traduko": {
-      "angla": [
-        "Japan"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Areo",
+        "Domajno",
+        "Lando",
+        "Loko",
+        "Medio",
+        "Mondo",
+        "Nacio",
+        "Naturo",
+        "Provinco",
+        "Regno",
+        "Teritorio",
+        "Tero",
+        "Zono"
+      ]
     }
   },
   {
     "vorto": "ma ala",
+    "sitelenpona": "ma ala",
     "traduko": {
-      "angla": [
-        "nowhere"
+      "adverbo": [
+        "Senloke"
       ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Nenie"
+      ]
     }
   },
   {
     "vorto": "ma ale",
+    "sitelenpona": "ma ale",
     "traduko": {
-      "angla": [
-        "worldwide"
+      "adverbo": [
+        "Tutmonde"
       ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Ĉie"
+      ]
     }
   },
   {
     "vorto": "ma kasi",
+    "sitelenpona": "ma kasi",
     "traduko": {
-      "angla": [
-        "garden"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Gardeno"
+      ]
     }
   },
   {
     "vorto": "ma mama",
+    "sitelenpona": "ma mama",
     "traduko": {
-      "angla": [
-        "homeland"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Hejmlando"
+      ]
     }
   },
   {
     "vorto": "ma sewi",
+    "sitelenpona": "ma sewi",
     "traduko": {
-      "angla": [
-        "heaven"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ĉielo"
+      ]
     }
   },
   {
     "vorto": "ma suli",
+    "sitelenpona": "ma suli",
     "traduko": {
-      "angla": [
-        "continent"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kontinento"
+      ]
     }
   },
   {
     "vorto": "ma tomo",
+    "sitelenpona": "ma tomo",
     "traduko": {
-      "angla": [
-        "city",
-        "town"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Urbo",
+        "Vilaĝo"
+      ]
     }
   },
   {
     "vorto": "ma utala",
+    "sitelenpona": "ma utala",
     "traduko": {
-      "angla": [
-        "arena"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Areno"
+      ]
     }
   },
   {
     "vorto": "mama",
+    "sitelenpona": "mama",
     "traduko": {
-      "angla": [
-        "parent",
-        "parental",
-        "mama",
-        "mommy",
-        "mom",
-        "creator",
-        "mother",
-        "foster",
-        "originator"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Gepatroj",
+        "Kreinto",
+        "Originanto",
+        "Patrino",
+        "Patro",
+        "Virpatro"
+      ]
     }
   },
   {
     "vorto": "mama mama",
+    "sitelenpona": "mama mama",
     "traduko": {
-      "angla": [
-        "grandma",
-        "grandmother"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Avino",
+        "Avo",
+        "Viravo"
+      ]
     }
   },
   {
     "vorto": "mama meli",
+    "sitelenpona": "mama meli",
     "traduko": {
-      "angla": [
-        "mother"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Patrino"
+      ]
     }
   },
   {
     "vorto": "mama mije",
+    "sitelenpona": "mama mije",
     "traduko": {
-      "angla": [
-        "dad",
-        "father",
-        "daddy"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Virpatro"
+      ]
     }
   },
   {
     "vorto": "mani",
+    "sitelenpona": "mani",
     "traduko": {
-      "angla": [
-        "money",
-        "cash",
-        "monetary",
-        "currency",
-        "treasure",
-        "wealth",
-        "worth",
-        "cattle",
-        "dollar",
-        "financial",
-        "funding",
-        "fiscal",
-        "wage",
-        "fee",
-        "cost",
-        "valuable"
+      "substantivo": [
+        "Kosto",
+        "Kotizo",
+        "Monero",
+        "Mono",
+        "Riĉeco",
+        "Salajro",
+        "Trezoro",
+        "Valoro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Ekonomia",
+        "Financa",
+        "Fiska",
+        "Mona",
+        "Valora"
+      ]
     }
   },
   {
     "vorto": "mani kama",
+    "sitelenpona": "mani+kama",
     "traduko": {
-      "angla": [
-        "income"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Enspezo"
+      ]
     }
   },
   {
     "vorto": "mani lili",
+    "sitelenpona": "mani+lili",
     "traduko": {
-      "angla": [
-        "cent"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Penco"
+      ]
     }
   },
   {
     "vorto": "mani mute",
+    "sitelenpona": "mani+mute",
     "traduko": {
-      "angla": [
-        "expensive"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Multekosta"
+      ]
     }
   },
   {
     "vorto": "mani tomo",
+    "sitelenpona": "mani tomo",
     "traduko": {
-      "angla": [
-        "rent"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Lui"
+      ]
     }
   },
   {
     "vorto": "meli",
+    "sitelenpona": "meli",
     "traduko": {
-      "angla": [
-        "female",
-        "lady",
-        "woman",
-        "girl"
+      "substantivo": [
+        "Ino",
+        "Knabino",
+        "Sinjorino"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Ina",
+        "Ineca"
+      ]
+    }
+  },
+  {
+    "vorto": "meli insa",
+    "sitelenpona": "meli insa",
+    "traduko": {
+      "substantivo": [
+        "Homo kiu identiĝas kiel ina"
+      ]
     }
   },
   {
     "vorto": "meli olin",
+    "sitelenpona": "meli olin",
     "traduko": {
-      "angla": [
-        "girlfriend"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Edzino",
+        "Fianĉino",
+        "Koramikino"
+      ]
+    }
+  },
+  {
+    "vorto": "meli lili",
+    "sitelenpona": "meli+lili",
+    "traduko": {
+      "substantivo": [
+        "Filino",
+        "Infanino"
+      ]
+    }
+  },
+  {
+    "vorto": "meli sama",
+    "sitelenpona": "meli+sama",
+    "traduko": {
+      "substantivo": [
+        "Fratino"
+      ]
+    }
+  },
+  {
+    "vorto": "meli unpa",
+    "sitelenpona": "meli+unpa",
+    "traduko": {
+      "substantivo": [
+        "Amorantino",
+        "Fikamikino"
+      ]
     }
   },
   {
     "vorto": "meso",
+    "sitelenpona": "meso",
     "traduko": {
-      "angla": [
-        "average",
-        "moderate",
-        "medium"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Averaĝa",
+        "Meza",
+        "Modera"
+      ]
     }
   },
   {
     "vorto": "mi",
+    "sitelenpona": "mi",
     "traduko": {
-      "angla": [
-        "me",
-        "I",
-        "my",
-        "mine",
-        "our",
-        "myself",
-        "us"
+      "pronomo": [
+        "Mi mem",
+        "Mi"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Mia"
+      ]
     }
   },
   {
     "vorto": "mi la",
+    "sitelenpona": "mi la",
     "traduko": {
-      "angla": [
-        "personally"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Persone"
+      ]
     }
   },
   {
     "vorto": "mi mute",
+    "sitelenpona": "mi mute",
     "traduko": {
-      "angla": [
-        "we",
-        "us",
-        "ourselves"
+      "pronomo": [
+        "Ni mem",
+        "Ni"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "nia"
+      ]
     }
   },
   {
     "vorto": "mi pakala",
+    "sitelenpona": "mi pakala",
     "traduko": {
-      "angla": [
-        "Iâ€™m sorry"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Pardonu min"
+      ]
     }
   },
   {
     "vorto": "mi tawa",
+    "sitelenpona": "mi tawa",
     "traduko": {
-      "angla": [
-        "bye (said by person leaving)"
+      "adverbo": [
+        "Adiaŭ (dirita de foriranto)"
       ],
-      "esperanto": [],
-      "hispana": []
+      "konjunkcio": [
+        "Ĝis la revido (dirita de foriranto)"
+      ]
+    }
+  },
+  {
+    "vorto": "mi wile e ni",
+    "sitelenpona": "mi wile e ni",
+    "traduko": {
+      "verbo": [
+        "Bonvolu",
+        "Mi ŝatus"
+      ]
     }
   },
   {
     "vorto": "mije",
+    "sitelenpona": "mije",
     "traduko": {
-      "angla": [
-        "male",
-        "man",
-        "husband",
-        "cisgender man"
+      "substantivo": [
+        "Virnabo",
+        "Viro",
+        "Virsinjoro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Vira",
+        "Vireca"
+      ]
+    }
+  },
+  {
+    "vorto": "mije insa",
+    "sitelenpona": "mije insa",
+    "traduko": {
+      "substantivo": [
+        "Homo kiu identiĝas kiel vira"
+      ]
+    }
+  },
+  {
+    "vorto": "mije olin",
+    "sitelenpona": "mije olin",
+    "traduko": {
+      "substantivo": [
+        "Viredzo",
+        "Virfianĉo",
+        "Virkoramiko"
+      ]
+    }
+  },
+  {
+    "vorto": "mije lili",
+    "sitelenpona": "mije+lili",
+    "traduko": {
+      "substantivo": [
+        "Virfilo",
+        "Virinfano"
+      ]
+    }
+  },
+  {
+    "vorto": "mije sama",
+    "sitelenpona": "mije+sama",
+    "traduko": {
+      "substantivo": [
+        "Virfrato"
+      ]
+    }
+  },
+  {
+    "vorto": "mije unpa",
+    "sitelenpona": "mije+unpa",
+    "traduko": {
+      "substantivo": [
+        "Viramoranto",
+        "Virfikamiko"
+      ]
     }
   },
   {
     "vorto": "misikeke",
+    "sitelenpona": "misikeke",
     "traduko": {
-      "angla": [
-        "medication",
-        "medicine"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Farmaciaĵo",
+        "Kuracilo",
+        "Medicino",
+        "Medikamento"
+      ]
     }
   },
   {
     "vorto": "moku",
+    "sitelenpona": "moku",
     "traduko": {
-      "angla": [
-        "eating",
-        "eat",
-        "food",
-        "consume",
-        "dining",
-        "consumption",
-        "meal",
-        "swallow",
-        "nutrition",
-        "dinner",
-        "drinking",
-        "chew",
-        "groceries"
+      "substantivo": [
+        "Manĝaĵo",
+        "Manĝo",
+        "Nutrado",
+        "Nutraĵo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Enstomakigi",
+        "Gluti",
+        "Konsumi",
+        "Manĝi",
+        "Nutriĝi",
+        "Trinki"
+      ]
+    }
+  },
+  {
+    "vorto": "moku e telo",
+    "sitelenpona": "moku e telo",
+    "traduko": {
+      "verbo": [
+        "Trinki"
+      ]
+    }
+  },
+  {
+    "vorto": "moku e telo nasa",
+    "sitelenpona": "moku e telo nasa",
+    "traduko": {
+      "verbo": [
+        "Drinki"
+      ]
     }
   },
   {
     "vorto": "moku lili",
+    "sitelenpona": "moku lili",
     "traduko": {
-      "angla": [
-        "snack"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Eta Enstomakeblaĵo",
+        "Manĝeto",
+        "Pilolo"
+      ]
+    }
+  },
+  {
+    "vorto": "moku pona",
+    "sitelenpona": "moku pona",
+    "traduko": {
+      "substantivo": [
+        "Bona Apetito"
+      ]
     }
   },
   {
     "vorto": "moku suwi",
+    "sitelenpona": "moku suwi",
     "traduko": {
-      "angla": [
-        "dessert"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Deserto",
+        "Dolĉaĵo"
+      ]
     }
   },
   {
     "vorto": "moku telo",
+    "sitelenpona": "moku telo",
     "traduko": {
-      "angla": [
-        "soup"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Likva Manĝaĵo",
+        "Supo"
+      ]
+    }
+  },
+  {
+    "vorto": "moku walo",
+    "sitelenpona": "moku walo",
+    "traduko": {
+      "substantivo": [
+        "Blankeca Manĝaĵo",
+        "Rizo"
+      ]
     }
   },
   {
     "vorto": "moli",
+    "sitelenpona": "moli",
     "traduko": {
-      "angla": [
-        "death",
-        "killing",
-        "dead",
-        "die",
-        "dying",
-        "kill"
+      "substantivo": [
+        "Morto"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Morta",
+        "Mortanta",
+        "Mortiga",
+        "Mortinta"
+      ],
+      "verbo": [
+        "Morti",
+        "Mortigi"
+      ]
     }
   },
   {
     "vorto": "moli telo",
+    "sitelenpona": "moli telo",
     "traduko": {
-      "angla": [
-        "drown"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Droni"
+      ]
     }
   },
   {
     "vorto": "monsi",
+    "sitelenpona": "monsi",
     "traduko": {
-      "angla": [
-        "butt",
-        "back (anatomy)",
-        "ass"
+      "substantivo": [
+        "Dorso",
+        "Malantaŭo",
+        "Postaĵo",
+        "Pugo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Dorsa",
+        "Malantaŭa"
+      ]
     }
   },
   {
     "vorto": "monsuta",
+    "sitelenpona": "monsuta",
     "traduko": {
-      "angla": [
-        "scary",
-        "fear",
-        "monster",
-        "horror"
+      "substantivo": [
+        "Hororo",
+        "Kaŭzo de timo",
+        "Kreaĵo, kiu persekutas homojn",
+        "Minaco",
+        "Mostro",
+        "Rabobesto",
+        "Timigilo",
+        "Timo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Timi"
+      ]
     }
   },
   {
     "vorto": "mu",
+    "sitelenpona": "mu",
     "traduko": {
-      "angla": [
-        "woof",
-        "meow",
-        "animal vocalization",
-        "ribbit",
-        "purr",
-        "neigh",
-        "cock-a-doodle-doo"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Besta Bleko",
+        "Ĉarma Bestokrio"
+      ]
     }
   },
   {
     "vorto": "mun",
+    "sitelenpona": "mun",
     "traduko": {
-      "angla": [
-        "moon",
-        "celestial body"
+      "substantivo": [
+        "Luno",
+        "Ĉiela korpo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Luna"
+      ]
     }
   },
   {
     "vorto": "musi",
+    "sitelenpona": "musi",
     "traduko": {
-      "angla": [
-        "entertainment",
-        "fun",
-        "funny",
-        "play",
-        "game",
-        "comedy",
-        "art",
-        "artistic"
+      "substantivo": [
+        "Amuzo",
+        "Arto",
+        "Distraĵo",
+        "Ludo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Amuza",
+        "Arta",
+        "Frivola",
+        "Ludeca"
+      ],
+      "verbo": [
+        "Amuzi",
+        "Amuziĝi",
+        "Distri",
+        "Distriĝi",
+        "Ludi"
+      ]
     }
   },
   {
     "vorto": "musi ala",
+    "sitelenpona": "musi ala",
     "traduko": {
-      "angla": [
-        "boring",
-        "seriously"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Enuiga",
+        "Serioza"
+      ]
     }
   },
   {
     "vorto": "musi supa",
+    "sitelenpona": "musi supa",
     "traduko": {
-      "angla": [
-        "board game"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Tabulludo"
+      ]
     }
   },
   {
     "vorto": "mute",
+    "sitelenpona": "mute",
     "traduko": {
-      "angla": [
-        "plenty",
-        "many",
-        "much",
-        "multiple",
-        "very",
-        "lots",
-        "several",
-        "numerous",
-        "various",
-        "most",
-        "quantity",
-        "twenty",
-        "fifty",
-        "thousand",
-        "nine",
-        "majority",
-        "incredibly",
-        "million"
+      "substantivo": [
+        "Kiomo",
+        "Kvanto",
+        "Multoblo",
+        "Plimulto"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Diversa",
+        "Multa",
+        "Multnombra",
+        "Plura"
+      ],
+      "nombro": [
+        "Mil",
+        "Milionoj",
+        "Naŭ"
+      ],
+      "verbo": [
+        "Multigi"
+      ]
     }
   },
   {
     "vorto": "mute ike",
+    "sitelenpona": "mute ike",
     "traduko": {
-      "angla": [
-        "too much"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Tro Multe"
+      ]
     }
   },
   {
     "vorto": "mute pona",
+    "sitelenpona": "mute pona",
     "traduko": {
-      "angla": [
-        "sufficient"
+      "adjektivo": [
+        "Sufiĉa"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Sufiĉe"
+      ]
     }
   },
   {
     "vorto": "n",
+    "sitelenpona": "n",
     "traduko": {
-      "angla": [
-        "um"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "gramatikajxo": [
+        "Indikas pensadon, pripensadon, rekonon, interkonsenton, aŭ zumadon"
+      ]
     }
   },
   {
     "vorto": "namako",
+    "sitelenpona": "namako",
     "traduko": {
-      "angla": [
-        "spice",
-        "extra",
-        "additional",
-        "adornment"
+      "substantivo": [
+        "Kromaĵo",
+        "Ornamado",
+        "Spico",
+        "Vinagro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Alia",
+        "Ankoraŭ",
+        "Freŝa",
+        "Nova",
+        "Plia"
+      ],
+      "verbo": [
+        "Eksciti",
+        "Ornami",
+        "Plibeligi",
+        "Sali",
+        "Spici",
+        "Stimuli"
+      ]
     }
   },
   {
     "vorto": "nanpa",
+    "sitelenpona": "nanpa",
     "traduko": {
-      "angla": [
-        "number",
-        "count",
-        "score",
-        "rating",
-        "rank",
-        "measurement",
-        "ranking",
-        "statistical"
+      "substantivo": [
+        "Cifero",
+        "Nombro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "gramatikajxo": [
+        "-a (kiel en 'unua', 'dua', ktp; indikas pozicion en vicordo)"
+      ]
     }
   },
   {
     "vorto": "nanpa luka",
+    "sitelenpona": "nanpa luka",
     "traduko": {
-      "angla": [
-        "fifth"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Kvina"
+      ]
     }
   },
   {
     "vorto": "nanpa luka tu",
+    "sitelenpona": "nanpa luka tu",
     "traduko": {
-      "angla": [
-        "seventh"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Sepa"
+      ]
     }
   },
   {
     "vorto": "nanpa luka wan",
+    "sitelenpona": "nanpa luka wan",
     "traduko": {
-      "angla": [
-        "sixth"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Sesa"
+      ]
     }
   },
   {
     "vorto": "nanpa pini",
+    "sitelenpona": "nanpa pini",
     "traduko": {
-      "angla": [
-        "last",
-        "final"
+      "substantivo": [
+        "Fino"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Fina",
+        "Lasta"
+      ]
     }
   },
   {
     "vorto": "nanpa tu",
+    "sitelenpona": "nanpa tu",
     "traduko": {
-      "angla": [
-        "second (nd)",
-        "secondary"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Dua"
+      ]
     }
   },
   {
     "vorto": "nanpa tu tu",
+    "sitelenpona": "nanpa tu tu",
     "traduko": {
-      "angla": [
-        "fourth"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Kvara"
+      ]
     }
   },
   {
     "vorto": "nanpa tu wan",
+    "sitelenpona": "nanpa tu wan",
     "traduko": {
-      "angla": [
-        "third"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Tria"
+      ]
     }
   },
   {
     "vorto": "nanpa wan",
+    "sitelenpona": "nanpa wan",
     "traduko": {
-      "angla": [
-        "first",
-        "original",
-        "primary"
+      "adjektivo": [
+        "Aŭtentika",
+        "Mema",
+        "Originala"
       ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Unua"
+      ]
     }
   },
   {
     "vorto": "nasa",
+    "sitelenpona": "nasa",
     "traduko": {
-      "angla": [
-        "weird",
-        "strange",
-        "unusual",
-        "odd",
-        "drunk",
-        "silly",
-        "wild"
+      "adjektivo": [
+        "Ebria",
+        "Malsaĝa",
+        "Nekutima",
+        "Sensenca",
+        "Sovaĝa",
+        "Stranga"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Frenezi",
+        "Frenezigi",
+        "Strangigi"
+      ]
+    }
+  },
+  {
+    "vorto": "nasa lukin",
+    "sitelenpona": "nasa lukin",
+    "traduko": {
+      "adjektivo": [
+        "Strangaspekta"
+      ]
+    }
+  },
+  {
+    "vorto": "nasa pona",
+    "sitelenpona": "nasa pona",
+    "traduko": {
+      "verbo": [
+        "Bonfesti"
+      ]
     }
   },
   {
     "vorto": "nasin",
+    "sitelenpona": "nasin",
     "traduko": {
-      "angla": [
-        "road",
-        "way",
-        "doctrine",
-        "method",
-        "path",
-        "manner",
-        "avenue",
-        "route",
-        "direction",
-        "street",
-        "orientation",
-        "trail",
-        "mode",
-        "technique",
-        "layout",
-        "system",
-        "course",
-        "passage",
-        "process",
-        "track",
-        "format",
-        "ideology",
-        "tactic",
-        "custom",
-        "aisle",
-        "journey",
-        "lane"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Direkto",
+        "Doktrino",
+        "Formato",
+        "Ideologio",
+        "Irejo",
+        "Koridoro",
+        "Kutimo",
+        "Maniero",
+        "Metodo",
+        "Pasejo",
+        "Procezo",
+        "Strateto",
+        "Strato",
+        "Vojaĝo",
+        "Vojo"
+      ]
     }
   },
   {
     "vorto": "nasin len",
+    "sitelenpona": "nasin len",
     "traduko": {
-      "angla": [
-        "fashion"
+      "substantivo": [
+        "Modo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Moda"
+      ]
     }
   },
   {
     "vorto": "nasin mani",
+    "sitelenpona": "nasin mani",
     "traduko": {
-      "angla": [
-        "capitalism"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kapitalismo"
+      ]
     }
   },
   {
     "vorto": "nasin moku",
+    "sitelenpona": "nasin moku",
     "traduko": {
-      "angla": [
-        "diet"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Dieto"
+      ]
+    }
+  },
+  {
+    "vorto": "nasin pi pana e lipu sona",
+    "sitelenpona": "nasin pi+++pana e lipu+sona",
+    "traduko": {
+      "substantivo": [
+        "Retpaĝa Servilo (Programo)"
+      ]
     }
   },
   {
     "vorto": "nasin pona",
+    "sitelenpona": "nasin pona",
     "traduko": {
-      "angla": [
-        "solution"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Solvo"
+      ]
     }
   },
   {
     "vorto": "nasin sewi",
+    "sitelenpona": "nasin sewi",
     "traduko": {
-      "angla": [
-        "religion"
+      "substantivo": [
+        "Religio"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Religia"
+      ]
+    }
+  },
+  {
+    "vorto": "nasin sewi ma",
+    "sitelenpona": "nasin sewi ma",
+    "traduko": {
+      "substantivo": [
+        "Idianaj Religioj",
+        "Natura Religio"
+      ]
     }
   },
   {
     "vorto": "nasin toki",
+    "sitelenpona": "nasin toki",
     "traduko": {
-      "angla": [
-        "accent"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Akcento",
+        "Akĉento"
+      ]
     }
   },
   {
     "vorto": "nena",
+    "sitelenpona": "nena",
     "traduko": {
-      "angla": [
-        "hill",
-        "nose"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Butono",
+        "Elstaraĵo",
+        "Monteto",
+        "Monto",
+        "Nazo",
+        "Tubero"
+      ]
+    }
+  },
+  {
+    "vorto": "nena lawa",
+    "sitelenpona": "nena lawa",
+    "traduko": {
+      "substantivo": [
+        "Nazo"
+      ]
+    }
+  },
+  {
+    "vorto": "nena lili pi unpa meli",
+    "sitelenpona": "nena+lili pi++unpa meli",
+    "traduko": {
+      "substantivo": [
+        "Klitoro"
+      ]
+    }
+  },
+  {
+    "vorto": "nena+lili pi nena mama",
+    "sitelenpona": "nena+lili pi++nena mama",
+    "traduko": {
+      "substantivo": [
+        "Cicoj",
+        "Mampintoj"
+      ]
+    }
+  },
+  {
+    "vorto": "nena sike meli",
+    "sitelenpona": "nena sike meli",
+    "traduko": {
+      "substantivo": [
+        "Mamoj"
+      ]
     }
   },
   {
     "vorto": "nena suli",
+    "sitelenpona": "nena+suli",
     "traduko": {
-      "angla": [
-        "mountain"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Monto"
+      ]
     }
   },
   {
     "vorto": "ni",
+    "sitelenpona": "ni",
     "traduko": {
-      "angla": [
-        "this",
-        "that",
-        "these",
-        "those"
+      "korelativo": [
+        "Tio Ĉi",
+        "Tio",
+        "Tiu Ĉi",
+        "Tiu",
+        "Ĉi"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Jena"
+      ]
     }
   },
   {
     "vorto": "ni la",
+    "sitelenpona": "ni la",
     "traduko": {
-      "angla": [
-        "thus"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Tiel"
+      ]
     }
   },
   {
     "vorto": "nimi",
+    "sitelenpona": "nimi",
     "traduko": {
-      "angla": [
-        "word",
-        "name",
-        "term",
-        "title"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Nomo",
+        "Termino",
+        "Titolo",
+        "Vorto"
+      ]
+    }
+  },
+  {
+    "vorto": "nimi ante",
+    "sitelenpona": "nimi ante",
+    "traduko": {
+      "substantivo": [
+        "Adjektivo",
+        "Adverbo"
+      ]
     }
   },
   {
     "vorto": "nimi ijo",
+    "sitelenpona": "nimi ijo",
     "traduko": {
-      "angla": [
-        "noun"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Substantivo"
+      ]
     }
   },
   {
     "vorto": "nimi kon",
+    "sitelenpona": "nimi kon",
     "traduko": {
-      "angla": [
-        "content word"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Enhavo-vorto"
+      ]
     }
   },
   {
     "vorto": "nimi pali",
+    "sitelenpona": "nimi pali",
     "traduko": {
-      "angla": [
-        "verb"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Verbo"
+      ]
     }
   },
   {
     "vorto": "noka",
+    "sitelenpona": "noka",
     "traduko": {
-      "angla": [
-        "leg",
-        "foot",
-        "lap",
-        "ankle",
-        "kick"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kruro",
+        "Maleolo",
+        "Moviĝa Organo",
+        "Piedbato",
+        "Piedo",
+        "Rondiro"
+      ]
     }
   },
   {
     "vorto": "o",
+    "sitelenpona": "o",
     "traduko": {
-      "angla": [
-        "hey",
-        "shall"
+      "gramatikajxo": [
+        "Vokativo, imperativo, aŭ volitivo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "interjekcio": [
+        "He!"
+      ]
     }
   },
   {
     "vorto": "o kama pona",
+    "sitelenpona": "o kama pona",
     "traduko": {
-      "angla": [
-        "welcome (interj)"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Estu Bonvena"
+      ]
     }
   },
   {
     "vorto": "oko",
+    "sitelenpona": "oko",
     "traduko": {
-      "angla": [
-        "eye"
+      "substantivo": [
+        "Okulo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Okula",
+        "Vida"
+      ]
     }
   },
   {
     "vorto": "olin",
+    "sitelenpona": "olin",
     "traduko": {
-      "angla": [
-        "loving",
-        "love",
-        "romance",
-        "romantic",
-        "compassion"
+      "substantivo": [
+        "Amo",
+        "Enamiĝo",
+        "Kompato"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Ama",
+        "Romantika"
+      ],
+      "verbo": [
+        "Ami",
+        "Respekti",
+        "Simpatii"
+      ]
     }
   },
   {
     "vorto": "ona",
+    "sitelenpona": "ona",
     "traduko": {
-      "angla": [
-        "its",
-        "her",
-        "them",
-        "their",
-        "he",
-        "she",
-        "him",
-        "they",
-        "it",
-        "his",
-        "themselves",
-        "itself"
+      "pronomo": [
+        "Ili",
+        "Li",
+        "Ĝi",
+        "Ŝi"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Ilia",
+        "Lia",
+        "Ĝia",
+        "Ŝia"
+      ]
     }
   },
   {
     "vorto": "ona sama",
+    "sitelenpona": "ona+sama",
     "traduko": {
-      "angla": [
-        "herself",
-        "himself",
-        "itself"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "pronomo": [
+        "Si Mem"
+      ]
     }
   },
   {
     "vorto": "open",
+    "sitelenpona": "open",
     "traduko": {
-      "angla": [
-        "open",
-        "begin",
-        "start",
-        "beginning",
-        "initiate",
-        "starting",
-        "opening"
+      "verbo": [
+        "Komenci",
+        "Malfermi"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Komencante",
+        "Malfermante"
+      ]
     }
   },
   {
     "vorto": "pakala",
+    "sitelenpona": "pakala",
     "traduko": {
-      "angla": [
-        "destruction",
-        "broken",
-        "mistake",
-        "damage",
-        "damn",
-        "goddamn",
-        "ruin",
-        "burst",
-        "accident",
-        "destroy",
-        "heck",
-        "error",
-        "hurt",
-        "crash",
-        "injure",
-        "harm",
-        "fail",
-        "break",
-        "failure",
-        "fault",
-        "injury",
-        "flaw",
-        "crack",
-        "collapse",
-        "snap",
-        "fuck",
-        "fucking"
+      "substantivo": [
+        "Akcidento",
+        "Damaĝo",
+        "Detruo",
+        "Eraro",
+        "Fiasko",
+        "Fuŝo",
+        "Malsukceso",
+        "Ruino",
+        "Vundo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Detruita",
+        "Difektita",
+        "Malbenita",
+        "Rompita",
+        "Vundita"
+      ],
+      "verbo": [
+        "Damaĝi",
+        "Damaĝi",
+        "Disfali",
+        "Fuŝi",
+        "Fuŝiĝi",
+        "Rompi",
+        "Rompiĝi",
+        "Vundi"
+      ],
+      "interjekcio": [
+        "Fek!"
+      ]
     }
   },
   {
     "vorto": "pali",
+    "sitelenpona": "pali",
     "traduko": {
-      "angla": [
-        "do",
-        "work",
-        "construct",
-        "produce",
-        "make",
-        "activity",
-        "job",
-        "build",
-        "production",
-        "working",
-        "labour",
-        "action",
-        "task",
-        "create",
-        "function",
-        "occupation",
-        "operating",
-        "project",
-        "execute",
-        "manufacturing",
-        "craft",
-        "develop",
-        "generate",
-        "compose",
-        "assemble",
-        "act",
-        "profession",
-        "assignment",
-        "creation",
-        "enact",
-        "commit",
-        "perform",
-        "operation",
-        "service",
-        "effort",
-        "implement",
-        "operate",
-        "accomplish",
-        "implementation",
-        "processing",
-        "behaviour",
-        "behave",
-        "career"
+      "substantivo": [
+        "Agado",
+        "Ago",
+        "Aktiveco",
+        "Kariero",
+        "Konduto",
+        "Kreado",
+        "Laboro",
+        "Penado",
+        "Prilaborado",
+        "Produktado",
+        "Profesio",
+        "Projekto"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Aga",
+        "Aktiva",
+        "Faranta",
+        "Funkcia",
+        "Funkcianta"
+      ],
+      "verbo": [
+        "Agi",
+        "Disvolvi",
+        "Fabriki",
+        "Fari",
+        "Funkcii",
+        "Generi",
+        "Konstrui",
+        "Krei",
+        "Plenumi",
+        "Prepari",
+        "Prilabori",
+        "Produkti"
+      ]
     }
   },
   {
     "vorto": "pali ala",
+    "sitelenpona": "pali ala",
     "traduko": {
-      "angla": [
-        "unemployment"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Senlaboreco"
+      ]
     }
   },
   {
     "vorto": "pali ike",
+    "sitelenpona": "pali ike",
     "traduko": {
-      "angla": [
-        "sin",
-        "crime"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Krimo",
+        "Peko"
+      ]
     }
   },
   {
     "vorto": "pali kulupu",
+    "sitelenpona": "pali kulupu",
     "traduko": {
-      "angla": [
-        "collaboration",
-        "cooperate"
+      "substantivo": [
+        "Kunlaboro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Kunlabori"
+      ]
     }
   },
   {
     "vorto": "pali musi",
+    "sitelenpona": "pali musi",
     "traduko": {
-      "angla": [
-        "performance"
+      "substantivo": [
+        "Amuzaĵo",
+        "Ludaĵo",
+        "Ludilo",
+        "Memeo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Amuze Agi",
+        "Amuze Fari",
+        "Arte agi",
+        "Fari amuzaĵon",
+        "Fari artaĵo"
+      ]
     }
   },
   {
     "vorto": "pali nanpa",
+    "sitelenpona": "pali nanpa",
     "traduko": {
-      "angla": [
-        "calculation"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kalkulo"
+      ]
     }
   },
   {
     "vorto": "pali pi kama sona",
+    "sitelenpona": "pali pi++kama sona",
     "traduko": {
-      "angla": [
-        "experiment"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Eksperimento"
+      ]
     }
   },
   {
     "vorto": "pali sijelo",
+    "sitelenpona": "pali sijelo",
     "traduko": {
-      "angla": [
-        "workout",
-        "exercise"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ekzercado",
+        "Trejnado"
+      ]
     }
   },
   {
     "vorto": "pali sin",
+    "sitelenpona": "pali sin",
     "traduko": {
-      "angla": [
-        "rebuild"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Rekonstrui"
+      ]
     }
   },
   {
     "vorto": "palisa",
+    "sitelenpona": "palisa",
     "traduko": {
-      "angla": [
-        "stick",
-        "rod",
-        "stake",
-        "pole",
-        "branch",
-        "staff"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Bastono",
+        "Branĉo",
+        "Stango",
+        "Vergo"
+      ]
+    }
+  },
+  {
+    "vorto": "palisa lili noka",
+    "sitelenpona": "palisa+lili noka",
+    "traduko": {
+      "substantivo": [
+        "Piedfingro"
+      ]
     }
   },
   {
     "vorto": "palisa luka",
+    "sitelenpona": "palisa luka",
     "traduko": {
-      "angla": [
-        "finger"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Fingro"
+      ]
+    }
+  },
+  {
+    "vorto": "palisa mije",
+    "sitelenpona": "palisa mije",
+    "traduko": {
+      "substantivo": [
+        "Kaco",
+        "Peniso"
+      ]
+    }
+  },
+  {
+    "vorto": "palisa uta",
+    "sitelenpona": "palisa uta",
+    "traduko": {
+      "substantivo": [
+        "Lango"
+      ]
     }
   },
   {
     "vorto": "pan",
+    "sitelenpona": "pan",
     "traduko": {
-      "angla": [
-        "bread",
-        "grain",
-        "wheat",
-        "rice"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Aveno",
+        "Cerealaĵo",
+        "Cerealo",
+        "Greno",
+        "Hordeo",
+        "Maizo",
+        "Pano",
+        "Pastaĵo",
+        "Rizo",
+        "Rizo",
+        "Tritiko"
+      ]
     }
   },
   {
     "vorto": "pan linja",
+    "sitelenpona": "pan linja",
     "traduko": {
-      "angla": [
-        "noodles"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Nudeloj"
+      ]
     }
   },
   {
     "vorto": "pan suwi",
+    "sitelenpona": "pan suwi",
     "traduko": {
-      "angla": [
-        "cake"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kuko"
+      ]
     }
   },
   {
     "vorto": "pana",
+    "sitelenpona": "pana",
     "traduko": {
-      "angla": [
-        "give",
-        "put",
-        "deliver",
-        "grant",
-        "delivery",
-        "send",
-        "submit",
-        "provide",
-        "transfer",
-        "distribute",
-        "distribution",
-        "donate",
-        "appoint",
-        "contribute",
-        "output",
-        "yield",
-        "publishing",
-        "given",
-        "share",
-        "deploy",
-        "offering",
-        "assign",
-        "deposit",
-        "convey"
+      "substantivo": [
+        "Deponejo",
+        "Distribuo",
+        "Eligo",
+        "Liverado",
+        "Subvencio",
+        "Transdono"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Asigni",
+        "Distribui",
+        "Doni",
+        "Eligi",
+        "Ellasi",
+        "Liveri",
+        "Meti",
+        "Provizi",
+        "Sendi"
+      ]
     }
   },
   {
-    "vorto": "pana e sona",
+    "vorto": "pana e telo jelo",
+    "sitelenpona": "pana e telo jelo",
     "traduko": {
-      "angla": [
-        "educate"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Pisi"
+      ]
     }
   },
   {
     "vorto": "pana e telo loje",
+    "sitelenpona": "pana e telo loje",
     "traduko": {
-      "angla": [
-        "bleed"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Sangi"
+      ]
+    }
+  },
+  {
+    "vorto": "pana e telo oko",
+    "sitelenpona": "pana e telo oko",
+    "traduko": {
+      "verbo": [
+        "Plori"
+      ]
+    }
+  },
+  {
+    "vorto": "pana e uta",
+    "sitelenpona": "pana e uta",
+    "traduko": {
+      "verbo": [
+        "Kisi"
+      ]
     }
   },
   {
     "vorto": "pana mani",
+    "sitelenpona": "pana mani",
     "traduko": {
-      "angla": [
-        "payment",
-        "donation"
+      "substantivo": [
+        "Donaco",
+        "Pago"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Donaci",
+        "Pagi"
+      ]
     }
   },
   {
     "vorto": "pana pona",
+    "sitelenpona": "pana pona",
     "traduko": {
-      "angla": [
-        "assistance"
+      "substantivo": [
+        "Helpo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Helpi"
+      ]
     }
   },
   {
     "vorto": "pana sona",
+    "sitelenpona": "pana sona",
     "traduko": {
-      "angla": [
-        "teach",
-        "teaching",
-        "educate",
-        "instruct"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Eduki",
+        "Instrui"
+      ]
+    }
+  },
+  {
+    "vorto": "pi",
+    "sitelenpona": "pi",
+    "traduko": {
+      "gramatikajxo": [
+        "de (uzata por dividi duan substantivan grupon, kiu priskribas la duan substantivan grupon)",
+        "enkondukas genitivan substantivon"
+      ]
     }
   },
   {
     "vorto": "pi ma ante",
+    "sitelenpona": "pi++ma ante",
     "traduko": {
-      "angla": [
-        "foreign"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Fremda"
+      ]
     }
   },
   {
     "vorto": "pi ma mute",
+    "sitelenpona": "pi++ma mute",
     "traduko": {
-      "angla": [
-        "international"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Internacia"
+      ]
     }
   },
   {
     "vorto": "pi tenpo pini",
+    "sitelenpona": "pi++tenpo pini",
     "traduko": {
-      "angla": [
-        "historical"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Historia"
+      ]
     }
   },
   {
     "vorto": "pilin",
+    "sitelenpona": "pilin",
     "traduko": {
-      "angla": [
-        "emotion",
-        "feeling",
-        "feel",
-        "sentiment",
-        "mood",
-        "emotionally",
-        "heart",
-        "sense",
-        "attitude",
-        "emotional",
-        "opinion",
-        "notion",
-        "impression",
-        "perceive",
-        "assume",
-        "hypothesis",
-        "deem"
+      "substantivo": [
+        "Emocio",
+        "Hipotezo",
+        "Humoro",
+        "Koro",
+        "Opinio",
+        "Penso",
+        "Sento",
+        "Sinteno"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Opinii",
+        "Palpi",
+        "Pensi",
+        "Sensi",
+        "Senti",
+        "Sentiĝi",
+        "Tuŝi"
+      ]
+    }
+  },
+  {
+    "vorto": "pilin ala",
+    "sitelenpona": "pilin+ala",
+    "traduko": {
+      "adjektivo": [
+        "Indiferanta",
+        "Sensenta"
+      ]
     }
   },
   {
     "vorto": "pilin ante",
+    "sitelenpona": "pilin ante",
     "traduko": {
-      "angla": [
-        "disagree"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Malkonsenti"
+      ]
     }
   },
   {
     "vorto": "pilin ike",
+    "sitelenpona": "pilin+ike",
     "traduko": {
-      "angla": [
-        "upset",
-        "sad",
-        "guilt",
-        "uncomfortable",
-        "suffer",
-        "stress",
-        "frustration",
-        "disappointed",
-        "disappointment",
-        "grief"
+      "substantivo": [
+        "Kulpo",
+        "Malĝojo",
+        "Seniluziiĝo",
+        "Streĉo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Amara",
+        "Malbonhumora",
+        "Malfeliĉa",
+        "Malkonforta",
+        "Malĝoja",
+        "Ĉagrenita"
+      ]
     }
   },
   {
     "vorto": "pilin nasa",
+    "sitelenpona": "pilin nasa",
     "traduko": {
-      "angla": [
-        "confusion"
+      "substantivo": [
+        "Konfuzo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Konfuza",
+        "Konfuzita"
+      ]
     }
   },
   {
     "vorto": "pilin pona",
+    "sitelenpona": "pilin+pona",
     "traduko": {
-      "angla": [
-        "glad",
-        "happy",
-        "pleased",
-        "joy",
-        "satisfaction",
-        "happiness",
-        "comfortable",
-        "pleasure",
-        "grateful",
-        "happily",
-        "well-being"
+      "substantivo": [
+        "Bonstato",
+        "Feliĉo",
+        "Plezuro",
+        "Ĝojo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Dankema",
+        "Feliĉa",
+        "Gaja",
+        "Konforta"
+      ],
+      "verbo": [
+        "Plaĉi",
+        "Ĝui"
+      ]
     }
   },
   {
     "vorto": "pilin sama",
+    "sitelenpona": "pilin+sama",
     "traduko": {
-      "angla": [
-        "sympathy"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Simpatio"
+      ]
     }
   },
   {
     "vorto": "pilin uta",
+    "sitelenpona": "pilin uta",
     "traduko": {
-      "angla": [
-        "flavour",
-        "taste"
+      "substantivo": [
+        "Gusto"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Bongusta"
+      ],
+      "verbo": [
+        "Gustumi"
+      ]
     }
   },
   {
     "vorto": "pilin utala",
+    "sitelenpona": "pilin utala",
     "traduko": {
-      "angla": [
-        "angry",
-        "rage",
-        "anger",
-        "mad"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Frenezega",
+        "Kolera"
+      ]
     }
   },
   {
     "vorto": "pilin wawa",
+    "sitelenpona": "pilin wawa",
     "traduko": {
-      "angla": [
-        "confident",
-        "excitement"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Memfida"
+      ]
     }
   },
   {
     "vorto": "pimeja",
+    "sitelenpona": "pimeja",
     "traduko": {
-      "angla": [
-        "black",
-        "dark",
-        "darkness",
-        "shadow",
-        "shade"
+      "substantivo": [
+        "Mallumo",
+        "Ombro"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Malhela",
+        "Malklara"
+      ],
+      "koloro": [
+        "Nigra"
+      ]
     }
   },
   {
     "vorto": "pini",
+    "sitelenpona": "pini",
     "traduko": {
-      "angla": [
-        "end",
-        "finish",
-        "shut",
-        "ending",
-        "conclude",
-        "outcome",
-        "cease",
-        "close (v)",
-        "closed",
-        "latter",
-        "quit",
-        "final",
-        "stop",
-        "complete",
-        "off",
-        "cancel"
+      "substantivo": [
+        "Ekstremo",
+        "Fino",
+        "Pinto",
+        "Rezulto"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Antaŭa",
+        "Farinta",
+        "Fermita",
+        "Fina",
+        "Finfarita",
+        "Finita",
+        "Finiĝinta",
+        "Lasta",
+        "Pasinta"
+      ],
+      "verbo": [
+        "Fermi",
+        "Fini",
+        "Halti",
+        "Kompletigi",
+        "Konkludi",
+        "Malŝalti",
+        "Nuligi",
+        "Ĉesi"
+      ]
     }
   },
   {
     "vorto": "pini ala",
+    "sitelenpona": "pini ala",
     "traduko": {
-      "angla": [
-        "endless"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Senfina"
+      ]
     }
   },
   {
     "vorto": "pini la",
+    "sitelenpona": "pini la",
     "traduko": {
-      "angla": [
-        "finally",
-        "ultimately"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Fine",
+        "Finfine"
+      ]
     }
   },
   {
     "vorto": "pini pali",
+    "sitelenpona": "pini pali",
     "traduko": {
-      "angla": [
-        "retire"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Retiri",
+        "Retiriĝi"
+      ]
     }
   },
   {
     "vorto": "pipi",
+    "sitelenpona": "pipi",
     "traduko": {
-      "angla": [
-        "bug",
-        "insect",
-        "spider"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Araneo",
+        "Artropodo",
+        "Eta Besto",
+        "Forniko",
+        "Insekto"
+      ]
     }
   },
   {
     "vorto": "poka",
+    "sitelenpona": "poka",
     "traduko": {
-      "angla": [
-        "side",
-        "hip",
-        "beside",
-        "aside"
+      "substantivo": [
+        "Apudo",
+        "Flanko",
+        "Kokso",
+        "Proksimaĵo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Apuda",
+        "Najbara"
+      ],
+      "prepozicio": [
+        "Krom",
+        "Kun"
+      ]
     }
   },
   {
     "vorto": "poki",
+    "sitelenpona": "poki",
     "traduko": {
-      "angla": [
-        "container",
-        "jar",
-        "box",
-        "package",
-        "bag",
-        "basket",
-        "bucket",
-        "bottle",
-        "pot",
-        "cabinet",
-        "classify",
-        "drawer",
-        "storage",
-        "locker",
-        "case",
-        "bowl"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Botelo",
+        "Bovlo",
+        "Glaso",
+        "Kesto",
+        "Korbo",
+        "Pakaĵo",
+        "Sako",
+        "Sitelo",
+        "Sitelo",
+        "Skatolo",
+        "Taso",
+        "Tirkesto",
+        "Uko",
+        "Ŝranko"
+      ]
     }
   },
   {
     "vorto": "poki len",
+    "sitelenpona": "poki+len",
     "traduko": {
-      "angla": [
-        "sack"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Sako"
+      ]
+    }
+  },
+  {
+    "vorto": "poki lete",
+    "sitelenpona": "poki+lete",
+    "traduko": {
+      "substantivo": [
+        "Frostujo"
+      ]
     }
   },
   {
     "vorto": "poki lipu",
+    "sitelenpona": "poki+lipu",
     "traduko": {
-      "angla": [
-        "envelope"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Koverto"
+      ]
     }
   },
   {
     "vorto": "poki seli",
+    "sitelenpona": "poki+seli",
     "traduko": {
-      "angla": [
-        "oven"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Forno"
+      ]
     }
   },
   {
     "vorto": "poki sike",
+    "sitelenpona": "poki+sike",
     "traduko": {
-      "angla": [
-        "barrel"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Barelo"
+      ]
     }
   },
   {
     "vorto": "poki tawa",
+    "sitelenpona": "poki+tawa",
     "traduko": {
-      "angla": [
-        "cart"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ĉaro"
+      ]
     }
   },
   {
     "vorto": "poki telo",
+    "sitelenpona": "poki+telo",
     "traduko": {
-      "angla": [
-        "cup"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Taso"
+      ]
     }
   },
   {
     "vorto": "poki wawa",
+    "sitelenpona": "poki+wawa",
     "traduko": {
-      "angla": [
-        "battery"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Baterio"
+      ]
     }
   },
   {
     "vorto": "pona",
+    "sitelenpona": "pona",
     "traduko": {
-      "angla": [
-        "good",
-        "appropriate",
-        "nice",
-        "acceptable",
-        "proper",
-        "simply",
-        "OK",
-        "fine",
-        "quality",
-        "valid",
-        "pleasant",
-        "friendly",
-        "positive",
-        "well",
-        "benefit",
-        "simple",
-        "virtue",
-        "alright",
-        "correct",
-        "repair",
-        "fix",
-        "right (not wrong)",
-        "advantage",
-        "cool",
-        "okay",
-        "fixed",
-        "helpful",
-        "validity",
-        "kind",
-        "ethical",
-        "merit",
-        "peaceful",
-        "ideal",
-        "improve",
-        "successfully",
-        "improvement",
-        "correction",
-        "grace",
-        "fair",
-        "successful",
-        "ease",
-        "heal",
-        "supportive",
-        "approval"
+      "substantivo": [
+        "Bono",
+        "Facileco",
+        "Korekto",
+        "Plibonigo",
+        "Simplo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Akceptebla",
+        "Amika",
+        "Bela",
+        "Bona",
+        "Etika",
+        "Helpema",
+        "Plaĉa",
+        "Simpla",
+        "Subtena",
+        "Sukcesa",
+        "Taŭga",
+        "Valida",
+        "Ĝusta"
+      ],
+      "verbo": [
+        "Korekti",
+        "Plibonigi",
+        "Resanigi",
+        "Ripari",
+        "Simpligi",
+        "Subteni"
+      ]
     }
   },
   {
     "vorto": "pona a",
+    "sitelenpona": "pona a",
     "traduko": {
-      "angla": [
-        "fantastic"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Mirinda"
+      ]
     }
   },
   {
     "vorto": "pona la",
+    "sitelenpona": "pona la",
     "traduko": {
-      "angla": [
-        "fortunately"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Bonŝance",
+        "Feliĉe"
+      ]
     }
   },
   {
     "vorto": "pona lukin",
+    "sitelenpona": "pona lukin",
     "traduko": {
-      "angla": [
-        "pretty",
-        "attractive",
-        "beauty"
+      "substantivo": [
+        "Beleco"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Alloga",
+        "Bela",
+        "Bonaspekta"
+      ]
+    }
+  },
+  {
+    "vorto": "pona moku",
+    "sitelenpona": "pona moku",
+    "traduko": {
+      "adjektivo": [
+        "Bongusta"
+      ]
     }
   },
   {
     "vorto": "pona mute",
+    "sitelenpona": "pona mute",
     "traduko": {
-      "angla": [
-        "excellent"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Bonega"
+      ]
     }
   },
   {
     "vorto": "pona sijelo",
+    "sitelenpona": "pona sijelo",
     "traduko": {
-      "angla": [
-        "health"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Saneco",
+        "Sano"
+      ]
     }
   },
   {
     "vorto": "pona tawa",
+    "sitelenpona": "pona tawa",
     "traduko": {
-      "angla": [
-        "suit (v)"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Ŝati al"
+      ]
     }
   },
   {
     "vorto": "pu",
+    "sitelenpona": "pu",
     "traduko": {
-      "angla": [
-        "interact with Toki Pona: The Language of Good"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "difino": [
+        "Interagi kun la oficiala libro de Tokipono"
+      ]
     }
   },
   {
     "vorto": "sama",
+    "sitelenpona": "sama",
     "traduko": {
-      "angla": [
-        "equal",
-        "alike",
-        "similar",
-        "equivalent",
-        "as",
-        "similarly",
-        "equality",
-        "equally",
-        "like",
-        "identical"
+      "adjektivo": [
+        "Egala",
+        "Sama",
+        "Samgrava",
+        "Samsituacia",
+        "Simila"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Ŝajni"
+      ],
+      "korelativo": [
+        "Kiel"
+      ]
     }
   },
   {
     "vorto": "sama ala",
+    "sitelenpona": "sama ala",
     "traduko": {
-      "angla": [
-        "unlike"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Malegala",
+        "Malsama"
+      ]
     }
   },
   {
     "vorto": "sama lukin",
+    "sitelenpona": "sama lukin",
     "traduko": {
-      "angla": [
-        "look like"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Aspektas Kiel"
+      ]
     }
   },
   {
     "vorto": "seli",
+    "sitelenpona": "seli",
     "traduko": {
-      "angla": [
-        "heat",
-        "fire",
-        "hot",
-        "burning",
-        "flame",
-        "burn",
-        "warm",
-        "warming"
+      "substantivo": [
+        "Fajro",
+        "Flamo",
+        "Varmigado"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Kuirita",
+        "Varma"
+      ],
+      "verbo": [
+        "Bruligi",
+        "Fajrigi",
+        "Kuiri",
+        "Varmigi"
+      ]
     }
   },
   {
     "vorto": "selo",
+    "sitelenpona": "selo",
     "traduko": {
-      "angla": [
-        "skin",
-        "boundary",
-        "surface",
-        "peel",
-        "outer",
-        "shape",
-        "layer"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ekstera Formo",
+        "Ekstera Tavolo",
+        "Formo",
+        "Haŭto",
+        "Limo",
+        "Supraĵo",
+        "Surfaco",
+        "Tavolo",
+        "Ŝelo"
+      ]
     }
   },
   {
     "vorto": "selo kiwen",
+    "sitelenpona": "selo kiwen",
     "traduko": {
-      "angla": [
-        "shell"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ŝelo"
+      ]
     }
   },
   {
     "vorto": "selo soweli",
+    "sitelenpona": "selo soweli",
     "traduko": {
-      "angla": [
-        "leather"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ledo"
+      ]
     }
   },
   {
     "vorto": "seme",
+    "sitelenpona": "seme",
     "traduko": {
-      "angla": [
-        "what",
-        "which",
-        "huh"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Ki- (Demandovorto)"
+      ]
     }
   },
   {
     "vorto": "sewi",
+    "sitelenpona": "sewi",
     "traduko": {
-      "angla": [
-        "upper",
-        "divine",
-        "sacred",
-        "top",
-        "holy",
-        "sky",
-        "elevated",
-        "high",
-        "spiritual",
-        "raise",
-        "supreme",
-        "highly",
-        "peak"
+      "substantivo": [
+        "Alto",
+        "Supero",
+        "Supro",
+        "Suro",
+        "Ĉielo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Alta",
+        "Dia",
+        "Formala",
+        "Levita",
+        "Nobla",
+        "Religia",
+        "Sankta",
+        "Spirita",
+        "Supera",
+        "Supra"
+      ]
+    }
+  },
+  {
+    "vorto": "sewi monsi",
+    "sitelenpona": "sewi monsi",
+    "traduko": {
+      "substantivo": [
+        "Supra Dorso",
+        "Ŝultroj"
+      ]
+    }
+  },
+  {
+    "vorto": "sewi pi sinpin lawa",
+    "sitelenpona": "sewi pi++sinpin lawa",
+    "traduko": {
+      "substantivo": [
+        "Frunto"
+      ]
     }
   },
   {
     "vorto": "sijelo",
+    "sitelenpona": "sijelo",
     "traduko": {
-      "angla": [
-        "body",
-        "torso",
-        "flesh"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Fizika Stato",
+        "Karno",
+        "Korpo",
+        "Torso"
+      ]
     }
   },
   {
     "vorto": "sijelo pona",
+    "sitelenpona": "sijelo pona",
     "traduko": {
-      "angla": [
-        "healthy"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Sana"
+      ]
     }
   },
   {
     "vorto": "sike",
+    "sitelenpona": "sike",
     "traduko": {
-      "angla": [
-        "circle",
-        "round",
-        "sphere",
-        "ball",
-        "loop",
-        "cycle",
-        "wheel",
-        "disc",
-        "globe",
-        "circuit"
+      "substantivo": [
+        "Bulo",
+        "Ciklo",
+        "Cirklo",
+        "Cirkvito",
+        "Disko",
+        "Globo",
+        "Pilko",
+        "Rado",
+        "Rondo",
+        "Sfero"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Bula",
+        "Cikla",
+        "Cirkla",
+        "Pilka",
+        "Rada",
+        "Ronda",
+        "Sfera"
+      ]
     }
   },
   {
     "vorto": "sike kon",
+    "sitelenpona": "sike kon",
     "traduko": {
-      "angla": [
-        "balloon"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Balono"
+      ]
     }
   },
   {
     "vorto": "sike lili",
+    "sitelenpona": "sike lili",
     "traduko": {
-      "angla": [
-        "dot"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Punkto"
+      ]
     }
   },
   {
     "vorto": "sike mama",
+    "sitelenpona": "sike mama",
     "traduko": {
-      "angla": [
-        "egg"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ovo"
+      ]
     }
   },
   {
     "vorto": "sin",
+    "sitelenpona": "sin",
     "traduko": {
-      "angla": [
-        "new",
-        "newly",
-        "fresh"
+      "adjektivo": [
+        "Aldona",
+        "Ankoraŭ",
+        "Freŝa",
+        "Kroma",
+        "Nova",
+        "Plia"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Renovigi"
+      ]
     }
   },
   {
     "vorto": "sina",
+    "sitelenpona": "sina",
     "traduko": {
-      "angla": [
-        "you",
-        "your",
-        "yours",
-        "yourself"
+      "pronomo": [
+        "Vi mem",
+        "Vi"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Via"
+      ]
     }
   },
   {
     "vorto": "sinpin",
+    "sitelenpona": "sinpin",
     "traduko": {
-      "angla": [
-        "front",
-        "face (n)",
-        "wall"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Antaŭo",
+        "Brusto",
+        "Muro",
+        "Torso",
+        "Vizaĝo"
+      ]
+    }
+  },
+  {
+    "vorto": "sinpin lawa",
+    "sitelenpona": "sinpin lawa",
+    "traduko": {
+      "substantivo": [
+        "Vizaĝo"
+      ]
     }
   },
   {
     "vorto": "sitelen",
+    "sitelenpona": "sitelen",
     "traduko": {
-      "angla": [
-        "picture",
-        "image",
-        "graphic",
-        "symbol",
-        "drawing",
-        "illustration",
-        "photo",
-        "illustrate",
-        "writing",
-        "painting",
-        "write",
-        "written",
-        "depict",
-        "draw",
-        "photograph",
-        "portrait",
-        "icon",
-        "representation",
-        "mark",
-        "portray"
+      "substantivo": [
+        "Bildo",
+        "Desegnaĵo",
+        "Foto",
+        "Grafiko",
+        "Ilustraĵo",
+        "Pentraĵo",
+        "Portreto",
+        "Simbolo",
+        "Skribado"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Desegni",
+        "Desegni",
+        "Ilustri",
+        "Pentri",
+        "Skribi"
+      ]
+    }
+  },
+  {
+    "vorto": "sitelen e toki",
+    "sitelenpona": "sitelen e toki",
+    "traduko": {
+      "verbo": [
+        "Skribi",
+        "Verki"
+      ]
     }
   },
   {
     "vorto": "sitelen esun",
+    "sitelenpona": "sitelen esun",
     "traduko": {
-      "angla": [
-        "advertisement",
-        "ad"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Reklamo"
+      ]
     }
   },
   {
     "vorto": "sitelen lape",
+    "sitelenpona": "sitelen lape",
     "traduko": {
-      "angla": [
-        "dream"
+      "substantivo": [
+        "Sonĝo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Sonĝi"
+      ]
     }
   },
   {
     "vorto": "sitelen musi",
+    "sitelenpona": "sitelen musi",
     "traduko": {
-      "angla": [
-        "comics",
-        "meme"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Komikso",
+        "Memeo"
+      ]
     }
   },
   {
     "vorto": "sitelen selo",
+    "sitelenpona": "sitelen selo",
     "traduko": {
-      "angla": [
-        "tattoo"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Tatuo"
+      ]
     }
   },
   {
     "vorto": "sitelen sona",
+    "sitelenpona": "sitelen sona",
     "traduko": {
-      "angla": [
-        "chart"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Diagramo"
+      ]
     }
   },
   {
     "vorto": "sitelen tawa",
+    "sitelenpona": "sitelen tawa",
     "traduko": {
-      "angla": [
-        "video",
-        "film",
-        "footage",
-        "movie"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Filmeto",
+        "Filmo",
+        "Video"
+      ]
     }
   },
   {
     "vorto": "sitelen tawa sona",
+    "sitelenpona": "sitelen tawa sona",
     "traduko": {
-      "angla": [
-        "documentary"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Dokumentario"
+      ]
+    }
+  },
+  {
+    "vorto": "sitelen toki",
+    "sitelenpona": "sitelen toki",
+    "traduko": {
+      "substantivo": [
+        "Skribado"
+      ]
+    }
+  },
+  {
+    "vorto": "sitelen unpa",
+    "sitelenpona": "sitelen unpa",
+    "traduko": {
+      "substantivo": [
+        "Erotaj Bildoj",
+        "Pornaĵo",
+        "Pornografio"
+      ]
     }
   },
   {
     "vorto": "soko",
+    "sitelenpona": "soko",
     "traduko": {
-      "angla": [
-        "mushroom",
-        "fungus"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Fungo"
+      ]
     }
   },
   {
     "vorto": "sona",
+    "sitelenpona": "sona",
     "traduko": {
-      "angla": [
-        "know",
-        "knowledge",
-        "information",
-        "understand",
-        "understanding",
-        "aware",
-        "info",
-        "wisdom",
-        "awareness",
-        "known",
-        "data",
-        "wise",
-        "recognition",
-        "recognize",
-        "expertise"
+      "substantivo": [
+        "Datumo",
+        "Informo",
+        "Rekono",
+        "Saĝo",
+        "Scio",
+        "Sperto"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Inteligenta",
+        "Konata",
+        "Saĝa"
+      ],
+      "verbo": [
+        "Kompreni",
+        "Koni",
+        "Rekoni",
+        "Scii"
+      ]
     }
   },
   {
     "vorto": "sona ala",
+    "sitelenpona": "sona+ala",
     "traduko": {
-      "angla": [
-        "ignorance",
-        "ignorant",
-        "unknown",
-        "uncertainty"
+      "substantivo": [
+        "Ignoranco",
+        "Ignoranto",
+        "Necerteco"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Nekonata"
+      ]
+    }
+  },
+  {
+    "vorto": "sona e toki",
+    "sitelenpona": "sona e toki",
+    "traduko": {
+      "verbo": [
+        "Kompreni Lingvon",
+        "Scipovi Lingvon"
+      ]
+    }
+  },
+  {
+    "vorto": "sona mute",
+    "sitelenpona": "sona+mute",
+    "traduko": {
+      "adjektivo": [
+        "Inteligenta",
+        "Saĝa"
+      ]
     }
   },
   {
     "vorto": "sona nanpa",
+    "sitelenpona": "sona+nanpa",
     "traduko": {
-      "angla": [
-        "mathematics"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Matematiko"
+      ]
     }
   },
   {
     "vorto": "sona toki",
+    "sitelenpona": "sona+toki",
     "traduko": {
-      "angla": [
-        "linguistics"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Lingvistiko"
+      ]
+    }
+  },
+  {
+    "vorto": "sona pona e toki",
+    "sitelenpona": "sona+pona e toki",
+    "traduko": {
+      "verbo": [
+        "Regi Lingvon"
+      ]
     }
   },
   {
     "vorto": "soweli",
+    "sitelenpona": "soweli",
     "traduko": {
-      "angla": [
-        "animal",
-        "deer",
-        "creature",
-        "dog",
-        "cat",
-        "llama",
-        "goat",
-        "Musteloidea",
-        "beast",
-        "lion"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Bestaĉo",
+        "Besto",
+        "Bovaĵo",
+        "Bovo",
+        "Cervo",
+        "Hundo",
+        "Kapro",
+        "Kato",
+        "Kreitaĵo",
+        "Leono",
+        "Mambesto",
+        "Mamulo",
+        "Porkaĵo",
+        "Porko",
+        "Terbesto"
+      ]
     }
   },
   {
     "vorto": "soweli len",
+    "sitelenpona": "soweli len",
     "traduko": {
-      "angla": [
-        "sheep"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ŝafo"
+      ]
     }
   },
   {
     "vorto": "soweli lili",
+    "sitelenpona": "soweli lili",
     "traduko": {
-      "angla": [
-        "Glires or Eulipotyphla ()",
-        "mouse ()"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Muso"
+      ]
     }
   },
   {
     "vorto": "soweli suli",
+    "sitelenpona": "soweli suli",
     "traduko": {
-      "angla": [
-        "elephant"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Elefanto"
+      ]
     }
   },
   {
     "vorto": "soweli tawa",
+    "sitelenpona": "soweli tawa",
     "traduko": {
-      "angla": [
-        "horse"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ĉevalo"
+      ]
     }
   },
   {
     "vorto": "suli",
+    "sitelenpona": "suli",
     "traduko": {
-      "angla": [
-        "importance",
-        "big",
-        "large",
-        "important",
-        "significant",
-        "matter (v)",
-        "significantly",
-        "grand",
-        "huge",
-        "vast",
-        "weight",
-        "tall",
-        "crucial",
-        "prominent",
-        "extensive",
-        "fat",
-        "broad",
-        "long",
-        "substantial",
-        "significance",
-        "size",
-        "giant",
-        "heavy",
-        "wide",
-        "extended",
-        "considerable",
-        "thick",
-        "major",
-        "tremendous",
-        "extent",
-        "magnitude",
-        "great",
-        "length",
-        "vital",
-        "height",
-        "importantly",
-        "greatly",
-        "severe",
-        "dramatically",
-        "mass"
+      "substantivo": [
+        "Alteco",
+        "Graso",
+        "Graveco",
+        "Longeco",
+        "Maso",
+        "Pezo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Alta",
+        "Dika",
+        "Elstara",
+        "Granda",
+        "Grandega",
+        "Grava",
+        "Larĝa",
+        "Longa",
+        "Plenaĝa",
+        "Vasta"
+      ],
+      "verbo": [
+        "Grandigi",
+        "Longigi"
+      ]
     }
   },
   {
     "vorto": "suli la",
+    "sitelenpona": "suli la",
     "traduko": {
-      "angla": [
-        "especially"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Precipe"
+      ]
     }
   },
   {
     "vorto": "suno",
+    "sitelenpona": "suno",
     "traduko": {
-      "angla": [
-        "sun",
-        "solar",
-        "light",
-        "sunlight",
-        "bright",
-        "shine"
-      ],
-      "esperanto": [],
-      "hispana": []
-    }
+      "substantivo": [
+        "Lumo",
+        "Sunlumo",
+        "Suno"
+      ]
+    },
+    "adjektivo": [
+      "Hela"
+    ],
+    "verbo": [
+      "Brili"
+    ]
   },
   {
     "vorto": "supa",
+    "sitelenpona": "supa",
     "traduko": {
-      "angla": [
-        "platform",
-        "table",
-        "shelf",
-        "board",
-        "furniture",
-        "flat",
-        "lie (be in flat position)",
-        "level",
-        "desk"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Bretaro",
+        "Estaro",
+        "Meblo",
+        "Nivelo",
+        "Platformo",
+        "Skribotablo",
+        "Tabelo"
+      ]
     }
   },
   {
     "vorto": "supa lape",
+    "sitelenpona": "supa lape",
     "traduko": {
-      "angla": [
-        "bed"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Lito"
+      ]
+    }
+  },
+  {
+    "vorto": "supa lawa",
+    "sitelenpona": "supa lawa",
+    "traduko": {
+      "substantivo": [
+        "Kapkuseno"
+      ]
     }
   },
   {
     "vorto": "supa moku",
+    "sitelenpona": "supa moku",
     "traduko": {
-      "angla": [
-        "plate"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Manĝotablo",
+        "Plato"
+      ]
     }
   },
   {
     "vorto": "supa monsi",
+    "sitelenpona": "supa monsi",
     "traduko": {
-      "angla": [
-        "seat"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Seĝo",
+        "Sidloko",
+        "Sofo"
+      ]
+    }
+  },
+  {
+    "vorto": "supa pali",
+    "sitelenpona": "supa pali",
+    "traduko": {
+      "substantivo": [
+        "Skribotablo"
+      ]
     }
   },
   {
     "vorto": "suwi",
+    "sitelenpona": "suwi",
     "traduko": {
-      "angla": [
-        "sweet",
-        "cute",
-        "candy",
-        "sugar"
+      "substantivo": [
+        "Dolĉaĵo",
+        "Sukero"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Afabla",
+        "Aminda",
+        "Bonodora",
+        "Dolĉa",
+        "Senkulpa",
+        "Ĉarma"
+      ],
+      "verbo": [
+        "Dolĉigi"
+      ]
+    }
+  },
+  {
+    "vorto": "suwi lukin",
+    "sitelenpona": "suwi lukin",
+    "traduko": {
+      "adjektivo": [
+        "Aminda",
+        "Delikate Ĉarma"
+      ]
     }
   },
   {
     "vorto": "tan",
+    "sitelenpona": "tan",
     "traduko": {
-      "angla": [
-        "from",
-        "reason",
-        "because of",
-        "by",
-        "source"
+      "substantivo": [
+        "Deveno",
+        "Kaŭzo",
+        "Kialo",
+        "Origino"
       ],
-      "esperanto": [],
-      "hispana": []
+      "prepozicio": [
+        "De",
+        "El",
+        "Pro"
+      ]
     }
   },
   {
     "vorto": "tan seme",
+    "sitelenpona": "tan seme",
     "traduko": {
-      "angla": [
-        "why"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Kial"
+      ]
     }
   },
   {
     "vorto": "taso",
+    "sitelenpona": "taso",
     "traduko": {
-      "angla": [
-        "but",
-        "only",
-        "solely",
-        "however",
-        "exclusively",
-        "although",
-        "though",
-        "just",
-        "exclusive",
-        "despite",
-        "nonetheless",
-        "mere",
-        "merely",
-        "except",
-        "nevertheless",
-        "yet",
-        "sole",
-        "whereas"
+      "adjektivo": [
+        "Ekskluziva",
+        "Nura",
+        "Sola"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Nur",
+        "Sole"
+      ],
+      "konjunkcio": [
+        "Kvankam",
+        "Sed",
+        "Tamen"
+      ],
+      "prepozicio": [
+        "Malgraŭ"
+      ]
     }
   },
   {
     "vorto": "tawa",
+    "sitelenpona": "tawa",
     "traduko": {
-      "angla": [
-        "motion",
-        "go",
-        "toward",
-        "move",
-        "movement",
-        "towards",
-        "to",
-        "for",
-        "transit",
-        "travel",
-        "trip",
-        "transportation",
-        "walk",
-        "advance",
-        "onto",
-        "transport",
-        "pass",
-        "walking",
-        "migration",
-        "departure",
-        "from the perspective of",
-        "push"
+      "substantivo": [
+        "Foriro",
+        "Migrado",
+        "Movado",
+        "Movo",
+        "Puŝo",
+        "Transporto",
+        "Vojaĝo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Foriri",
+        "Iri",
+        "Movi",
+        "Moviĝi",
+        "Transporti",
+        "Vojaĝi"
+      ],
+      "prepozicio": [
+        "Al",
+        "Por",
+        "Ĝis"
+      ]
     }
   },
   {
     "vorto": "tawa anpa",
+    "sitelenpona": "tawa anpa",
     "traduko": {
-      "angla": [
-        "descend"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Malsupreniri"
+      ]
     }
   },
   {
     "vorto": "tawa insa",
+    "sitelenpona": "tawa insa",
     "traduko": {
-      "angla": [
-        "into"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "prepozicio": [
+        "En",
+        "Enen",
+        "Internen"
+      ]
     }
   },
   {
     "vorto": "tawa musi",
+    "sitelenpona": "tawa musi",
     "traduko": {
-      "angla": [
-        "dance",
-        "dancing"
+      "substantivo": [
+        "Dancado",
+        "Danco"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Danci"
+      ]
     }
   },
   {
     "vorto": "tawa pona",
+    "sitelenpona": "tawa pona",
     "traduko": {
-      "angla": [
-        "bye (said by person staying)",
-        "goodbye"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "konjunkcio": [
+        "Ĝis la revido (dirita de restanto)"
+      ]
     }
   },
   {
     "vorto": "tawa sewi",
+    "sitelenpona": "tawa sewi",
     "traduko": {
-      "angla": [
-        "jump",
-        "leap"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Salti"
+      ]
     }
   },
   {
     "vorto": "tawa sike",
+    "sitelenpona": "tawa sike",
     "traduko": {
-      "angla": [
-        "roll",
-        "spin"
+      "substantivo": [
+        "Spino"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Ruli"
+      ]
     }
   },
   {
     "vorto": "tawa sinpin",
+    "sitelenpona": "tawa sinpin",
     "traduko": {
-      "angla": [
-        "forward"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "prepozicio": [
+        "Antauen"
+      ]
     }
   },
   {
     "vorto": "tawa telo",
+    "sitelenpona": "tawa telo",
     "traduko": {
-      "angla": [
-        "swim"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Naĝi"
+      ]
     }
   },
   {
     "vorto": "tawa waso",
+    "sitelenpona": "tawa waso",
     "traduko": {
-      "angla": [
-        "flight"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Flugi"
+      ]
     }
   },
   {
     "vorto": "tawa wawa",
+    "sitelenpona": "tawa wawa",
     "traduko": {
-      "angla": [
-        "run",
-        "running"
+      "substantivo": [
+        "Kurado"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Kuri"
+      ]
     }
   },
   {
     "vorto": "telo",
+    "sitelenpona": "telo",
     "traduko": {
-      "angla": [
-        "fluid",
-        "water",
-        "wet",
-        "wash",
-        "pond",
-        "pool"
+      "substantivo": [
+        "Akvo",
+        "Fluido",
+        "Likvaĵo",
+        "Likvo",
+        "Saŭco",
+        "Suko",
+        "Trinkaĵo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Akva",
+        "Likva",
+        "Saŭca",
+        "Suka"
+      ],
+      "verbo": [
+        "Akvumi",
+        "Lavi per akvo"
+      ]
     }
   },
   {
     "vorto": "telo ala",
+    "sitelenpona": "telo ala",
     "traduko": {
-      "angla": [
-        "dry"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Seka"
+      ]
     }
   },
   {
     "vorto": "telo jelo",
+    "sitelenpona": "telo jelo",
     "traduko": {
-      "angla": [
-        "piss"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Piso"
+      ]
     }
   },
   {
     "vorto": "telo kasi",
+    "sitelenpona": "telo kasi",
     "traduko": {
-      "angla": [
-        "tea"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Teo"
+      ]
     }
   },
   {
     "vorto": "telo kili",
+    "sitelenpona": "telo kili",
     "traduko": {
-      "angla": [
-        "juice"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Suko"
+      ]
+    }
+  },
+  {
+    "vorto": "telo kiwen",
+    "sitelenpona": "telo kiwen",
+    "traduko": {
+      "substantivo": [
+        "Glacio"
+      ]
     }
   },
   {
     "vorto": "telo loje",
+    "sitelenpona": "telo loje",
     "traduko": {
-      "angla": [
-        "blood"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Sango"
+      ]
+    }
+  },
+  {
+    "vorto": "telo loje mun",
+    "sitelenpona": "telo loje mun",
+    "traduko": {
+      "substantivo": [
+        "Menstrua Sango"
+      ]
+    }
+  },
+  {
+    "vorto": "telo mama",
+    "sitelenpona": "telo mama",
+    "traduko": {
+      "substantivo": [
+        "Lakto"
+      ]
+    }
+  },
+  {
+    "vorto": "telo mama soweli",
+    "sitelenpona": "telo mama soweli",
+    "traduko": {
+      "substantivo": [
+        "Besta Lakto"
+      ]
     }
   },
   {
     "vorto": "telo nasa",
+    "sitelenpona": "telo nasa",
     "traduko": {
-      "angla": [
-        "alcohol",
-        "beer"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Alkoholaĵo",
+        "Biro",
+        "Vino",
+        "Viskio"
+      ]
+    }
+  },
+  {
+    "vorto": "telo seli",
+    "sitelenpona": "telo seli",
+    "traduko": {
+      "substantivo": [
+        "Kafo",
+        "Teo",
+        "Varma Trinkaĵo"
+      ]
     }
   },
   {
     "vorto": "telo selo",
+    "sitelenpona": "telo selo",
     "traduko": {
-      "angla": [
-        "sweat"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ŝvito"
+      ]
     }
   },
   {
     "vorto": "telo sewi",
+    "sitelenpona": "telo sewi",
     "traduko": {
-      "angla": [
-        "rain"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Pluvo"
+      ]
     }
   },
   {
     "vorto": "telo suli",
+    "sitelenpona": "telo suli",
     "traduko": {
-      "angla": [
-        "ocean",
-        "sea"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Maro",
+        "Oceano"
+      ]
     }
   },
   {
     "vorto": "telo uta",
+    "sitelenpona": "telo uta",
     "traduko": {
-      "angla": [
-        "spit"
+      "substantivo": [
+        "Kraĉaĵo",
+        "Salivo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Kraĉi"
+      ]
+    }
+  },
+  {
+    "vorto": "telo walo mije",
+    "sitelenpona": "telo walo mije",
+    "traduko": {
+      "substantivo": [
+        "Spermo"
+      ]
     }
   },
   {
     "vorto": "telo wawa",
+    "sitelenpona": "telo wawa",
     "traduko": {
-      "angla": [
-        "gasoline"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Benzino",
+        "Energia Trinkaĵo"
+      ]
     }
   },
   {
     "vorto": "tenpo",
+    "sitelenpona": "tenpo",
     "traduko": {
-      "angla": [
-        "time",
-        "timing",
-        "session",
-        "occasion",
-        "phase",
-        "moment",
-        "date",
-        "circumstance",
-        "hour",
-        "appointment",
-        "scenario"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Cirkonstanco",
+        "Dato",
+        "Fazo",
+        "Horo",
+        "Momento",
+        "Nomumo",
+        "Okazo",
+        "Scenaro",
+        "Sesio",
+        "Tempo"
+      ]
     }
   },
   {
     "vorto": "tenpo ala",
+    "sitelenpona": "tenpo ala",
     "traduko": {
-      "angla": [
-        "never"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Neniam"
+      ]
     }
   },
   {
     "vorto": "tenpo ale",
+    "sitelenpona": "tenpo ale",
     "traduko": {
-      "angla": [
-        "forever",
-        "constantly"
+      "adverbo": [
+        "Eterne"
       ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Ĉiam"
+      ]
     }
   },
   {
     "vorto": "tenpo esun",
+    "sitelenpona": "tenpo esun",
     "traduko": {
-      "angla": [
-        "week"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Semajno"
+      ]
     }
   },
   {
     "vorto": "tenpo kama",
+    "sitelenpona": "tenpo kama",
     "traduko": {
-      "angla": [
-        "future",
-        "later"
+      "substantivo": [
+        "Estonteco"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Poste"
+      ]
     }
   },
   {
     "vorto": "tenpo lete",
+    "sitelenpona": "tenpo lete",
     "traduko": {
-      "angla": [
-        "winter"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Vintro"
+      ]
     }
   },
   {
     "vorto": "tenpo lili",
+    "sitelenpona": "tenpo lili",
     "traduko": {
-      "angla": [
-        "minute",
-        "second (unit of time)"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Minuto",
+        "Sekundo"
+      ]
     }
   },
   {
     "vorto": "tenpo mun",
+    "sitelenpona": "tenpo mun",
     "traduko": {
-      "angla": [
-        "month"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Monato"
+      ]
     }
   },
   {
     "vorto": "tenpo musi",
+    "sitelenpona": "tenpo musi",
     "traduko": {
-      "angla": [
-        "festival"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Festivalo"
+      ]
     }
   },
   {
     "vorto": "tenpo mute la",
+    "sitelenpona": "tenpo mute la",
     "traduko": {
-      "angla": [
-        "typically",
-        "usually",
-        "tend",
-        "commonly"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Komune",
+        "Kutime",
+        "Mulfoje",
+        "Ofte"
+      ]
     }
   },
   {
     "vorto": "tenpo ni",
+    "sitelenpona": "tenpo ni",
     "traduko": {
-      "angla": [
-        "now",
-        "current"
+      "adjektivo": [
+        "Nuna"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Nun"
+      ]
     }
   },
   {
     "vorto": "tenpo ni la",
+    "sitelenpona": "tenpo ni la",
     "traduko": {
-      "angla": [
-        "currently"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Nuntempe"
+      ]
     }
   },
   {
     "vorto": "tenpo pi jan lili",
+    "sitelenpona": "tenpo pi+jan+lili",
     "traduko": {
-      "angla": [
-        "childhood"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Infanaĝo"
+      ]
     }
   },
   {
     "vorto": "tenpo pi pali ala",
+    "sitelenpona": "tenpo pi++pali ala",
     "traduko": {
-      "angla": [
-        "vacation"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ferio"
+      ]
     }
   },
   {
     "vorto": "tenpo pimeja",
+    "sitelenpona": "tenpo pimeja",
     "traduko": {
-      "angla": [
-        "night"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Nokto"
+      ]
     }
   },
   {
     "vorto": "tenpo pimeja ni",
+    "sitelenpona": "tenpo pimeja ni",
     "traduko": {
-      "angla": [
-        "tonight"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ĉi-nokte"
+      ]
     }
   },
   {
     "vorto": "tenpo pini",
+    "sitelenpona": "tenpo pini",
     "traduko": {
-      "angla": [
-        "past",
-        "deadline",
-        "history"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "pasinteco",
+        "Estinteco",
+        "Limdato",
+        "Historio"
+      ]
     }
   },
   {
     "vorto": "tenpo pini la",
+    "sitelenpona": "tenpo pini la",
     "traduko": {
-      "angla": [
-        "previously"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Antaŭe (Tempo)"
+      ]
     }
   },
   {
     "vorto": "tenpo sama",
+    "sitelenpona": "tenpo sama",
     "traduko": {
-      "angla": [
-        "meantime"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "prepozicio": [
+        "Dum"
+      ]
     }
   },
   {
     "vorto": "tenpo sama la",
+    "sitelenpona": "tenpo sama la",
     "traduko": {
-      "angla": [
-        "meanwhile"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Dume"
+      ]
     }
   },
   {
     "vorto": "tenpo seli",
+    "sitelenpona": "tenpo seli",
     "traduko": {
-      "angla": [
-        "summer"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Somero"
+      ]
     }
   },
   {
     "vorto": "tenpo seme",
+    "sitelenpona": "tenpo seme",
     "traduko": {
-      "angla": [
-        "when"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "korelativo": [
+        "Kiam"
+      ]
     }
   },
   {
     "vorto": "tenpo sike",
+    "sitelenpona": "tenpo sike",
     "traduko": {
-      "angla": [
-        "year"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Jaro"
+      ]
+    }
+  },
+  {
+    "vorto": "tenpo sin",
+    "sitelenpona": "tenpo sin",
+    "traduko": {
+      "adverbo": [
+        "Denove"
+      ]
     }
   },
   {
     "vorto": "tenpo suli",
+    "sitelenpona": "tenpo suli",
     "traduko": {
-      "angla": [
-        "era",
-        "longtime",
-        "century"
+      "substantivo": [
+        "Jarcento",
+        "Longa Tempo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Delonge"
+      ]
     }
   },
   {
     "vorto": "tenpo suno",
+    "sitelenpona": "tenpo suno",
     "traduko": {
-      "angla": [
-        "day"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Tago"
+      ]
     }
   },
   {
     "vorto": "tenpo suno kama",
+    "sitelenpona": "tenpo suno kama",
     "traduko": {
-      "angla": [
-        "tomorrow"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Morgaŭ"
+      ]
     }
   },
   {
     "vorto": "tenpo suno ni",
+    "sitelenpona": "tenpo suno ni",
     "traduko": {
-      "angla": [
-        "today"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Hodiaŭ"
+      ]
     }
   },
   {
     "vorto": "tenpo suno olin",
+    "sitelenpona": "tenpo suno olin",
     "traduko": {
-      "angla": [
-        "Valentineâ€™s Day"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Sankt-Valentena Tago"
+      ]
     }
   },
   {
     "vorto": "tenpo suno pini",
+    "sitelenpona": "tenpo suno pini",
     "traduko": {
-      "angla": [
-        "yesterday"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adverbo": [
+        "Hieraŭ"
+      ]
     }
   },
   {
     "vorto": "toki",
+    "sitelenpona": "toki",
     "traduko": {
-      "angla": [
-        "speech",
-        "talk",
-        "conversation",
-        "say",
-        "communicate",
-        "speak",
-        "communication",
-        "hello",
-        "language",
-        "tell",
-        "statement",
-        "hi",
-        "discuss",
-        "discussion",
-        "discourse",
-        "mention",
-        "comment",
-        "refer",
-        "message",
-        "express",
-        "remark",
-        "dialogue",
-        "reporting",
-        "call",
-        "narrative",
-        "commentary",
-        "disclose",
-        "respond",
-        "contact",
-        "verbal",
-        "admit",
-        "proposal",
-        "tale",
-        "story",
-        "declare",
-        "interview",
-        "answer",
-        "testify",
-        "report",
-        "expression",
-        "phrase"
+      "substantivo": [
+        "Deklaro",
+        "Dialogo",
+        "Diskonigo",
+        "Diskuto",
+        "Esprimo",
+        "Intervjuo",
+        "Komento",
+        "Komento",
+        "Komunikado",
+        "Konversacio",
+        "Lingvo",
+        "Mesaĝo",
+        "Parolado",
+        "Propono",
+        "Rakonto",
+        "Raporto",
+        "Respondo",
+        "Rimarko",
+        "Saluto"
       ],
-      "esperanto": [],
-      "hispana": []
-    }
-  },
-  {
-    "vorto": "toki Inli",
-    "traduko": {
-      "angla": [
-        "English"
+      "adjektivo": [
+        "Komunika",
+        "Lingva",
+        "Parola"
       ],
-      "esperanto": [],
-      "hispana": []
-    }
-  },
-  {
-    "vorto": "toki Lasina",
-    "traduko": {
-      "angla": [
-        "Latin"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Atesti",
+        "Babili",
+        "Diri",
+        "Diskuti",
+        "Intervjui",
+        "Komuniki",
+        "Konversacii",
+        "Paroli",
+        "Saluti",
+        "Voki"
+      ]
     }
   },
   {
     "vorto": "toki ike",
+    "sitelenpona": "toki+ike",
     "traduko": {
-      "angla": [
-        "complain",
-        "criticize"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Kritiki",
+        "Ofendi",
+        "Plendi"
+      ]
     }
   },
   {
     "vorto": "toki insa",
+    "sitelenpona": "toki insa",
     "traduko": {
-      "angla": [
-        "thinking"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Pensi"
+      ]
     }
   },
   {
     "vorto": "toki lawa",
+    "sitelenpona": "toki lawa",
     "traduko": {
-      "angla": [
-        "command"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Komando"
+      ]
+    }
+  },
+  {
+    "vorto": "toki lili",
+    "sitelenpona": "toki+lili",
+    "traduko": {
+      "verbo": [
+        "Flustri"
+      ]
     }
   },
   {
     "vorto": "toki musi",
+    "sitelenpona": "toki musi",
     "traduko": {
-      "angla": [
-        "poetry",
-        "joke"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Poezio",
+        "Ŝerco"
+      ]
     }
   },
   {
     "vorto": "toki open",
+    "sitelenpona": "toki open",
     "traduko": {
-      "angla": [
-        "introduction"
+      "substantivo": [
+        "Enkonduko"
+      ]
+    }
+  },
+  {
+    "vorto": "toki pona",
+    "sitelenpona": "toki+pona",
+    "traduko": {
+      "substantivo": [
+        "Bona Lingvo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Diri bonaĵojn",
+        "Paroli tokiponon"
+      ]
     }
   },
   {
     "vorto": "toki sona",
+    "sitelenpona": "toki sona",
     "traduko": {
-      "angla": [
-        "lecture"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Prelego"
+      ]
     }
   },
   {
     "vorto": "toki suli",
+    "sitelenpona": "toki+suli",
     "traduko": {
-      "angla": [
-        "announcement"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Anonco"
+      ]
     }
   },
   {
     "vorto": "toki tawa sewi",
+    "sitelenpona": "toki tawa sewi",
     "traduko": {
-      "angla": [
-        "pray"
+      "substantivo": [
+        "Preĝo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Preĝi"
+      ]
     }
   },
   {
     "vorto": "toki utala",
+    "sitelenpona": "toki utala",
     "traduko": {
-      "angla": [
-        "argument"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Argumento"
+      ]
     }
   },
   {
     "vorto": "toki wile",
+    "sitelenpona": "toki wile",
     "traduko": {
-      "angla": [
-        "plea"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Pledo"
+      ]
     }
   },
   {
     "vorto": "tomo",
+    "sitelenpona": "tomo",
     "traduko": {
-      "angla": [
-        "building",
-        "house",
-        "housing",
-        "chamber",
-        "home",
-        "room",
-        "shelter",
-        "residence",
-        "suite",
-        "domestic",
-        "structural",
-        "structure",
-        "residential",
-        "facility",
-        "establishment",
-        "household",
-        "cabin",
-        "apartment"
+      "substantivo": [
+        "Apartamento",
+        "Domo",
+        "Hejmo",
+        "Instalaĵo",
+        "Konstruaĵo",
+        "Loĝado",
+        "Loĝejo",
+        "Strukturo",
+        "Ĉambro",
+        "Ŝirmejo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Hejma",
+        "Struktura"
+      ]
     }
   },
   {
     "vorto": "tomo anpa",
+    "sitelenpona": "tomo anpa",
     "traduko": {
-      "angla": [
-        "basement"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kelo"
+      ]
     }
   },
   {
     "vorto": "tomo esun",
+    "sitelenpona": "tomo+esun",
     "traduko": {
-      "angla": [
-        "shop",
-        "store"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Bazaro",
+        "Butiko"
+      ]
     }
   },
   {
     "vorto": "tomo lape",
+    "sitelenpona": "tomo+lape",
     "traduko": {
-      "angla": [
-        "bedroom"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Dormoĉambro"
+      ]
     }
   },
   {
     "vorto": "tomo lawa",
+    "sitelenpona": "tomo lawa",
     "traduko": {
-      "angla": [
-        "headquarters",
-        "courtroom"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Ĉefsidejo",
+        "Tribunalejo"
+      ]
     }
   },
   {
     "vorto": "tomo len",
+    "sitelenpona": "tomo+len",
     "traduko": {
-      "angla": [
-        "tent"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Tendo"
+      ]
+    }
+  },
+  {
+    "vorto": "tomo lili",
+    "sitelenpona": "tomo+lili",
+    "traduko": {
+      "substantivo": [
+        "Dometo"
+      ]
     }
   },
   {
     "vorto": "tomo lipu",
+    "sitelenpona": "tomo+lipu",
     "traduko": {
-      "angla": [
-        "library"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Biblioteko"
+      ]
     }
   },
   {
     "vorto": "tomo mani",
+    "sitelenpona": "tomo+mani",
     "traduko": {
-      "angla": [
-        "bank"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Banko"
+      ]
     }
   },
   {
     "vorto": "tomo moku",
+    "sitelenpona": "tomo moku",
     "traduko": {
-      "angla": [
-        "restaurant",
-        "kitchen"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kuirejo",
+        "Manĝejo",
+        "Restoracio"
+      ]
     }
   },
   {
     "vorto": "tomo musi",
+    "sitelenpona": "tomo musi",
     "traduko": {
-      "angla": [
-        "theatre"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Teatro"
+      ]
     }
   },
   {
     "vorto": "tomo pali",
+    "sitelenpona": "tomo pali",
     "traduko": {
-      "angla": [
-        "studio",
-        "factory",
-        "workshop",
-        "office"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Fabriko",
+        "Laborejo",
+        "Oficejo",
+        "Studio"
+      ]
     }
   },
   {
     "vorto": "tomo pi pali sona",
+    "sitelenpona": "tomo pi++pali sona",
     "traduko": {
-      "angla": [
-        "lab"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Laboratorio"
+      ]
     }
   },
   {
     "vorto": "tomo pi pona sijelo",
+    "sitelenpona": "tomo pi++pona sijelo",
     "traduko": {
-      "angla": [
-        "clinic",
-        "hospital"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Malsanulejo"
+      ]
     }
   },
   {
     "vorto": "tomo pi sitelen tawa",
+    "sitelenpona": "tomo pi++sitelen tawa",
     "traduko": {
-      "angla": [
-        "cinema"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Kinejo"
+      ]
     }
   },
   {
     "vorto": "tomo pi tomo tawa",
+    "sitelenpona": "tomo pi++tomo tawa",
     "traduko": {
-      "angla": [
-        "garage"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Garaĝo"
+      ]
     }
   },
   {
     "vorto": "tomo sewi",
+    "sitelenpona": "tomo sewi",
     "traduko": {
-      "angla": [
-        "temple",
-        "church"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Preĝejo",
+        "Templo"
+      ]
     }
   },
   {
     "vorto": "tomo sona",
+    "sitelenpona": "tomo sona",
     "traduko": {
-      "angla": [
-        "academy",
-        "classroom",
-        "school"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Akademio",
+        "Klasĉambro",
+        "Lernejo",
+        "Universitato"
+      ]
     }
   },
   {
     "vorto": "tomo suli",
+    "sitelenpona": "tomo+suli",
     "traduko": {
-      "angla": [
-        "tower"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Turo"
+      ]
     }
   },
   {
     "vorto": "tomo tawa",
+    "sitelenpona": "tomo tawa",
     "traduko": {
-      "angla": [
-        "car",
-        "vehicle",
-        "wagon",
-        "van",
-        "shuttle"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Aŭto",
+        "Vagono",
+        "Veturilo"
+      ]
     }
   },
   {
     "vorto": "tomo tawa kon",
+    "sitelenpona": "tomo tawa kon",
     "traduko": {
-      "angla": [
-        "plane",
-        "aircraft"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Aviadilo",
+        "Flugilo"
+      ]
     }
   },
   {
     "vorto": "tomo tawa telo",
+    "sitelenpona": "tomo tawa telo",
     "traduko": {
-      "angla": [
-        "boat",
-        "ship"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Boato",
+        "Ŝipo"
+      ]
     }
   },
   {
     "vorto": "tomo telo",
+    "sitelenpona": "tomo telo",
     "traduko": {
-      "angla": [
-        "bathroom"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Necesejo",
+        "Banĉambro"
+      ]
     }
   },
   {
     "vorto": "tomo waso",
+    "sitelenpona": "tomo waso",
     "traduko": {
-      "angla": [
-        "nest"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Nesto"
+      ]
     }
   },
   {
     "vorto": "tonsi",
+    "sitelenpona": "tonsi",
     "traduko": {
-      "angla": [
-        "non-binary person",
-        "transgender person",
-        "gender non-conforming person"
+      "pronomo": [
+        "Ĝi",
+        "Ri"
       ],
-      "esperanto": [],
-      "hispana": []
+      "difino": [
+        "Pronomo neduuma, genre nekonforma",
+        "transseksa, transgenra, necisseksa"
+      ]
     }
   },
   {
     "vorto": "tu",
+    "sitelenpona": "tu",
     "traduko": {
-      "angla": [
-        "two",
-        "pair",
-        "double",
-        "both",
-        "twice",
-        "couple"
+      "nombro": [
+        "Du"
       ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Paro"
+      ],
+      "adjektivo": [
+        "Duobla"
+      ],
+      "verbo": [
+        "Duobligi",
+        "Duigi"
+      ],
+      "adverbo": [
+        "Dufoje"
+      ]
     }
   },
   {
     "vorto": "tu tu",
+    "sitelenpona": "tu tu",
     "traduko": {
-      "angla": [
-        "four"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Kvar"
+      ]
     }
   },
   {
     "vorto": "tu wan",
+    "sitelenpona": "tu wan",
     "traduko": {
-      "angla": [
-        "three"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "nombro": [
+        "Tri"
+      ]
     }
   },
   {
     "vorto": "unpa",
+    "sitelenpona": "unpa",
     "traduko": {
-      "angla": [
-        "sex",
-        "sexual",
-        "sexually",
-        "fucking"
+      "substantivo": [
+        "Seksumo",
+        "Amoro",
+        "Fikado"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Erokita",
+        "Seksuma",
+        "Amora"
+      ],
+      "verbo": [
+        "Seksumi",
+        "Amori",
+        "kifi"
+      ]
     }
   },
   {
     "vorto": "uta",
+    "sitelenpona": "uta",
     "traduko": {
-      "angla": [
-        "mouth",
-        "lip",
-        "kiss",
-        "jaw"
+      "substantivo": [
+        "Buŝo",
+        "Lipoj",
+        "Makzelo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Buŝa"
+      ]
     }
   },
   {
     "vorto": "utala",
+    "sitelenpona": "utala",
     "traduko": {
-      "angla": [
-        "fight",
-        "fighting",
-        "battle",
-        "combat",
-        "conflict",
-        "contend",
-        "assault",
-        "attack",
-        "versus",
-        "violent",
-        "compete",
-        "challenge",
-        "violence",
-        "hit",
-        "struggle",
-        "war",
-        "contest",
-        "oppose",
-        "dispute"
+      "substantivo": [
+        "Atako",
+        "Batalado",
+        "Batalo",
+        "Defio",
+        "Disputo",
+        "Konflikto",
+        "Malharmonio",
+        "Perforto"
       ],
-      "esperanto": [],
-      "hispana": []
+      "verbo": [
+        "Ataki",
+        "Atenci",
+        "Batali",
+        "Bati",
+        "Frapi",
+        "Konkuri"
+      ]
     }
   },
   {
     "vorto": "utala ala",
+    "sitelenpona": "utala ala",
     "traduko": {
-      "angla": [
-        "peace"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Paco"
+      ]
     }
   },
   {
     "vorto": "walo",
+    "sitelenpona": "walo",
     "traduko": {
-      "angla": [
-        "white",
-        "pale"
+      "koloro": [
+        "Blanka"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Pala"
+      ]
     }
   },
   {
     "vorto": "wan",
+    "sitelenpona": "wan",
     "traduko": {
-      "angla": [
-        "one",
-        "united",
-        "unity",
-        "combined",
-        "unite",
-        "single",
-        "unit",
-        "blend",
-        "combine",
-        "union"
+      "nombro": [
+        "Unu"
       ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Elemento",
+        "Ero",
+        "Parto",
+        "Peco"
+      ],
+      "adjektivo": [
+        "Kombinita",
+        "Unuiginta",
+        "Unuiĝinta",
+        "Ununura"
+      ],
+      "verbo": [
+        "Unuigi"
+      ]
     }
   },
   {
     "vorto": "waso",
+    "sitelenpona": "waso",
     "traduko": {
-      "angla": [
-        "bird",
-        "chicken"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Birdo"
+      ]
     }
   },
   {
     "vorto": "waso telo",
+    "sitelenpona": "waso telo",
     "traduko": {
-      "angla": [
-        "duck"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "substantivo": [
+        "Anaso"
+      ]
     }
   },
   {
     "vorto": "wawa",
+    "sitelenpona": "wawa",
     "traduko": {
-      "angla": [
-        "strength",
-        "power",
-        "powerful",
-        "strong",
-        "energy",
-        "strongly",
-        "force",
-        "intense",
-        "bold",
-        "intensity",
-        "reinforce",
-        "strengthen",
-        "firmly",
-        "charge",
-        "brave",
-        "rapid",
-        "electrical"
+      "substantivo": [
+        "Energio",
+        "Forteco",
+        "Fortikeco",
+        "Forto",
+        "Potenco",
+        "Vigleco"
       ],
-      "esperanto": [
-        "fort-",
-        "pov-",
-        "energi-"
+      "adjektivo": [
+        "Aŭdaca",
+        "Elektra",
+        "Forta",
+        "Intensa",
+        "Kuraĝa",
+        "Memfida",
+        "Potenca",
+        "Rapida"
       ],
-      "hispana": []
+      "verbo": [
+        "Fortigi",
+        "Fortikigi",
+        "Vigligi"
+      ]
     }
   },
   {
     "vorto": "wawa ala",
+    "sitelenpona": "wawa+ala",
     "traduko": {
-      "angla": [
-        "weak",
-        "weakness"
-      ],
-      "esperanto": [
-        "malfort-"
-      ],
-      "hispana": [
-        "debil",
-        "debilidad"
+      "adjektivo": [
+        "Malforta"
       ]
     }
   },
   {
     "vorto": "weka",
+    "sitelenpona": "weka",
     "traduko": {
-      "angla": [
-        "rid",
-        "removal",
-        "remove",
-        "eliminate",
-        "apart",
-        "omit",
-        "missing",
-        "away",
-        "absence",
-        "loss",
-        "delete",
-        "dismiss",
-        "distant",
-        "leave",
-        "abandon",
-        "far",
-        "vanish",
-        "disappear",
-        "avoid",
-        "out",
-        "exclude",
-        "escape",
-        "distance"
+      "substantivo": [
+        "Foresto",
+        "Forigo",
+        "Manko",
+        "Perdo"
       ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Fora",
+        "Fora",
+        "Forestanta",
+        "Ignorata",
+        "Mankanta",
+        "Neĉeestanta"
+      ],
+      "verbo": [
+        "Ekskludi",
+        "Eskapi",
+        "Eviti",
+        "Forigi",
+        "Forlasi",
+        "Forĵeti",
+        "Malaperi",
+        "Manki"
+      ]
     }
   },
   {
     "vorto": "weka sona",
+    "sitelenpona": "weka sona",
     "traduko": {
-      "angla": [
-        "forget"
-      ],
-      "esperanto": [
-        "forges-"
-      ],
-      "hispana": [
-        "olvidar"
+      "verbo": [
+        "Forgesi"
       ]
     }
   },
   {
     "vorto": "wile",
+    "sitelenpona": "wile",
     "traduko": {
-      "angla": [
-        "want",
-        "wish",
-        "intend",
-        "require",
-        "need",
-        "desire",
-        "intention",
-        "willing",
-        "will",
-        "intent",
-        "preference",
-        "motivation",
-        "necessity",
-        "yearn",
-        "ought",
-        "necessary",
-        "hope",
-        "willingness",
-        "ambition",
-        "prefer",
-        "requirement",
-        "required",
-        "must",
-        "obligation",
-        "decision",
-        "should",
-        "demand",
-        "eager",
-        "request",
-        "agenda"
+      "substantivo": [
+        "Ambicio",
+        "Devo",
+        "Deziro",
+        "Espero",
+        "Instigo",
+        "Intenco",
+        "Neceso",
+        "Peto",
+        "Prefero",
+        "Sopiro",
+        "Tagordo",
+        "Volo"
       ],
-      "esperanto": [
-        "vol-",
-        "dezir-",
-        "bezon-",
-        "cel-",
-        "prefer-"
+      "adjektivo": [
+        "Bezonata",
+        "Deviga",
+        "Necesa",
+        "Volanta"
       ],
-      "hispana": []
+      "verbo": [
+        "Bezoni",
+        "Devi",
+        "Deziri",
+        "Emi",
+        "Esperi",
+        "Intenci",
+        "Postuli",
+        "Voli"
+      ]
     }
   },
   {
     "vorto": "wile ala",
+    "sitelenpona": "wile+ala",
     "traduko": {
-      "angla": [
-        "reluctant"
-      ],
-      "esperanto": [],
-      "hispana": []
+      "adjektivo": [
+        "Malvolonta"
+      ]
+    }
+  },
+  {
+    "vorto": "wile ike",
+    "sitelenpona": "wile ike",
+    "traduko": {
+      "adjektivo": [
+        "Malbonfarema",
+        "Malbonfara",
+        "Malbonfarata"
+      ]
+    }
+  },
+  {
+    "vorto": "wile lape",
+    "sitelenpona": "wile lape",
+    "traduko": {
+      "adjektivo": [
+        "Lacema",
+        "Ripozema",
+        "Dormema"
+      ]
     }
   },
   {
     "vorto": "wile moku",
+    "sitelenpona": "wile moku",
     "traduko": {
-      "angla": [
-        "hunger",
-        "hungry"
+      "substantivo": [
+        "Malsato"
       ],
-      "esperanto": [
-        "malsato"
-      ],
-      "hispana": [
-        "hambre"
+      "adjektivo": [
+        "Malsata"
+      ]
+    }
+  },
+  {
+    "vorto": "wile moku e telo",
+    "sitelenpona": "wile moku e telo",
+    "traduko": {
+      "verbo": [
+        "Soifi"
+      ]
+    }
+  },
+  {
+    "vorto": "wile mute",
+    "sitelenpona": "wile mute",
+    "traduko": {
+      "verbo": [
+        "Volegi"
+      ]
+    }
+  },
+  {
+    "vorto": "wile pona",
+    "sitelenpona": "wile pona",
+    "traduko": {
+      "verbo": [
+        "Bonfarema",
+        "Bonintencema"
       ]
     }
   },
   {
     "vorto": "wile sona",
+    "sitelenpona": "wile sona",
     "traduko": {
-      "angla": [
-        "curiosity",
-        "inquiry",
-        "question",
-        "curious"
+      "substantivo": [
+        "Scivolemo",
+        "Enketo",
+        "Demando"
       ],
-      "esperanto": [
-        "scivolemo",
-        "demando",
-        "demandi"
-      ],
-      "hispana": [
-        "curiosidad",
-        "perguntar",
-        "curioso",
-        "pregunta"
+      "adjektivo": [
+        "Scivola",
+        "Scivolema"
       ]
     }
   },
   {
     "vorto": "yupekosi",
+    "sitelenpona": "",
     "traduko": {
-      "angla": [
-        "change a creative work and unintentionally make it worse"
-      ],
-      "esperanto": [
+      "difino": [
         "Fari kreema laboro kaj senvole malbonigi ĝin"
-      ],
-      "hispana": [
-        "cambiar un trabajo creativo e involuntariamente hacerlo peor"
       ]
     }
   }
