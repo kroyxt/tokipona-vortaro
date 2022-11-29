@@ -1,5 +1,11 @@
 <script>
+  import { createEventDispatcher } from "svelte";
+  import Butono from "../fasado/Butono.svelte";
+
+  let dispatch = createEventDispatcher();
+
   export let vorto = {};
+  $: oficiala = vorto.vorto.split(/\s+/).length === 1 ? true : false;
 
   function subtitolo(traduko) {
     return traduko.charAt(0).toUpperCase() + traduko.slice(1);
@@ -11,10 +17,7 @@
 
 </script>
 
-<article
-  class="vorto"
-  style={vorto.vorto.split(/\s+/).length == 1 ? "order: -1" : ""}
->
+<article class="vorto {oficiala == true ? 'vorto__oficiala': 'no'}">
   <header class="vorto__kapo">
     <h1 class="vorto__titolo">{vorto.vorto}</h1>
     <span class="linja-pona vorto__sitelen">{vorto.sitelenpona}</span>
@@ -26,6 +29,11 @@
         <p>{tradukoj(traduko)}.</p>
       </li>
     {/each}
+    {#if oficiala}
+      <footer class="vorto__piedo">
+        <Butono on:click={() => dispatch('kunmeto', {vorto: vorto.vorto})}>Kunmetaj vortoj kun {vorto.vorto}</Butono>
+      </footer>
+    {/if}
     <!--<p>{vorto.tradukoj.angla.join(", ")}.</p>-->
   </ul>
 </article>
@@ -74,14 +82,29 @@
     padding-left: 10px;
     border-left: 2px solid white;
   }
+  .vorto__oficiala {
+    order: -1;
+  }
+  .vorto__piedo {
+    margin-top: 20px;
+  }
 
   @media (min-width: 600px) {
+    .vorto__oficiala {
+      grid-column: 1 / span 2;
+    }
+  }
+
+  @media (min-width: 801px) {
     .vorto__kapo {
       justify-content: space-between;
       flex-direction: initial;
     }
     .vorto__sitelen {
       order: initial;
+    }
+    .vorto__titolo {
+      max-width: 250px;
     }
   }
 </style>

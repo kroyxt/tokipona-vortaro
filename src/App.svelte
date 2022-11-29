@@ -4,22 +4,34 @@
 
   import Vortaro from "./vortaro/vortaro.json";
 
-  let vortaro = [];
+  let vortaro = Vortaro.filter((vorto) => vorto.vorto.split(/\s+/).length == 1);
 
   function gxistadiguVortaron(evento) {
-    vortaro = Vortaro.filter((novvorto) =>
-      //novvorto.vorto.split(/\s+|\./).includes(evento.detail.vorto.toLowerCase())
-      novvorto.vorto.includes(evento.detail.vorto.toLowerCase())
-    );
+    let enmetitaVorto = evento.detail.vorto;
+
+    if (enmetitaVorto == null || enmetitaVorto == "") {
+      vortaro = Vortaro.filter((vorto) => vorto.vorto.split(/\s+/).length == 1);
+    } else {
+      vortaro = Vortaro.filter((novvorto) =>
+        novvorto.vorto.includes(enmetitaVorto.toLowerCase())
+      );
+    }
+    document.body.scrollIntoView();
   }
 
+  function montruKumetajnVortojn(evento) {
+    vortaro = Vortaro.filter((novvorto) =>
+      novvorto.vorto.split(/\s+|\./).includes(evento.detail.vorto.toLowerCase())
+    );
+    document.body.scrollIntoView();
+  }
 </script>
 
 <Kapo on:sercxuVorton={gxistadiguVortaron} />
 <main class="ujo">
   <section class="vortujo">
     {#each vortaro as vortoj}
-      <Vorto vorto={vortoj} />
+      <Vorto vorto={vortoj} on:kunmeto={montruKumetajnVortojn} />
     {/each}
   </section>
 </main>
@@ -27,9 +39,13 @@
 <style>
   .vortujo {
     display: grid;
-    flex-direction: column;
     gap: 20px;
     margin: 20px auto;
     padding: 0 30px 0 20px;
+  }
+  @media (min-width: 768px) {
+    .vortujo {
+      grid-template-columns: repeat(2, 1fr);
+    }
   }
 </style>
