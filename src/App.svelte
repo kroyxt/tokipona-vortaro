@@ -16,18 +16,22 @@
         novvorto.vorto.includes(enmetitaVorto.toLowerCase())
       );
     }
-    document.body.scrollIntoView();
+    supreniru();
   }
 
   function montruKumetajnVortojn(evento) {
     vortaro = Vortaro.filter((novvorto) =>
       novvorto.vorto.split(/\s+|\./).includes(evento.detail.vorto.toLowerCase())
     );
+    supreniru();
+  }
+
+  function supreniru() {
     document.body.scrollIntoView();
   }
 </script>
 
-<Kapo on:sercxuVorton={gxistadiguVortaron} />
+<Kapo on:supreniru={supreniru} on:sercxuVorton={gxistadiguVortaron} />
 <main class="ujo">
   <section class="vortujo">
     {#each vortaro as vortoj}

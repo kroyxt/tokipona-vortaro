@@ -34,7 +34,6 @@
         <Butono on:click={() => dispatch('kunmeto', {vorto: vorto.vorto})}>Kunmetaj vortoj kun {vorto.vorto}</Butono>
       </footer>
     {/if}
-    <!--<p>{vorto.tradukoj.angla.join(", ")}.</p>-->
   </ul>
 </article>
 

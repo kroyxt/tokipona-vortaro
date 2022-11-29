@@ -22,8 +22,7 @@
 
 <header class="kapo">
   <div class="ujo">
-    <h1 class="linja-pona kapo__titolo">lipu+nimi pi+toki+pona</h1>
-    <!--<h2 class="kapo__titolo">lipu nimi pi toki pona</h2>-->
+    <h1 on:click={() => dispatch('supreniru', {})} class="linja-pona kapo__titolo">lipu+nimi pi+toki+pona</h1>
     <section class="kapo__sercxo">
       <Enigo bind:vorto on:keypress={enter}/>
       <Butono on:click={sercxuVorton}
@@ -46,8 +45,9 @@
   .kapo__titolo {
     margin-bottom: 30px;
     text-align: center;
-    font-size: 55px;
+    font-size: 4rem;
     font-weight: normal;
+    cursor: pointer;
   }
   .kapo__sercxo {
     display: flex;
@@ -55,5 +55,12 @@
     align-items: center;
     gap: 20px;
     margin-bottom: 30px;
+  }
+  @media (min-width: 801px) {
+    .kapo__titolo {
+      height: 7rem;
+      line-height: 7rem;
+      font-size: 7rem;
+    }
   }
 </style>
