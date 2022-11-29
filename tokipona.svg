@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.43703704"
+     inkscape:cx="570.88983"
+     inkscape:cy="663.55932"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="1080,540"
+       orientation="0,-1"
+       id="guide1982"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008559;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+       id="rect500"
+       width="1080"
+       height="1080"
+       x="0"
+       y="0"
+       ry="540" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:834.875px;line-height:1.25;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#ffffff;stroke-width:17.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="191.95155"
+       y="761.28979"
+       id="text186"
+       transform="scale(0.99982523,1.0001748)"><tspan
+         sodipodi:role="line"
+         id="tspan184"
+         x="191.95155"
+         y="761.28979"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:17.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none">toki+pona</tspan></text>
+  </g>
+</svg>
