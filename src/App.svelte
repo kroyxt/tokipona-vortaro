@@ -26,12 +26,17 @@
     supreniru();
   }
 
+  function iruHejmpagxen() {
+    vortaro = Vortaro.filter((vorto) => vorto.vorto.split(/\s+/).length == 1);
+    supreniru();
+  }
+
   function supreniru() {
     document.body.scrollIntoView();
   }
 </script>
 
-<Kapo on:supreniru={supreniru} on:sercxuVorton={gxistadiguVortaron} />
+<Kapo on:supreniru={iruHejmpagxen} on:sercxuVorton={gxistadiguVortaron} />
 <main class="ujo">
   <section class="vortujo">
     {#each vortaro as vortoj}
