@@ -5,19 +5,19 @@
   let dispatch = createEventDispatcher();
 
   export let vorto = {};
-  $: oficiala = vorto.vorto.split(/\s+/).length === 1 ? true : false;
+  $: cxuPuVorto = vorto.vorto.split(/\s+/).length === 1 ? true : false;
 
-  function subtitolo(traduko) {
+  function obtenuTradukanSpecon(traduko) {
     return traduko.charAt(0).toUpperCase() + traduko.slice(1);
   }
 
-  function tradukoj(traduko) {
+  function obtenuTradukon(traduko) {
     return vorto.traduko[traduko].join(", ");
   }
 
 </script>
 
-<article class="vorto {oficiala == true ? 'vorto__oficiala': 'no'}">
+<article class="vorto {cxuPuVorto == true ? 'vorto__oficiala': 'no'}">
   <header class="vorto__kapo">
     <h1 class="vorto__titolo">{vorto.vorto}</h1>
     <span class="linja-pona vorto__sitelen">{vorto.sitelenpona}</span>
@@ -25,11 +25,11 @@
   <ul class="vorto__tradukujo">
     {#each Object.keys(vorto.traduko) as traduko}
       <li class="vorto__traduko">
-        <h2 class="vorto__subtitolo">{subtitolo(traduko)}:</h2>
-        <p>{tradukoj(traduko)}.</p>
+        <h2 class="vorto__subtitolo">{obtenuTradukanSpecon(traduko)}:</h2>
+        <p>{obtenuTradukon(traduko)}.</p>
       </li>
     {/each}
-    {#if oficiala}
+    {#if cxuPuVorto}
       <footer class="vorto__piedo">
         <Butono on:click={() => dispatch('kunmeto', {vorto: vorto.vorto})}>Kunmetaj vortoj kun {vorto.vorto}</Butono>
       </footer>

@@ -1,8 +1,8 @@
 <script>
-  export let vorto = "";
+  export let enmetitaVorto = "";
 </script>
 
-<input on:keypress class="enigo" bind:value={vorto} />
+<input on:keypress class="enigo" bind:value={enmetitaVorto} />
 
 <style>
   .enigo {

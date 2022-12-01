@@ -4,34 +4,34 @@
 
   import Vortaro from "./vortaro/vortaro.json";
 
-  let vortaro = Vortaro.filter((vorto) => vorto.vorto.split(/\s+/).length == 1);
+  let vortoj = Vortaro.filter((vorto) => vorto.vorto.split(/\s+/).length == 1);
 
   function gxistadiguVortaron(evento) {
     let enmetitaVorto = evento.detail.vorto;
 
     if (enmetitaVorto == null || enmetitaVorto == "") {
-      vortaro = Vortaro.filter((vorto) => vorto.vorto.split(/\s+/).length == 1);
+      vortoj = Vortaro.filter((vorto) => vorto.vorto.split(/\s+/).length == 1);
     } else {
-      vortaro = Vortaro.filter((novvorto) =>
+      vortoj = Vortaro.filter((novvorto) =>
         novvorto.vorto.includes(enmetitaVorto.toLowerCase())
       );
     }
-    supreniru();
+    iruSupren();
   }
 
   function montruKumetajnVortojn(evento) {
-    vortaro = Vortaro.filter((novvorto) =>
+    vortoj = Vortaro.filter((novvorto) =>
       novvorto.vorto.split(/\s+|\./).includes(evento.detail.vorto.toLowerCase())
     );
-    supreniru();
+    iruSupren();
   }
 
   function iruHejmpagxen() {
-    vortaro = Vortaro.filter((vorto) => vorto.vorto.split(/\s+/).length == 1);
-    supreniru();
+    vortoj = Vortaro.filter((vorto) => vorto.vorto.split(/\s+/).length == 1);
+    iruSupren();
   }
 
-  function supreniru() {
+  function iruSupren() {
     document.body.scrollIntoView();
   }
 </script>
@@ -39,8 +39,10 @@
 <Kapo on:supreniru={iruHejmpagxen} on:sercxuVorton={gxistadiguVortaron} />
 <main class="ujo">
   <section class="vortujo">
-    {#each vortaro as vortoj}
+    {#each vortoj as vortoj}
       <Vorto vorto={vortoj} on:kunmeto={montruKumetajnVortojn} />
+    {:else}
+      <h2 class="netrovita">No</h2>
     {/each}
   </section>
 </main>

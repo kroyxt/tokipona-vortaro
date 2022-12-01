@@ -5,29 +5,31 @@
 
   const dispatch = createEventDispatcher();
 
-  export let vorto = null;
-
+  export let enmetitaVorto = null;
 
   function sercxuVorton() {
-    dispatch("sercxuVorton", { vorto: vorto })
+    dispatch("sercxuVorton", { vorto: enmetitaVorto });
   }
 
-  function enter(e) {
+  function PremuJeEnter(e) {
     if (e.code == "Enter" || e.code == "NumpadEnter") {
       sercxuVorton();
     }
   }
-
 </script>
 
 <header class="kapo">
   <div class="ujo">
-    <h1 on:click={() => dispatch('supreniru', {})} class="linja-pona kapo__titolo">lipu+nimi pi+toki+pona</h1>
-    <section class="kapo__sercxo">
-      <Enigo bind:vorto on:keypress={enter}/>
-      <Butono on:click={sercxuVorton}
-      >Serĉu</Butono
+    <!-- svelte-ignore a11y-click-events-have-key-events -->
+    <h1
+      on:click={() => dispatch("supreniru", {})}
+      class="linja-pona kapo__titolo"
     >
+      lipu+nimi pi+toki+pona
+    </h1>
+    <section class="kapo__sercxo">
+      <Enigo bind:enmetitaVorto={enmetitaVorto} on:keypress={PremuJeEnter} />
+      <Butono on:click={sercxuVorton}>Serĉu</Butono>
     </section>
   </div>
 </header>
