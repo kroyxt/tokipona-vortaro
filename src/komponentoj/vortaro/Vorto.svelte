@@ -1,6 +1,7 @@
 <script>
   import { createEventDispatcher } from "svelte";
   import Butono from "../fasado/Butono.svelte";
+  import vortaro from "../../vortaro/vortaro.js";
 
   let dispatch = createEventDispatcher();
 
@@ -13,6 +14,11 @@
 
   function obtenuTradukon(traduko) {
     return vorto.traduko[traduko].join(", ");
+  }
+
+  function obtenuKunmetitanVorton() {
+    vortaro.obtenuKunmetitajnVortojn(vorto.vorto);
+    document.body.scrollIntoView();
   }
 
 </script>
@@ -31,7 +37,7 @@
     {/each}
     {#if cxuPuVorto}
       <footer class="vorto__piedo">
-        <Butono on:click={() => dispatch('kunmeto', {vorto: vorto.vorto})}>Kunmetaj vortoj kun {vorto.vorto}</Butono>
+        <Butono on:click={obtenuKunmetitanVorton}>Kunmetaj vortoj kun {vorto.vorto}</Butono>
       </footer>
     {/if}
   </ul>

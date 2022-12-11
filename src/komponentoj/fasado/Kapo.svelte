@@ -1,14 +1,23 @@
 <script>
   import Enigo from "./Enigo.svelte";
   import Butono from "./Butono.svelte";
-  import { createEventDispatcher } from "svelte";
-
-  const dispatch = createEventDispatcher();
+  import vortaro from "../../vortaro/vortaro.js";
 
   export let enmetitaVorto = null;
 
+  function iruHejmpagxen() {
+    vortaro.obtenuPuVortojn();
+    document.body.scrollIntoView();
+    enmetitaVorto = "";
+  }
+
   function sercxuVorton() {
-    dispatch("sercxuVorton", { vorto: enmetitaVorto });
+    if (enmetitaVorto == null || enmetitaVorto == "") {
+      vortaro.obtenuPuVortojn();
+    } else {
+      vortaro.filtruVortojn(enmetitaVorto);
+    }
+    document.body.scrollIntoView();
   }
 
   function PremuJeEnter(e) {
@@ -22,7 +31,7 @@
   <div class="ujo">
     <!-- svelte-ignore a11y-click-events-have-key-events -->
     <h1
-      on:click={() => dispatch("supreniru", {})}
+      on:click={iruHejmpagxen}
       class="linja-pona kapo__titolo"
     >
       lipu+nimi pi+toki+pona
