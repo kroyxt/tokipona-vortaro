@@ -1,17 +1,20 @@
 <script>
-  import { createEventDispatcher } from "svelte";
   import Butono from "../fasado/Butono.svelte";
   import vortaro from "../../vortaro/vortaro.js";
-
-  let dispatch = createEventDispatcher();
 
   export let vorto = {};
   $: cxuPuVorto = vorto.vorto.split(/\s+/).length === 1 ? true : false;
 
+  /**
+     * @param {string} traduko
+     */
   function obtenuTradukanSpecon(traduko) {
     return traduko.charAt(0).toUpperCase() + traduko.slice(1);
   }
 
+  /**
+     * @param {string} traduko
+     */
   function obtenuTradukon(traduko) {
     return vorto.traduko[traduko].join(", ");
   }

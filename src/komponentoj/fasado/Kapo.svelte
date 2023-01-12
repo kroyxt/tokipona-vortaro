@@ -20,6 +20,9 @@
     document.body.scrollIntoView();
   }
 
+  /**
+     * @param {{ code: string; }} e
+     */
   function PremuJeEnter(e) {
     if (e.code == "Enter" || e.code == "NumpadEnter") {
       sercxuVorton();

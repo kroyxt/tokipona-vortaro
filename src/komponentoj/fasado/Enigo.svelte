@@ -13,8 +13,9 @@
     box-shadow: 8px 8px 0 white;
     color: white;
     cursor: pointer;
-    font-family: "linja-pona";
-    font-size: 30px;
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
     height: 48px;
     width: 100%;
     outline: none;
@@ -32,7 +33,5 @@
     transform: translate(8px, 8px);
     box-shadow: 0px 0px;
     outline: none;
-    font-size: 16px;
-    font-weight: bold;
   }
 </style>
