@@ -1,0 +1,33 @@
+{
+  "vorto": "pini",
+  "sitelenpona": "pini",
+  "traduko": {
+    "substantivo": [
+      "Ekstremo",
+      "Fino",
+      "Pinto",
+      "Rezulto"
+    ],
+    "adjektivo": [
+      "Antaŭa",
+      "Farinta",
+      "Fermita",
+      "Fina",
+      "Finfarita",
+      "Finita",
+      "Finiĝinta",
+      "Lasta",
+      "Pasinta"
+    ],
+    "verbo": [
+      "Fermi",
+      "Fini",
+      "Halti",
+      "Kompletigi",
+      "Konkludi",
+      "Malŝalti",
+      "Nuligi",
+      "Ĉesi"
+    ]
+  }
+}

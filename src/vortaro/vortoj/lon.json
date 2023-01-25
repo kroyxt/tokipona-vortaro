@@ -1,0 +1,26 @@
+{
+  "vorto": "lon",
+  "sitelenpona": "lon",
+  "traduko": {
+    "substantivo": [
+      "Ekzsito",
+      "Partopreno",
+      "Pozicio",
+      "Ĉeesto"
+    ],
+    "adjektivo": [
+      "Aŭtenta",
+      "Ekzistanta",
+      "Fizika",
+      "Preciza",
+      "Reala",
+      "Vivanta",
+      "Ĝusta"
+    ],
+    "verbo": [
+      "Ekzisti",
+      "Vivi",
+      "Ĉeesti"
+    ]
+  }
+}

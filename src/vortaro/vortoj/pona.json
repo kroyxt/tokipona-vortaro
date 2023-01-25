@@ -1,0 +1,36 @@
+{
+  "vorto": "pona",
+  "sitelenpona": "pona",
+  "traduko": {
+    "substantivo": [
+      "Bono",
+      "Facileco",
+      "Korekto",
+      "Plibonigo",
+      "Simplo"
+    ],
+    "adjektivo": [
+      "Akceptebla",
+      "Amika",
+      "Bela",
+      "Bona",
+      "Etika",
+      "Helpema",
+      "Plaĉa",
+      "Simpla",
+      "Subtena",
+      "Sukcesa",
+      "Taŭga",
+      "Valida",
+      "Ĝusta"
+    ],
+    "verbo": [
+      "Korekti",
+      "Plibonigi",
+      "Resanigi",
+      "Ripari",
+      "Simpligi",
+      "Subteni"
+    ]
+  }
+}

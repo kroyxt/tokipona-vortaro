@@ -1,0 +1,26 @@
+{
+  "vorto": "mute",
+  "sitelenpona": "mute",
+  "traduko": {
+    "substantivo": [
+      "Kiomo",
+      "Kvanto",
+      "Multoblo",
+      "Plimulto"
+    ],
+    "adjektivo": [
+      "Diversa",
+      "Multa",
+      "Multnombra",
+      "Plura"
+    ],
+    "nombro": [
+      "Mil",
+      "Milionoj",
+      "Naŭ"
+    ],
+    "verbo": [
+      "Multigi"
+    ]
+  }
+}

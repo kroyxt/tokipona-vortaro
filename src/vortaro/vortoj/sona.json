@@ -1,0 +1,25 @@
+{
+  "vorto": "sona",
+  "sitelenpona": "sona",
+  "traduko": {
+    "substantivo": [
+      "Datumo",
+      "Informo",
+      "Rekono",
+      "Saĝo",
+      "Scio",
+      "Sperto"
+    ],
+    "adjektivo": [
+      "Inteligenta",
+      "Konata",
+      "Saĝa"
+    ],
+    "verbo": [
+      "Kompreni",
+      "Koni",
+      "Rekoni",
+      "Scii"
+    ]
+  }
+}

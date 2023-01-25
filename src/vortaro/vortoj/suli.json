@@ -1,0 +1,30 @@
+{
+  "vorto": "suli",
+  "sitelenpona": "suli",
+  "traduko": {
+    "substantivo": [
+      "Alteco",
+      "Graso",
+      "Graveco",
+      "Longeco",
+      "Maso",
+      "Pezo"
+    ],
+    "adjektivo": [
+      "Alta",
+      "Dika",
+      "Elstara",
+      "Granda",
+      "Grandega",
+      "Grava",
+      "Larĝa",
+      "Longa",
+      "Plenaĝa",
+      "Vasta"
+    ],
+    "verbo": [
+      "Grandigi",
+      "Longigi"
+    ]
+  }
+}

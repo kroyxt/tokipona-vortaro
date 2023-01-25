@@ -1,0 +1,36 @@
+{
+  "vorto": "wile",
+  "sitelenpona": "wile",
+  "traduko": {
+    "substantivo": [
+      "Ambicio",
+      "Devo",
+      "Deziro",
+      "Espero",
+      "Instigo",
+      "Intenco",
+      "Neceso",
+      "Peto",
+      "Prefero",
+      "Sopiro",
+      "Tagordo",
+      "Volo"
+    ],
+    "adjektivo": [
+      "Bezonata",
+      "Deviga",
+      "Necesa",
+      "Volanta"
+    ],
+    "verbo": [
+      "Bezoni",
+      "Devi",
+      "Deziri",
+      "Emi",
+      "Esperi",
+      "Intenci",
+      "Postuli",
+      "Voli"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "vorto": "pali",
+  "sitelenpona": "pali",
+  "traduko": {
+    "substantivo": [
+      "Agado",
+      "Ago",
+      "Aktiveco",
+      "Kariero",
+      "Konduto",
+      "Kreado",
+      "Laboro",
+      "Penado",
+      "Prilaborado",
+      "Produktado",
+      "Profesio",
+      "Projekto"
+    ],
+    "adjektivo": [
+      "Aga",
+      "Aktiva",
+      "Faranta",
+      "Funkcia",
+      "Funkcianta"
+    ],
+    "verbo": [
+      "Agi",
+      "Disvolvi",
+      "Fabriki",
+      "Fari",
+      "Funkcii",
+      "Generi",
+      "Konstrui",
+      "Krei",
+      "Plenumi",
+      "Prepari",
+      "Prilabori",
+      "Produkti"
+    ]
+  }
+}

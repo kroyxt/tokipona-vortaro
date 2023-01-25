@@ -1,0 +1,37 @@
+{
+  "vorto": "pakala",
+  "sitelenpona": "pakala",
+  "traduko": {
+    "substantivo": [
+      "Akcidento",
+      "Damaĝo",
+      "Detruo",
+      "Eraro",
+      "Fiasko",
+      "Fuŝo",
+      "Malsukceso",
+      "Ruino",
+      "Vundo"
+    ],
+    "adjektivo": [
+      "Detruita",
+      "Difektita",
+      "Malbenita",
+      "Rompita",
+      "Vundita"
+    ],
+    "verbo": [
+      "Damaĝi",
+      "Damaĝi",
+      "Disfali",
+      "Fuŝi",
+      "Fuŝiĝi",
+      "Rompi",
+      "Rompiĝi",
+      "Vundi"
+    ],
+    "interjekcio": [
+      "Fek!"
+    ]
+  }
+}

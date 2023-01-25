@@ -1,0 +1,44 @@
+{
+  "vorto": "toki",
+  "sitelenpona": "toki",
+  "traduko": {
+    "substantivo": [
+      "Deklaro",
+      "Dialogo",
+      "Diskonigo",
+      "Diskuto",
+      "Esprimo",
+      "Intervjuo",
+      "Komento",
+      "Komento",
+      "Komunikado",
+      "Konversacio",
+      "Lingvo",
+      "Mesaĝo",
+      "Parolado",
+      "Propono",
+      "Rakonto",
+      "Raporto",
+      "Respondo",
+      "Rimarko",
+      "Saluto"
+    ],
+    "adjektivo": [
+      "Komunika",
+      "Lingva",
+      "Parola"
+    ],
+    "verbo": [
+      "Atesti",
+      "Babili",
+      "Diri",
+      "Diskuti",
+      "Intervjui",
+      "Komuniki",
+      "Konversacii",
+      "Paroli",
+      "Saluti",
+      "Voki"
+    ]
+  }
+}

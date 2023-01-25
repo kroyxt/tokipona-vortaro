@@ -1,0 +1,25 @@
+{
+  "vorto": "telo",
+  "sitelenpona": "telo",
+  "traduko": {
+    "substantivo": [
+      "Akvo",
+      "Fluido",
+      "Likvaĵo",
+      "Likvo",
+      "Saŭco",
+      "Suko",
+      "Trinkaĵo"
+    ],
+    "adjektivo": [
+      "Akva",
+      "Likva",
+      "Saŭca",
+      "Suka"
+    ],
+    "verbo": [
+      "Akvumi",
+      "Lavi per akvo"
+    ]
+  }
+}

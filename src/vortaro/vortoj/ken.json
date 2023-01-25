@@ -1,0 +1,31 @@
+{
+  "vorto": "ken",
+  "sitelenpona": "ken",
+  "traduko": {
+    "substantivo": [
+      "Eblo",
+      "Kapablo",
+      "Permeso",
+      "Potencialo",
+      "Povo",
+      "Probablo",
+      "Rajto",
+      "Verŝajneco",
+      "Ŝanco"
+    ],
+    "adjektivo": [
+      "Ebla",
+      "Kapabla",
+      "Libera",
+      "Pova",
+      "Rajta"
+    ],
+    "verbo": [
+      "Ebligi",
+      "Kapabli",
+      "Permesi",
+      "Povi",
+      "Rajtigi"
+    ]
+  }
+}

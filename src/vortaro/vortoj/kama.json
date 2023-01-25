@@ -1,0 +1,34 @@
+{
+  "vorto": "kama",
+  "sitelenpona": "kama",
+  "traduko": {
+    "substantivo": [
+      "Evento",
+      "Hazardo",
+      "Komenco",
+      "Okazo",
+      "Veno"
+    ],
+    "adjektivo": [
+      "Alvenanta",
+      "Estonteca",
+      "Venanta",
+      "Venonta",
+      "Vokita"
+    ],
+    "verbo": [
+      "Agi por veni al iu stato",
+      "Alveni",
+      "Aperi",
+      "Iĝi",
+      "Okazi",
+      "Sukcesi",
+      "Veni",
+      "Venigi"
+    ],
+    "afikso": [
+      "-iĝ",
+      "Ek-"
+    ]
+  }
+}

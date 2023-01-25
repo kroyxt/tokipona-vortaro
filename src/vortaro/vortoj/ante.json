@@ -1,0 +1,30 @@
+{
+  "vorto": "ante",
+  "sitelenpona": "ante",
+  "traduko": {
+    "substantivo": [
+      "Alternativo",
+      "Diferenco",
+      "Konvertiĝo",
+      "Malsamenco",
+      "Transformo",
+      "Variaĵo",
+      "Ĝustigo",
+      "Ŝaltilo"
+    ],
+    "adjektivo": [
+      "Alia",
+      "Malsama",
+      "Ŝanĝita"
+    ],
+    "verbo": [
+      "Alligi",
+      "Anstataŭgi",
+      "Konverti",
+      "Modifi",
+      "Redakti",
+      "Transformi",
+      "Ŝanĝi"
+    ]
+  }
+}

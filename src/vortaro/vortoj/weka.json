@@ -1,0 +1,30 @@
+{
+  "vorto": "weka",
+  "sitelenpona": "weka",
+  "traduko": {
+    "substantivo": [
+      "Foresto",
+      "Forigo",
+      "Manko",
+      "Perdo"
+    ],
+    "adjektivo": [
+      "Fora",
+      "Fora",
+      "Forestanta",
+      "Ignorata",
+      "Mankanta",
+      "Neĉeestanta"
+    ],
+    "verbo": [
+      "Ekskludi",
+      "Eskapi",
+      "Eviti",
+      "Forigi",
+      "Forlasi",
+      "Forĵeti",
+      "Malaperi",
+      "Manki"
+    ]
+  }
+}

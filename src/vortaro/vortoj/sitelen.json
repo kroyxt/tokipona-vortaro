@@ -1,0 +1,24 @@
+{
+  "vorto": "sitelen",
+  "sitelenpona": "sitelen",
+  "traduko": {
+    "substantivo": [
+      "Bildo",
+      "Desegnaĵo",
+      "Foto",
+      "Grafiko",
+      "Ilustraĵo",
+      "Pentraĵo",
+      "Portreto",
+      "Simbolo",
+      "Skribado"
+    ],
+    "verbo": [
+      "Desegni",
+      "Desegni",
+      "Ilustri",
+      "Pentri",
+      "Skribi"
+    ]
+  }
+}

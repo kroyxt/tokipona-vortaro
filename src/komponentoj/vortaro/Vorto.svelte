@@ -71,6 +71,7 @@
   }
   .vorto__titolo {
     font-size: 30px;
+    line-height: 30px;
   }
   .vorto__sitelen {
     font-size: 40px;

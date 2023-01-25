@@ -1,0 +1,25 @@
+{
+  "vorto": "insa",
+  "sitelenpona": "insa",
+  "traduko": {
+    "substantivo": [
+      "Centro",
+      "Eno",
+      "Interna Mondo",
+      "Interno",
+      "Kerno",
+      "Stomako",
+      "Ventro"
+    ],
+    "adjektivo": [
+      "Centra",
+      "Ena",
+      "Interna",
+      "Meza"
+    ],
+    "prepozicio": [
+      "En",
+      "Interne"
+    ]
+  }
+}
